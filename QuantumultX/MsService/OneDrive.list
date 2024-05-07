@@ -1,0 +1,17 @@
+HOST-KEYWORD,1drv,Ⓜ️ 微软服务
+HOST-KEYWORD,onedrive,Ⓜ️ 微软服务
+HOST-KEYWORD,skydrive,Ⓜ️ 微软服务
+HOST-SUFFIX,1drv.com,Ⓜ️ 微软服务
+HOST-SUFFIX,livefilestore.com,Ⓜ️ 微软服务
+HOST-SUFFIX,oneclient.sfx.ms,Ⓜ️ 微软服务
+HOST-SUFFIX,onedrive.com,Ⓜ️ 微软服务
+HOST-SUFFIX,onedrive.live.com,Ⓜ️ 微软服务
+HOST-SUFFIX,photos.live.com,Ⓜ️ 微软服务
+HOST-SUFFIX,sharepoint.com,Ⓜ️ 微软服务
+HOST-SUFFIX,sharepointonline.com,Ⓜ️ 微软服务
+HOST-SUFFIX,skydrive.wns.windows.com,Ⓜ️ 微软服务
+HOST-SUFFIX,spoprod-a.akamaihd.net,Ⓜ️ 微软服务
+HOST-SUFFIX,storage.live.com,Ⓜ️ 微软服务
+HOST-SUFFIX,storage.msn.com,Ⓜ️ 微软服务
+PROCESS-NAME,OneDrive,Ⓜ️ 微软服务
+PROCESS-NAME,OneDriveUpdater,Ⓜ️ 微软服务
