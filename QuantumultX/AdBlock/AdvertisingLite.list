@@ -1244,6 +1244,8 @@ HOST,adcash.com,🆎 AdBlock
 HOST,adcastplus.net,🆎 AdBlock
 HOST,adcde.com,🆎 AdBlock
 HOST,adcdn.hpplay.cn,🆎 AdBlock
+HOST,adcdn.tencentmusic.com,🆎 AdBlock
+HOST,adcdn6.tencentmusic.com,🆎 AdBlock
 HOST,adcdnx.com,🆎 AdBlock
 HOST,adcell.com,🆎 AdBlock
 HOST,adcell.de,🆎 AdBlock
@@ -1259,6 +1261,7 @@ HOST,adclear.net,🆎 AdBlock
 HOST,adclerks.com,🆎 AdBlock
 HOST,adclick.lv,🆎 AdBlock
 HOST,adclick.pk,🆎 AdBlock
+HOST,adclick.tencentmusic.com,🆎 AdBlock
 HOST,adclickafrica.com,🆎 AdBlock
 HOST,adclickmedia.com,🆎 AdBlock
 HOST,adclicks.io,🆎 AdBlock
@@ -1316,6 +1319,7 @@ HOST,adexchangemachine.com,🆎 AdBlock
 HOST,adexchangeprediction.com,🆎 AdBlock
 HOST,adexchangetracker.com,🆎 AdBlock
 HOST,adexcite.com,🆎 AdBlock
+HOST,adexpo.tencentmusic.com,🆎 AdBlock
 HOST,adexprts.com,🆎 AdBlock
 HOST,adextent.com,🆎 AdBlock
 HOST,adezrvjcbyu.com,🆎 AdBlock
@@ -13280,6 +13284,7 @@ HOST,moneytec.com,🆎 AdBlock
 HOST,moneywhisper.com,🆎 AdBlock
 HOST,mongoosemetrics.com,🆎 AdBlock
 HOST,monitis.com,🆎 AdBlock
+HOST,monitor.music.qq.com,🆎 AdBlock
 HOST,monitoringservice.co,🆎 AdBlock
 HOST,monitus.net,🆎 AdBlock
 HOST,monkeybroker.net,🆎 AdBlock
@@ -18764,6 +18769,7 @@ HOST,stat.ts.cn,🆎 AdBlock
 HOST,stat.v.17173.com,🆎 AdBlock
 HOST,stat.www.fi,🆎 AdBlock
 HOST,stat.xywy.com,🆎 AdBlock
+HOST,stat.y.qq.com,🆎 AdBlock
 HOST,stat.yunfan.com,🆎 AdBlock
 HOST,stat.zbii.com,🆎 AdBlock
 HOST,stat.zdnet.com.cn,🆎 AdBlock
@@ -19652,6 +19658,7 @@ HOST,tm1-001.com,🆎 AdBlock
 HOST,tmblaeivephb.com,🆎 AdBlock
 HOST,tmdn2015x9.com,🆎 AdBlock
 HOST,tmead.y.qq.com,🆎 AdBlock
+HOST,tmeadbak.y.qq.com,🆎 AdBlock
 HOST,tmeadcomm.y.qq.com,🆎 AdBlock
 HOST,tmearn.com,🆎 AdBlock
 HOST,tmfkuesmlpto.com,🆎 AdBlock
@@ -30513,6 +30520,7 @@ HOST-SUFFIX,impservice.youdao.com,🆎 AdBlock
 HOST-SUFFIX,impservice2.youdao.com,🆎 AdBlock
 HOST-SUFFIX,impservicetest.dictapp.youdao.com,🆎 AdBlock
 HOST-SUFFIX,imrworldwide.com,🆎 AdBlock
+HOST-SUFFIX,imtmp.net,🆎 AdBlock
 HOST-SUFFIX,imx.comedycentral.com,🆎 AdBlock
 HOST-SUFFIX,imykgs.com,🆎 AdBlock
 HOST-SUFFIX,in.qqhpg.com,🆎 AdBlock

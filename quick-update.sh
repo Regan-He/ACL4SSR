@@ -97,7 +97,7 @@ function send_robot_notify() {
 function send_finish_notify() {
     local report_text message_color
     local -a patulous_content=()
-    local -r patulous_color='#F08080' # 淡珊瑚色
+    local -r patulous_color='#DB7093' # 苍白的紫罗兰红色
     case $UPLOAD_STATUS in
     1)
         message_color='#228B22' # 森林绿
@@ -112,7 +112,7 @@ function send_finish_notify() {
         message_color='#DC143C' # 猩红
         report_text="操作异常，请检查本地仓库"
         if [[ "${ERROR_MESSAGE}" ]]; then
-            report_text+="； 错误消息：${ERROR_MESSAGE}。"
+            report_text+="； 错误消息：${ERROR_MESSAGE}"
         else
             report_text+="。"
         fi
@@ -169,7 +169,7 @@ function do_update_rule() {
     echo >&2 "Failed to update rules"
     message_color='#DC143C' # 猩红
     if [[ "${ERROR_MESSAGE}" ]]; then
-        notify_message="执行更新远程规则失败，错误消息：${ERROR_MESSAGE}."
+        notify_message="执行更新远程规则失败，错误消息：${ERROR_MESSAGE}"
     else
         notify_message="执行更新远程规则失败。"
     fi
@@ -185,15 +185,15 @@ function upload_to_github() {
         )
         echo "Add all changed files to stage ..."
         git add ./ -A || {
-            ERROR_MESSAGE="未能添加已修改文件到暂存态"
+            ERROR_MESSAGE="未能添加已修改文件到暂存态。"
             return 1
         }
         git commit -s -m"$(date -R)" || {
-            ERROR_MESSAGE="未能提交暂存态"
+            ERROR_MESSAGE="未能提交暂存态。"
             return 1
         }
         git push || {
-            ERROR_MESSAGE="未能推送到远程仓库"
+            ERROR_MESSAGE="未能推送到远程仓库。"
             return 1
         }
         UPLOAD_STATUS=1
