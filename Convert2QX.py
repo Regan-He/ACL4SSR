@@ -34,6 +34,8 @@ class Convert2QX:
         "YOUTUBE",
         # Apple Services
         "APPLETV",
+        # ChatGPT
+        "OPENAI",
         # Microsoft Services
         "TEAMS",
         # Google Services
