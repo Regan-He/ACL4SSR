@@ -1,7 +1,7 @@
 {
     "QuantumultX/AdBlock/AWAvenue.list": "cd3db99cf3e00b43ce7f83fc71f814d95733c0dd2aec3a498d44cb78c836ab85",
     "QuantumultX/AdBlock/Adblock4limbo.list": "38c86d884ffe7eed8d6a23c15f9e87277154800905fcd8e53130c391d7651cc8",
-    "QuantumultX/AdBlock/Advertising.list": "d5f9331d55a6cb8f1640ac876c417e51475bfa55b1bf97ac9e373e5c4398c572",
+    "QuantumultX/AdBlock/Advertising.list": "e3b7ce6cb655b969a650715d87fe2189499db3c02c28bb7df1ca6a5eae952382",
     "QuantumultX/AdBlock/AdvertisingLite.list": "a3273380229e9e8391327f9a252930173e35d8f539614b102bbe6bae67053be7",
     "QuantumultX/AdBlock/AdvertisingMiTV.list": "6d157a098310ecada1eb06e93bf8ea89ce96cb9b307375f3d14f8e50ff58184a",
     "QuantumultX/AdBlock/BanEasyList.list": "e695048a594ae9f6b613662bfb5c9a17e7f32fd18e3c84f6e421628f6e68609d",
@@ -37,7 +37,7 @@
     "QuantumultX/MsService/Teams.list": "b89d160c80287890df0a4e959b59479bf642f44870d25ca75d494b2821708b50",
     "QuantumultX/OpenAI/OpenAI.list": "f06bc0c14ba586869e0bff54e44e110414b56e359badff3aaa0a5643296798b5",
     "QuantumultX/Privacy/BanEasyPrivacy.list": "31267ffaac69cccb23de042b669d036a42e15077781a5104bc04d0b4be5eeea2",
-    "QuantumultX/Privacy/PrivateTracker.list": "d442bb875326d4fae1d2141455f9800e1c63d5952e07986478c91108d22ed0ab",
+    "QuantumultX/Privacy/PrivateTracker.list": "085d7de7e772507047de3243b429b82e39e20f2a1433402b1e4e144630f22f0c",
     "QuantumultX/Privacy/easyprivacy.list": "a3f1a74226e025399624042cc60e291faada8f207d41e236a2afc017bf9a32bc",
     "QuantumultX/ProgramAD/BanProgramAD.list": "61628f4e5efe65a080b342654002b08b24ee27fcf07817657768a4c4452b4d9d",
     "QuantumultX/ProxySelect/ProxyGFWlist": "d0d971e05f1dca2b3e875a4292dc449117ad11d094f68a9a1b1b14833ecd26cb",
