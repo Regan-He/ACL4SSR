@@ -33,6 +33,7 @@ HOST,adexpo.tencentmusic.com,REJECT
 HOST,adfilter.imtt.qq.com,REJECT
 HOST,adguanggao.eee114.com,REJECT
 HOST,adjust.cn,REJECT
+HOST,adjust.com,REJECT
 HOST,adkwai.com,REJECT
 HOST,adlink-api.huan.tv,REJECT
 HOST,adm.funshion.com,REJECT
@@ -88,6 +89,8 @@ HOST,adv.sec.intl.miui.com,REJECT
 HOST,adv.sec.miui.com,REJECT
 HOST,advertiseonbing.azureedge.net,REJECT
 HOST,advertising-api-eu.amazon.com,REJECT
+HOST,advertising-api-fe.amazon.com,REJECT
+HOST,advertising-api.amazon.com,REJECT
 HOST,advertising.apple.com,REJECT
 HOST,advertising.yahoo.com,REJECT
 HOST,advertising.yandex.ru,REJECT
@@ -158,11 +161,13 @@ HOST,beacon-api.aliyuncs.com,REJECT
 HOST,beacon.qq.com,REJECT
 HOST,beacons.gvt2.com,REJECT
 HOST,beizi.biz,REJECT
+HOST,bianxian.com,REJECT
 HOST,bingads.microsoft.com,REJECT
 HOST,bj.ad.track.66mobi.com,REJECT
 HOST,books-analytics-events.apple.com,REJECT
 HOST,bugly.qq.com,REJECT
 HOST,business-api.tiktok.com,REJECT
+HOST,c.bidtoolads.com,REJECT
 HOST,c.evidon.com,REJECT
 HOST,c.gj.qq.com,REJECT
 HOST,c.kuaiduizuoye.com,REJECT
@@ -183,6 +188,9 @@ HOST,cnzz.com,REJECT
 HOST,collect.kugou.com,REJECT
 HOST,commdata.v.qq.com,REJECT
 HOST,config.chsmarttv.com,REJECT
+HOST,conn-service-cn-03.allawntech.com,REJECT
+HOST,conn-service-cn-04.allawntech.com,REJECT
+HOST,conn-service-cn-05.allawntech.com,REJECT
 HOST,conn-service-in-03.allawnos.com,REJECT
 HOST,conn-service-in-04.allawnos.com,REJECT
 HOST,conn-service-in-05.allawnos.com,REJECT
@@ -242,6 +250,7 @@ HOST,grs.hicloud.com,REJECT
 HOST,grs.platform.dbankcloud.ru,REJECT
 HOST,h-adashx.ut.taobao.com,REJECT
 HOST,h.trace.qq.com,REJECT
+HOST,hanlanad.com,REJECT
 HOST,henzanapp.com,REJECT
 HOST,hexagon-analytics.com,REJECT
 HOST,hiboard-drcn.ai.dbankcloud.cn,REJECT
@@ -290,6 +299,7 @@ HOST,ks.pull.yximgs.com,REJECT
 HOST,launcher.smart-tv.cn,REJECT
 HOST,launcherimg.smart-tv.cn,REJECT
 HOST,lf3-ad-union-sdk.pglstatp-toutiao.com,REJECT
+HOST,litchiads.com,REJECT
 HOST,liveats-vod.video.ptqy.gitv.tv,REJECT
 HOST,livemonitor.huan.tv,REJECT
 HOST,livep.l.aiseet.atianqi.com,REJECT
@@ -434,6 +444,7 @@ HOST,sdk.beizi.biz,REJECT
 HOST,sdk.cferw.com,REJECT
 HOST,sdk.e.qq.com,REJECT
 HOST,sdk.hzsanjiaomao.com,REJECT
+HOST,sdk.markmedia.com.cn,REJECT
 HOST,sdk.mobads.adwangmai.com,REJECT
 HOST,sdkconf.avlyun.com,REJECT
 HOST,sdkconfig.ad.intl.xiaomi.com,REJECT
@@ -512,6 +523,7 @@ HOST,tracker.ai.xiaomi.com,REJECT
 HOST,tracker.gitee.com,REJECT
 HOST,tracking.miui.com,REJECT
 HOST,tracking.rus.miui.com,REJECT
+HOST,tsvrv.com,REJECT
 HOST,tvuser-ch.cedock.com,REJECT
 HOST,tx-ad.a.yximgs.com,REJECT
 HOST,tx-kmpaudio.pull.yximgs.com,REJECT
