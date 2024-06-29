@@ -121,6 +121,8 @@ HOST,analytics.woozooo.com,REJECT
 HOST,analyze.lemurbrowser.com,REJECT
 HOST,andrqd.play.aiseet.atianqi.com,REJECT
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,REJECT
+HOST,apd-pcdnwxnat.teg.tencent-cloud.net,REJECT
+HOST,apd-pcdnwxstat.teg.tencent-cloud.net,REJECT
 HOST,api-access.pangolin-sdk-toutiao.com,REJECT
 HOST,api-access.pangolin-sdk-toutiao1.com,REJECT
 HOST,api-access.pangolin-sdk-toutiao2.com,REJECT
@@ -181,6 +183,9 @@ HOST,cnzz.com,REJECT
 HOST,collect.kugou.com,REJECT
 HOST,commdata.v.qq.com,REJECT
 HOST,config.chsmarttv.com,REJECT
+HOST,conn-service-in-03.allawnos.com,REJECT
+HOST,conn-service-in-04.allawnos.com,REJECT
+HOST,conn-service-in-05.allawnos.com,REJECT
 HOST,crashlytics.com,REJECT
 HOST,crashlyticsreports-pa.googleapis.com,REJECT
 HOST,csjplatform.com,REJECT
@@ -573,6 +578,7 @@ HOST,ws-keyboard.shouji.sogou.com,REJECT
 HOST,ws.sj.qq.com,REJECT
 HOST,www42.zskwai.com,REJECT
 HOST,wxa.wxs.qq.com,REJECT
+HOST,wximg.wxs.qq.com,REJECT
 HOST,wxsnsad.tc.qq.com,REJECT
 HOST,wxsnsdy.wxs.qq.com,REJECT
 HOST,wxsnsdythumb.wxs.qq.com,REJECT
