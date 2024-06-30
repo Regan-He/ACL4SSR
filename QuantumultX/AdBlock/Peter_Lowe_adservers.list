@@ -62,7 +62,6 @@ HOST-SUFFIX,abstractedauthority.com,REJECT
 HOST-SUFFIX,abtasty.com,REJECT
 HOST-SUFFIX,ac.rnm.ca,REJECT
 HOST-SUFFIX,acemlnb.com,REJECT
-HOST-SUFFIX,acid-adserver.click,REJECT
 HOST-SUFFIX,acridtwist.com,REJECT
 HOST-SUFFIX,actionsplash.com,REJECT
 HOST-SUFFIX,actonsoftware.com,REJECT
@@ -170,7 +169,6 @@ HOST-SUFFIX,adaction.de,REJECT
 HOST-SUFFIX,adadvisor.net,REJECT
 HOST-SUFFIX,adalliance.io,REJECT
 HOST-SUFFIX,adanging.blog,REJECT
-HOST-SUFFIX,adap.tv,REJECT
 HOST-SUFFIX,adapt.tv,REJECT
 HOST-SUFFIX,adaranth.com,REJECT
 HOST-SUFFIX,adbilty.me,REJECT
@@ -381,7 +379,6 @@ HOST-SUFFIX,ads.bluemountain.com,REJECT
 HOST-SUFFIX,ads.boerding.com,REJECT
 HOST-SUFFIX,ads.boylesports.com,REJECT
 HOST-SUFFIX,ads.brabys.com,REJECT
-HOST-SUFFIX,ads.brazzers.com,REJECT
 HOST-SUFFIX,ads.bumq.com,REJECT
 HOST-SUFFIX,ads.canalblog.com,REJECT
 HOST-SUFFIX,ads.casinocity.com,REJECT
@@ -567,7 +564,6 @@ HOST-SUFFIX,ads.schmoozecom.net,REJECT
 HOST-SUFFIX,ads.scifi.com,REJECT
 HOST-SUFFIX,ads.seniorfriendfinder.com,REJECT
 HOST-SUFFIX,ads.servebom.com,REJECT
-HOST-SUFFIX,ads.sexgratuit.tv,REJECT
 HOST-SUFFIX,ads.shizmoo.com,REJECT
 HOST-SUFFIX,ads.shopstyle.com,REJECT
 HOST-SUFFIX,ads.sift.co.uk,REJECT
@@ -852,7 +848,6 @@ HOST-SUFFIX,adworx.nl,REJECT
 HOST-SUFFIX,adx.gayboy.at,REJECT
 HOST-SUFFIX,adxpansion.com,REJECT
 HOST-SUFFIX,adxpose.com,REJECT
-HOST-SUFFIX,adyea.com,REJECT
 HOST-SUFFIX,adyoulike.com,REJECT
 HOST-SUFFIX,adz.rashflash.com,REJECT
 HOST-SUFFIX,adz2you.com,REJECT
@@ -1280,6 +1275,7 @@ HOST-SUFFIX,cityads.telus.net,REJECT
 HOST-SUFFIX,cj.com,REJECT
 HOST-SUFFIX,cjbmanagement.com,REJECT
 HOST-SUFFIX,cjlog.com,REJECT
+HOST-SUFFIX,cl.turkishairlines.com,REJECT
 HOST-SUFFIX,cl0udh0st1ng.com,REJECT
 HOST-SUFFIX,claria.com,REJECT
 HOST-SUFFIX,clck.ru,REJECT
@@ -1696,7 +1692,6 @@ HOST-SUFFIX,feedmob.com,REJECT
 HOST-SUFFIX,fimserve.com,REJECT
 HOST-SUFFIX,findcommerce.com,REJECT
 HOST-SUFFIX,findyourcasino.com,REJECT
-HOST-SUFFIX,fineoffer.net,REJECT
 HOST-SUFFIX,fingahvf.top,REJECT
 HOST-SUFFIX,fireworkadservices.com,REJECT
 HOST-SUFFIX,fireworkanalytics.com,REJECT
@@ -2317,9 +2312,7 @@ HOST-SUFFIX,mylink-today.com,REJECT
 HOST-SUFFIX,mypagerank.net,REJECT
 HOST-SUFFIX,mypagerank.ru,REJECT
 HOST-SUFFIX,mypowermall.com,REJECT
-HOST-SUFFIX,mystat-in.net,REJECT
 HOST-SUFFIX,mystat.pl,REJECT
-HOST-SUFFIX,mytop-in.net,REJECT
 HOST-SUFFIX,n2.mouseflow.com,REJECT
 HOST-SUFFIX,n69.com,REJECT
 HOST-SUFFIX,naj.sk,REJECT
@@ -2698,7 +2691,6 @@ HOST-SUFFIX,rcadserver.com,REJECT
 HOST-SUFFIX,reachjunction.com,REJECT
 HOST-SUFFIX,reactx.com,REJECT
 HOST-SUFFIX,readingguilt.com,REJECT
-HOST-SUFFIX,readserver.net,REJECT
 HOST-SUFFIX,readymoon.com,REJECT
 HOST-SUFFIX,realcastmedia.com,REJECT
 HOST-SUFFIX,realclever.com,REJECT
@@ -2864,7 +2856,6 @@ HOST-SUFFIX,services.hearstmags.com,REJECT
 HOST-SUFFIX,serving-sys.com,REJECT
 HOST-SUFFIX,sessioncam.com,REJECT
 HOST-SUFFIX,sexcounter.com,REJECT
-HOST-SUFFIX,sexinyourcity.com,REJECT
 HOST-SUFFIX,sexlist.com,REJECT
 HOST-SUFFIX,sextracker.com,REJECT
 HOST-SUFFIX,shakegoldfish.com,REJECT
