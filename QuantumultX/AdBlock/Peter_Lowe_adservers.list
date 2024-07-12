@@ -58,6 +58,7 @@ HOST-SUFFIX,ablinks.mail.hinge.co,REJECT
 HOST-SUFFIX,aboardlevel.com,REJECT
 HOST-SUFFIX,abruptroad.com,REJECT
 HOST-SUFFIX,absorbingband.com,REJECT
+HOST-SUFFIX,absorbingcorn.com,REJECT
 HOST-SUFFIX,abstractedauthority.com,REJECT
 HOST-SUFFIX,abtasty.com,REJECT
 HOST-SUFFIX,ac.rnm.ca,REJECT
@@ -416,7 +417,6 @@ HOST-SUFFIX,ads.dtpnetwork.biz,REJECT
 HOST-SUFFIX,ads.eagletribune.com,REJECT
 HOST-SUFFIX,ads.easy-forex.com,REJECT
 HOST-SUFFIX,ads.economist.com,REJECT
-HOST-SUFFIX,ads.edbindex.dk,REJECT
 HOST-SUFFIX,ads.elcarado.com,REJECT
 HOST-SUFFIX,ads.electrocelt.com,REJECT
 HOST-SUFFIX,ads.elitetrader.com,REJECT
@@ -429,7 +429,6 @@ HOST-SUFFIX,ads.expat-blog.biz,REJECT
 HOST-SUFFIX,ads.fairfax.com.au,REJECT
 HOST-SUFFIX,ads.fastcomgroup.it,REJECT
 HOST-SUFFIX,ads.fasttrack-ignite.com,REJECT
-HOST-SUFFIX,ads.faxo.com,REJECT
 HOST-SUFFIX,ads.femmefab.nl,REJECT
 HOST-SUFFIX,ads.ferianc.com,REJECT
 HOST-SUFFIX,ads.filmup.com,REJECT
@@ -708,7 +707,6 @@ HOST-SUFFIX,adserver.janes.com,REJECT
 HOST-SUFFIX,adserver.kontent.com,REJECT
 HOST-SUFFIX,adserver.lecool.com,REJECT
 HOST-SUFFIX,adserver.mobi,REJECT
-HOST-SUFFIX,adserver.msmb.biz,REJECT
 HOST-SUFFIX,adserver.news.com.au,REJECT
 HOST-SUFFIX,adserver.nydailynews.com,REJECT
 HOST-SUFFIX,adserver.o2.pl,REJECT
@@ -953,6 +951,7 @@ HOST-SUFFIX,anstrex.com,REJECT
 HOST-SUFFIX,anuncios.edicaoms.com.br,REJECT
 HOST-SUFFIX,anxiousapples.com,REJECT
 HOST-SUFFIX,api.amplitude.com,REJECT
+HOST-SUFFIX,api.appmetrica.yandex.ru,REJECT
 HOST-SUFFIX,api.eu.amplitude.com,REJECT
 HOST-SUFFIX,api.intensifier.de,REJECT
 HOST-SUFFIX,api.iterable.com,REJECT
@@ -967,7 +966,6 @@ HOST-SUFFIX,app-measurement.com,REJECT
 HOST-SUFFIX,app.pendo.io,REJECT
 HOST-SUFFIX,app2.salesmanago.pl,REJECT
 HOST-SUFFIX,appboycdn.com,REJECT
-HOST-SUFFIX,appmetrica.yandex.ru,REJECT
 HOST-SUFFIX,appsflyer.com,REJECT
 HOST-SUFFIX,aps.hearstnp.com,REJECT
 HOST-SUFFIX,apsalar.com,REJECT
@@ -1336,7 +1334,6 @@ HOST-SUFFIX,clickonometrics.pl,REJECT
 HOST-SUFFIX,clicks.deliveroo.co.uk,REJECT
 HOST-SUFFIX,clicks.equantum.com,REJECT
 HOST-SUFFIX,clicks.eventbrite.com,REJECT
-HOST-SUFFIX,clicks.mods.de,REJECT
 HOST-SUFFIX,clicks.monzo.com,REJECT
 HOST-SUFFIX,clickserve.cc-dt.com,REJECT
 HOST-SUFFIX,clicktag.de,REJECT
@@ -1692,6 +1689,7 @@ HOST-SUFFIX,feedmob.com,REJECT
 HOST-SUFFIX,fimserve.com,REJECT
 HOST-SUFFIX,findcommerce.com,REJECT
 HOST-SUFFIX,findyourcasino.com,REJECT
+HOST-SUFFIX,fineoffer.net,REJECT
 HOST-SUFFIX,fingahvf.top,REJECT
 HOST-SUFFIX,fireworkadservices.com,REJECT
 HOST-SUFFIX,fireworkanalytics.com,REJECT
@@ -1869,6 +1867,7 @@ HOST-SUFFIX,hocgeese.com,REJECT
 HOST-SUFFIX,hollowafterthought.com,REJECT
 HOST-SUFFIX,homelycrown.com,REJECT
 HOST-SUFFIX,homepageking.de,REJECT
+HOST-SUFFIX,honorablehall.com,REJECT
 HOST-SUFFIX,honorableland.com,REJECT
 HOST-SUFFIX,hostedads.realitykings.com,REJECT
 HOST-SUFFIX,hotjar.com,REJECT
@@ -2020,6 +2019,7 @@ HOST-SUFFIX,klclick1.com,REJECT
 HOST-SUFFIX,kliks.nl,REJECT
 HOST-SUFFIX,klsdee.com,REJECT
 HOST-SUFFIX,kmpiframe.keepmeposted.com.mt,REJECT
+HOST-SUFFIX,knitstamp.com,REJECT
 HOST-SUFFIX,knorex.com,REJECT
 HOST-SUFFIX,knottyswing.com,REJECT
 HOST-SUFFIX,komoona.com,REJECT
@@ -2573,6 +2573,7 @@ HOST-SUFFIX,previousplayground.com,REJECT
 HOST-SUFFIX,previouspotato.com,REJECT
 HOST-SUFFIX,prf.hn,REJECT
 HOST-SUFFIX,priceypies.com,REJECT
+HOST-SUFFIX,pricklydebt.com,REJECT
 HOST-SUFFIX,priefy.com,REJECT
 HOST-SUFFIX,primetime.net,REJECT
 HOST-SUFFIX,privatecash.com,REJECT
@@ -2724,6 +2725,11 @@ HOST-SUFFIX,reklamdsp.com,REJECT
 HOST-SUFFIX,relmaxtop.com,REJECT
 HOST-SUFFIX,rememberdiscussion.com,REJECT
 HOST-SUFFIX,remox.com,REJECT
+HOST-SUFFIX,report-1.appmetrica.webvisor.com,REJECT
+HOST-SUFFIX,report-2.appmetrica.webvisor.com,REJECT
+HOST-SUFFIX,report-partners.appmetrica.yandex.net,REJECT
+HOST-SUFFIX,report.ap.yandex-net.ru,REJECT
+HOST-SUFFIX,report.appmetrica.yandex.net,REJECT
 HOST-SUFFIX,republika.onet.pl,REJECT
 HOST-SUFFIX,resalag.com,REJECT
 HOST-SUFFIX,resonantbrush.com,REJECT
@@ -3043,6 +3049,7 @@ HOST-SUFFIX,summerhamster.com,REJECT
 HOST-SUFFIX,summerobject.com,REJECT
 HOST-SUFFIX,sumo.com,REJECT
 HOST-SUFFIX,sumome.com,REJECT
+HOST-SUFFIX,superawesome.tv,REJECT
 HOST-SUFFIX,superclix.de,REJECT
 HOST-SUFFIX,superficialsquare.com,REJECT
 HOST-SUFFIX,supersonicads.com,REJECT
