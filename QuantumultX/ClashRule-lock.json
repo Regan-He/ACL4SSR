@@ -1,7 +1,7 @@
 {
     "QuantumultX/AdBlock/AWAvenue.list": "ae7ff449da81aa3d3fc312c1dcfaa282b9d1d2ee005b59f87ac745e6205cca90",
     "QuantumultX/AdBlock/Adblock4limbo.list": "d3f76494d8af7fd831b0ed14b210c21e82d4c428327a769496bfd1206fb0feb5",
-    "QuantumultX/AdBlock/Advertising.list": "86fca7c83f53905e3253c59297c0ed93ff9b53bca483bf3bf5235be42e8a238e",
+    "QuantumultX/AdBlock/Advertising.list": "39d4550a6c3ebeb6b0c293eba913fd3780257d09d6e17766b25ab0183d61813f",
     "QuantumultX/AdBlock/AdvertisingLite.list": "2d0fd721fd44a6f0da627774d37d61926688cd2dc47448d8fa8a4d2a3ffd148b",
     "QuantumultX/AdBlock/AdvertisingMiTV.list": "8c7aa4bd1b9985514c2e5d79290bf0279d9dfadbf3d4b3bc324514f43befd528",
     "QuantumultX/AdBlock/BanEasyList.list": "5cca49e6b6c544b6e2fddd4ce00686c9b8cd07af833f149d3dcc88ed7a5cd5e4",
@@ -37,11 +37,11 @@
     "QuantumultX/MsService/Teams.list": "2fcd7cc1b0e66be9c793da77e5b09856407fbca56b7d450ac1c76e18a95b13f7",
     "QuantumultX/OpenAI/OpenAI.list": "6bfe11fef7ecddb1f5025ed03292738d774527ff9fcfe4606524d65bd934a2dc",
     "QuantumultX/Privacy/BanEasyPrivacy.list": "fe4a50d09a8ead3e32b31e77b6c83004614f66a9eb3d7f7fc35882142a6eec70",
-    "QuantumultX/Privacy/PrivateTracker.list": "2f9251a59ab282cf4982adc9764561552f555cdced63be4f67bd5481caf710ee",
+    "QuantumultX/Privacy/PrivateTracker.list": "7a3fc77cfd84c8f88ec138c8cd06ed5ab66e7406fce0802706305e7d591dfc25",
     "QuantumultX/Privacy/easyprivacy.list": "6c98a44ed0c9f54ddcbd81cf5fe22c375278e53f02f3b5bd0fdd1c9803740a25",
     "QuantumultX/ProgramAD/BanProgramAD.list": "61628f4e5efe65a080b342654002b08b24ee27fcf07817657768a4c4452b4d9d",
     "QuantumultX/ProxySelect/ProxyGFWlist": "8c54b214c103f21ceaf57bc8a4a87d284bc99d1c93331179c850f52768cc865a",
-    "QuantumultX/ProxySelect/ProxyLite.list": "be3d122e5887f06755263450aed14ae2441999d32369e240fe1309d69ae8d2a7",
+    "QuantumultX/ProxySelect/ProxyLite.list": "f118a49eb2ab86b886fa98c76e484f86c821953c560b0990f11260d42c2a9852",
     "QuantumultX/Spotify/Spotify.list": "e03a4baa8bc76261a2839f455c1d0df5b2c180bba04fbf9eea52a983eff247b9",
     "QuantumultX/Telegram/Telegram.list": "fa75052650ffd0ceab07693c78ec17339576c109047e55ea96b1cf9ccb575acd",
     "QuantumultX/TikTok/TikTok": "b1fe72edb3ee53e9e0fb1ac7216588b172d8cd91b31bcd91e9d1d4320a88c3e4"
