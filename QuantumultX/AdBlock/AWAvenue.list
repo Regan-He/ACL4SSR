@@ -440,6 +440,7 @@ HOST,scdown.qq.com,REJECT
 HOST,scs.openspeech.cn,REJECT
 HOST,sdk-ab-config.qquanquan.com,REJECT
 HOST,sdk-cache.video.ptqy.gitv.tv,REJECT
+HOST,sdk.1rtb.net,REJECT
 HOST,sdk.beizi.biz,REJECT
 HOST,sdk.cferw.com,REJECT
 HOST,sdk.e.qq.com,REJECT
