@@ -244,6 +244,7 @@ HOST,googleadservices-cn.com,REJECT
 HOST,googleadservices.com,REJECT
 HOST,googletagservices-cn.com,REJECT
 HOST,googletagservices.com,REJECT
+HOST,gorgon.youdao.com,REJECT
 HOST,gromore.pangolin-sdk-toutiao.com,REJECT
 HOST,grs.dbankcloud.com,REJECT
 HOST,grs.hicloud.com,REJECT
