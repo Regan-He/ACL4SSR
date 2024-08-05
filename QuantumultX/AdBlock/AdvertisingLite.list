@@ -8550,7 +8550,6 @@ HOST,getstatistics.se,🆎 AdBlock
 HOST,getsupernova.com,🆎 AdBlock
 HOST,gettipsz.info,🆎 AdBlock
 HOST,gettraff.com,🆎 AdBlock
-HOST,getui.net,🆎 AdBlock
 HOST,getxml.org,🆎 AdBlock
 HOST,getzwnrgsrz.com,🆎 AdBlock
 HOST,geusihivdqkwzf.com,🆎 AdBlock
@@ -17628,7 +17627,6 @@ HOST,sdgvzdksjbl.com,🆎 AdBlock
 HOST,sdillrnslaiyb.com,🆎 AdBlock
 HOST,sdk.api.oaid.wocloud.cn,🆎 AdBlock
 HOST,sdk.appadhoc.com.bsclink.cn,🆎 AdBlock
-HOST,sdk.open.talk.getui.net,🆎 AdBlock
 HOST,sdk.zsdfm.com,🆎 AdBlock
 HOST,sdk2.youguoquan.com,🆎 AdBlock
 HOST,sdkauth.hpplay.cn,🆎 AdBlock
@@ -23752,7 +23750,6 @@ HOST-KEYWORD,a.9game.cn,🆎 AdBlock
 HOST-KEYWORD,a.wkanx.com,🆎 AdBlock
 HOST-KEYWORD,a3.bytecdn.cn,🆎 AdBlock
 HOST-KEYWORD,a3.pstatp.com,🆎 AdBlock
-HOST-KEYWORD,ad-sign.byteimg.com,🆎 AdBlock
 HOST-KEYWORD,ad.api.moji.com,🆎 AdBlock
 HOST-KEYWORD,ad.ihuman.com,🆎 AdBlock
 HOST-KEYWORD,ad.toutiao.com,🆎 AdBlock
@@ -29484,6 +29481,7 @@ HOST-SUFFIX,getnormalizedurl.com,🆎 AdBlock
 HOST-SUFFIX,getrockerbox.com,🆎 AdBlock
 HOST-SUFFIX,gets.faz.net,🆎 AdBlock
 HOST-SUFFIX,getui.com,🆎 AdBlock
+HOST-SUFFIX,getui.net,🆎 AdBlock
 HOST-SUFFIX,gewuwen.com,🆎 AdBlock
 HOST-SUFFIX,gf108.com,🆎 AdBlock
 HOST-SUFFIX,gf1352.com,🆎 AdBlock
