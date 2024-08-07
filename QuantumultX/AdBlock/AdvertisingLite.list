@@ -1149,6 +1149,7 @@ HOST,ad.ikonke.com,🆎 AdBlock
 HOST,ad.linkstorms.com,🆎 AdBlock
 HOST,ad.linksynergy.com,🆎 AdBlock
 HOST,ad.madvertise.de,🆎 AdBlock
+HOST,ad.mcloud.139.com,🆎 AdBlock
 HOST,ad.mox.tv,🆎 AdBlock
 HOST,ad.netcommunities.com,🆎 AdBlock
 HOST,ad.qn.img-space.com,🆎 AdBlock
@@ -2655,6 +2656,7 @@ HOST,api.iqiyi.com,🆎 AdBlock
 HOST,api.jsecoin.com,🆎 AdBlock
 HOST,api.jsfc8.cn,🆎 AdBlock
 HOST,api.kwaizt.com,🆎 AdBlock
+HOST,api.liquidlink.cn,🆎 AdBlock
 HOST,api.miner.beeppool.org,🆎 AdBlock
 HOST,api.mini.wps.cn,🆎 AdBlock
 HOST,api.mlinks.co,🆎 AdBlock
@@ -2702,6 +2704,7 @@ HOST,appboycdn.com,🆎 AdBlock
 HOST,appconsent.io,🆎 AdBlock
 HOST,appendad.com,🆎 AdBlock
 HOST,applog-perf.uc.cn,🆎 AdBlock
+HOST,applog.zijieapi.com,🆎 AdBlock
 HOST,appn.center,🆎 AdBlock
 HOST,apportium.com,🆎 AdBlock
 HOST,approp.pro,🆎 AdBlock
@@ -15614,7 +15617,6 @@ HOST,popupmaker.com,🆎 AdBlock
 HOST,popuptraffic.com,🆎 AdBlock
 HOST,popwin.net,🆎 AdBlock
 HOST,popxxx.net,🆎 AdBlock
-HOST,pork.2tumeng.com,🆎 AdBlock
 HOST,porkolt.com,🆎 AdBlock
 HOST,porn-hitz.com,🆎 AdBlock
 HOST,porn-site-builder.com,🆎 AdBlock
@@ -18703,7 +18705,6 @@ HOST,sslcheckerapi.com,🆎 AdBlock
 HOST,ssmyceoxbjqdp.com,🆎 AdBlock
 HOST,ssp-partner.alibaba.com,🆎 AdBlock
 HOST,sspicy.ru,🆎 AdBlock
-HOST,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com,🆎 AdBlock
 HOST,sspsky.com,🆎 AdBlock
 HOST,ssqpsrlknohdao.com,🆎 AdBlock
 HOST,ssqzsdcnoqv.com,🆎 AdBlock
@@ -20532,7 +20533,6 @@ HOST,umbel.com,🆎 AdBlock
 HOST,umc.danuoyi.alicdn.com,🆎 AdBlock
 HOST,umebiggestern.club,🆎 AdBlock
 HOST,umekana.ru,🆎 AdBlock
-HOST,umengacs.m.taobao.com,🆎 AdBlock
 HOST,umessage-online-zb.uc.cn,🆎 AdBlock
 HOST,umgbvaurcx.com,🆎 AdBlock
 HOST,umhpzzloestt.com,🆎 AdBlock
@@ -23819,7 +23819,6 @@ HOST-KEYWORD,dwtrack,🆎 AdBlock
 HOST-KEYWORD,e2wysbacctt1,🆎 AdBlock
 HOST-KEYWORD,editor.sm.cn,🆎 AdBlock
 HOST-KEYWORD,ems.youku.com,🆎 AdBlock
-HOST-KEYWORD,errlog.umeng.com,🆎 AdBlock
 HOST-KEYWORD,exosrv,🆎 AdBlock
 HOST-KEYWORD,extlog.snssdk.com,🆎 AdBlock
 HOST-KEYWORD,fans.m.tmall.com,🆎 AdBlock
@@ -23915,7 +23914,7 @@ HOST-KEYWORD,tracker.kugou.com,🆎 AdBlock
 HOST-KEYWORD,trackercdnbj.kugou.com,🆎 AdBlock
 HOST-KEYWORD,trwl1,🆎 AdBlock
 HOST-KEYWORD,tunion-api.m.taobao.com,🆎 AdBlock
-HOST-KEYWORD,uop.umeng.com,🆎 AdBlock
+HOST-KEYWORD,umeng,🆎 AdBlock
 HOST-KEYWORD,utp-dmp.ucweb.com,🆎 AdBlock
 HOST-KEYWORD,utp.ucweb.com,🆎 AdBlock
 HOST-KEYWORD,v0-client-lz.rili.cn,🆎 AdBlock
@@ -24837,7 +24836,6 @@ HOST-SUFFIX,99lolo.com,🆎 AdBlock
 HOST-SUFFIX,99pps.com,🆎 AdBlock
 HOST-SUFFIX,99tianxin.com,🆎 AdBlock
 HOST-SUFFIX,99tuan.com.cn,🆎 AdBlock
-HOST-SUFFIX,99youmeng.com,🆎 AdBlock
 HOST-SUFFIX,9a6wb.cn,🆎 AdBlock
 HOST-SUFFIX,9ads.net,🆎 AdBlock
 HOST-SUFFIX,9d766be9a3.com,🆎 AdBlock
@@ -31007,7 +31005,6 @@ HOST-SUFFIX,js658.njqunyi.com,🆎 AdBlock
 HOST-SUFFIX,js883.njqunyi.com,🆎 AdBlock
 HOST-SUFFIX,js88895.net,🆎 AdBlock
 HOST-SUFFIX,js9318.bllzgqbyp.com,🆎 AdBlock
-HOST-SUFFIX,jsadsdisplay.cn-beijing.log.aliyuncs.com,🆎 AdBlock
 HOST-SUFFIX,jsadt.com,🆎 AdBlock
 HOST-SUFFIX,jsaik.com,🆎 AdBlock
 HOST-SUFFIX,jsb.qianzhan.com,🆎 AdBlock
@@ -31586,6 +31583,7 @@ HOST-SUFFIX,location.ximalaya.com,🆎 AdBlock
 HOST-SUFFIX,locothet.com,🆎 AdBlock
 HOST-SUFFIX,log-yex.youdao.com,🆎 AdBlock
 HOST-SUFFIX,log.51cto.com,🆎 AdBlock
+HOST-SUFFIX,log.aliyuncs.com,🆎 AdBlock
 HOST-SUFFIX,log.b612kaji.com,🆎 AdBlock
 HOST-SUFFIX,log.collect.yinyuetai.com,🆎 AdBlock
 HOST-SUFFIX,log.hunantv.com,🆎 AdBlock
@@ -33039,7 +33037,6 @@ HOST-SUFFIX,p0y.cn,🆎 AdBlock
 HOST-SUFFIX,p1.18zhongyao.com,🆎 AdBlock
 HOST-SUFFIX,p1.qinsx.cn,🆎 AdBlock
 HOST-SUFFIX,p1.zhongyoo.com,🆎 AdBlock
-HOST-SUFFIX,p1.zhumengwl.com,🆎 AdBlock
 HOST-SUFFIX,p2.hunantv.com,🆎 AdBlock
 HOST-SUFFIX,p2.qinsx.cn,🆎 AdBlock
 HOST-SUFFIX,p2.ykauto.cn,🆎 AdBlock
@@ -35799,7 +35796,6 @@ HOST-SUFFIX,ttbc.cc,🆎 AdBlock
 HOST-SUFFIX,ttcdn.cn,🆎 AdBlock
 HOST-SUFFIX,ttdetect.staticimgfarm.com,🆎 AdBlock
 HOST-SUFFIX,ttfgames.cn,🆎 AdBlock
-HOST-SUFFIX,ttjx-online.cn-hangzhou.log.aliyuncs.com,🆎 AdBlock
 HOST-SUFFIX,ttlm.cc,🆎 AdBlock
 HOST-SUFFIX,ttlowe.com,🆎 AdBlock
 HOST-SUFFIX,ttqr58.cn,🆎 AdBlock
@@ -35999,9 +35995,6 @@ HOST-SUFFIX,um.simpli.fi,🆎 AdBlock
 HOST-SUFFIX,um0592.com,🆎 AdBlock
 HOST-SUFFIX,um29.com,🆎 AdBlock
 HOST-SUFFIX,umbbs.cn,🆎 AdBlock
-HOST-SUFFIX,umeng.co,🆎 AdBlock
-HOST-SUFFIX,umeng.com,🆎 AdBlock
-HOST-SUFFIX,umengcloud.com,🆎 AdBlock
 HOST-SUFFIX,umid.orion.meizu.com,🆎 AdBlock
 HOST-SUFFIX,umjsik.com,🆎 AdBlock
 HOST-SUFFIX,umm6.cn,🆎 AdBlock
