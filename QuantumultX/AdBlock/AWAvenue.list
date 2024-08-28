@@ -105,6 +105,7 @@ HOST,adx.ads.oppomobile.com,REJECT
 HOST,adxlog-adnet.vivo.com.cn,REJECT
 HOST,adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn,REJECT
 HOST,adxserver.ad.cmvideo.cn,REJECT
+HOST,aegis.qq.com,REJECT
 HOST,afs.googlesyndication.com,REJECT
 HOST,aiseet.aa.atianqi.com,REJECT
 HOST,ali-ad.a.yximgs.com,REJECT
@@ -123,6 +124,7 @@ HOST,analytics.tiktok.com,REJECT
 HOST,analytics.woozooo.com,REJECT
 HOST,analyze.lemurbrowser.com,REJECT
 HOST,andrqd.play.aiseet.atianqi.com,REJECT
+HOST,ap.dongqiudi.com,REJECT
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,REJECT
 HOST,apd-pcdnwxnat.teg.tencent-cloud.net,REJECT
 HOST,apd-pcdnwxstat.teg.tencent-cloud.net,REJECT
@@ -159,12 +161,14 @@ HOST,bdapi-in-ads.realmemobile.com,REJECT
 HOST,bdapi.ads.oppomobile.com,REJECT
 HOST,beacon-api.aliyuncs.com,REJECT
 HOST,beacon.qq.com,REJECT
+HOST,beaconcdn.qq.com,REJECT
 HOST,beacons.gvt2.com,REJECT
 HOST,beizi.biz,REJECT
 HOST,bianxian.com,REJECT
 HOST,bingads.microsoft.com,REJECT
 HOST,bj.ad.track.66mobi.com,REJECT
 HOST,books-analytics-events.apple.com,REJECT
+HOST,bsrv.qq.com,REJECT
 HOST,bugly.qq.com,REJECT
 HOST,business-api.tiktok.com,REJECT
 HOST,c.bidtoolads.com,REJECT
@@ -412,6 +416,7 @@ HOST,pgdt.ugdtimg.com,REJECT
 HOST,pglstatp-toutiao.com,REJECT
 HOST,pig.pupuapi.com,REJECT
 HOST,pixon.ads-pixiv.net,REJECT
+HOST,pms.mb.qq.com,REJECT
 HOST,policy.video.ptqy.gitv.tv,REJECT
 HOST,proxy.advp.apple.com,REJECT
 HOST,public.gdtimg.com,REJECT
@@ -420,6 +425,7 @@ HOST,qqdata.ab.qq.com,REJECT
 HOST,qwapi.apple.com,REJECT
 HOST,qzs.gdtimg.com,REJECT
 HOST,recommend-drcn.hms.dbankcloud.cn,REJECT
+HOST,report.tv.kohesport.qq.com,REJECT
 HOST,res.hubcloud.com.cn,REJECT
 HOST,res1.hubcloud.com.cn,REJECT
 HOST,res2.hubcloud.com.cn,REJECT
@@ -475,10 +481,10 @@ HOST,smartad.10010.com,REJECT
 HOST,smetrics.samsung.com,REJECT
 HOST,sms.ads.oppomobile.com,REJECT
 HOST,sngmta.qq.com,REJECT
+HOST,stat.dongqiudi.com,REJECT
 HOST,stat.y.qq.com,REJECT
 HOST,static.ads-twitter.com,REJECT
 HOST,statics.woozooo.com,REJECT
-HOST,staticsns.cdn.bcebos.com,REJECT
 HOST,stats.qiumibao.com,REJECT
 HOST,statsigapi.net,REJECT
 HOST,stg-data.ads.heytapmobi.com,REJECT
@@ -551,6 +557,7 @@ HOST,v2.gdt.qq.com,REJECT
 HOST,v3-ad.video.yximgs.com,REJECT
 HOST,video-ad.sm.cn,REJECT
 HOST,video-dsp.pddpic.com,REJECT
+HOST,video.dispatch.tc.qq.com,REJECT
 HOST,virusinfo-cloudscan-cn.heytapmobi.com,REJECT
 HOST,vlive.qqvideo.tc.qq.com,REJECT
 HOST,vungle.com,REJECT
