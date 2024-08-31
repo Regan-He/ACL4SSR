@@ -753,6 +753,7 @@ HOST-SUFFIX,adsmart.net,REJECT
 HOST-SUFFIX,adsmartracker.com,REJECT
 HOST-SUFFIX,adsmetadata.startappservice.com,REJECT
 HOST-SUFFIX,adsmogo.com,REJECT
+HOST-SUFFIX,adsnative.com,REJECT
 HOST-SUFFIX,adsoftware.com,REJECT
 HOST-SUFFIX,adsolut.in,REJECT
 HOST-SUFFIX,adspeed.net,REJECT
@@ -842,6 +843,7 @@ HOST-SUFFIX,adxpansion.com,REJECT
 HOST-SUFFIX,adxpose.com,REJECT
 HOST-SUFFIX,adyoulike.com,REJECT
 HOST-SUFFIX,adz.rashflash.com,REJECT
+HOST-SUFFIX,adz2you.com,REJECT
 HOST-SUFFIX,adzbazar.com,REJECT
 HOST-SUFFIX,adzerk.net,REJECT
 HOST-SUFFIX,adzerk.s3.amazonaws.com,REJECT
@@ -1999,7 +2001,6 @@ HOST-SUFFIX,k.iinfo.cz,REJECT
 HOST-SUFFIX,kameleoon.eu,REJECT
 HOST-SUFFIX,kanoodle.com,REJECT
 HOST-SUFFIX,kargo.com,REJECT
-HOST-SUFFIX,karonty.com,REJECT
 HOST-SUFFIX,keymedia.hu,REJECT
 HOST-SUFFIX,kindads.com,REJECT
 HOST-SUFFIX,kissmetrics.com,REJECT
@@ -2308,6 +2309,7 @@ HOST-SUFFIX,mypagerank.ru,REJECT
 HOST-SUFFIX,mypowermall.com,REJECT
 HOST-SUFFIX,mystat-in.net,REJECT
 HOST-SUFFIX,mystat.pl,REJECT
+HOST-SUFFIX,mytop-in.net,REJECT
 HOST-SUFFIX,n2.mouseflow.com,REJECT
 HOST-SUFFIX,n69.com,REJECT
 HOST-SUFFIX,naj.sk,REJECT
@@ -2335,7 +2337,6 @@ HOST-SUFFIX,netclickstats.com,REJECT
 HOST-SUFFIX,netcommunities.com,REJECT
 HOST-SUFFIX,netdirect.nl,REJECT
 HOST-SUFFIX,netech.postaffiliatepro.com,REJECT
-HOST-SUFFIX,netincap.com,REJECT
 HOST-SUFFIX,netmera-web.com,REJECT
 HOST-SUFFIX,netmera.com,REJECT
 HOST-SUFFIX,netmng.com,REJECT
@@ -2456,7 +2457,6 @@ HOST-SUFFIX,oxado.com,REJECT
 HOST-SUFFIX,oxcash.com,REJECT
 HOST-SUFFIX,oxen.hillcountrytexas.com,REJECT
 HOST-SUFFIX,p-n.io,REJECT
-HOST-SUFFIX,p.nag.ru,REJECT
 HOST-SUFFIX,pagead.l.google.com,REJECT
 HOST-SUFFIX,pagefair.com,REJECT
 HOST-SUFFIX,pagerank-ranking.de,REJECT
