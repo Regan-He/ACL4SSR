@@ -33,7 +33,7 @@ class Convert2QX:
         "TIKTOK",
         "YOUTUBE",
         # Apple Services
-        "APPLETV",
+        "AppleProxy",
         # ChatGPT
         "OPENAI",
         # Microsoft Services
