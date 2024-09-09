@@ -225,7 +225,6 @@ HOST-SUFFIX,adhaven.com,REJECT
 HOST-SUFFIX,adhese.be,REJECT
 HOST-SUFFIX,adhese.com,REJECT
 HOST-SUFFIX,adhigh.net,REJECT
-HOST-SUFFIX,adhoc4.net,REJECT
 HOST-SUFFIX,adhunter.media,REJECT
 HOST-SUFFIX,adimage.guardian.co.uk,REJECT
 HOST-SUFFIX,adimages.been.com,REJECT
@@ -509,7 +508,6 @@ HOST-SUFFIX,ads.multimania.lycos.fr,REJECT
 HOST-SUFFIX,ads.muslimehelfen.org,REJECT
 HOST-SUFFIX,ads.mvscoelho.com,REJECT
 HOST-SUFFIX,ads.myadv.org,REJECT
-HOST-SUFFIX,ads.nccwebs.com,REJECT
 HOST-SUFFIX,ads.ndtv1.com,REJECT
 HOST-SUFFIX,ads.networksolutions.com,REJECT
 HOST-SUFFIX,ads.newgrounds.com,REJECT
@@ -2036,7 +2034,6 @@ HOST-SUFFIX,leadboltads.net,REJECT
 HOST-SUFFIX,leadclick.com,REJECT
 HOST-SUFFIX,leadinfo.net,REJECT
 HOST-SUFFIX,leadingedgecash.com,REJECT
-HOST-SUFFIX,leadplace.fr,REJECT
 HOST-SUFFIX,leadspace.com,REJECT
 HOST-SUFFIX,leadzupc.com,REJECT
 HOST-SUFFIX,leaplunchroom.com,REJECT
@@ -2958,7 +2955,6 @@ HOST-SUFFIX,spinnaker-js.com,REJECT
 HOST-SUFFIX,spirebaboon.com,REJECT
 HOST-SUFFIX,sponsorads.de,REJECT
 HOST-SUFFIX,sponsorpro.de,REJECT
-HOST-SUFFIX,sponsors.thoughtsmedia.com,REJECT
 HOST-SUFFIX,spookysleet.com,REJECT
 HOST-SUFFIX,spot.fitness.com,REJECT
 HOST-SUFFIX,spotlessstamp.com,REJECT
@@ -3228,7 +3224,6 @@ HOST-SUFFIX,tracker.metricswave.com,REJECT
 HOST-SUFFIX,tracker.mmdlv.it,REJECT
 HOST-SUFFIX,tracker.samplicio.us,REJECT
 HOST-SUFFIX,tracker.vgame.us,REJECT
-HOST-SUFFIX,tracking.1-a1502-bi.co.uk,REJECT
 HOST-SUFFIX,tracking.21-a4652-bi.co.uk,REJECT
 HOST-SUFFIX,tracking.28-91473-wbm.co.uk,REJECT
 HOST-SUFFIX,tracking.39-bb4a9-osm.co.uk,REJECT

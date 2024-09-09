@@ -414,6 +414,7 @@ HOST-SUFFIX,media.aso1.net,REJECT
 HOST-SUFFIX,media.dalysv.com,REJECT
 HOST-SUFFIX,mm9842.com,REJECT
 HOST-SUFFIX,moatads.com,REJECT
+HOST-SUFFIX,my.rtmark.net,REJECT
 HOST-SUFFIX,nby360.com,REJECT
 HOST-SUFFIX,netdjs.net,REJECT
 HOST-SUFFIX,new.xiongzhangad.com,REJECT
@@ -471,6 +472,7 @@ HOST-SUFFIX,v2.hunantv.com,REJECT
 HOST-SUFFIX,v3.fstats.xyz,REJECT
 HOST-SUFFIX,video.ktkjmp.com,REJECT
 HOST-SUFFIX,vjugz.com,REJECT
+HOST-SUFFIX,vntsm.com,REJECT
 HOST-SUFFIX,webp2p.letv.com,REJECT
 HOST-SUFFIX,widgets.amung.us,REJECT
 HOST-SUFFIX,wine-api.net,REJECT
