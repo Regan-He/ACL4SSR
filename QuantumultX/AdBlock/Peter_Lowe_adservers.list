@@ -60,6 +60,7 @@ HOST-SUFFIX,absorbingband.com,REJECT
 HOST-SUFFIX,abstractedauthority.com,REJECT
 HOST-SUFFIX,abtasty.com,REJECT
 HOST-SUFFIX,ac.rnm.ca,REJECT
+HOST-SUFFIX,accountsdoor.com,REJECT
 HOST-SUFFIX,acemlnb.com,REJECT
 HOST-SUFFIX,acridtwist.com,REJECT
 HOST-SUFFIX,actionsplash.com,REJECT
@@ -225,6 +226,7 @@ HOST-SUFFIX,adhaven.com,REJECT
 HOST-SUFFIX,adhese.be,REJECT
 HOST-SUFFIX,adhese.com,REJECT
 HOST-SUFFIX,adhigh.net,REJECT
+HOST-SUFFIX,adhoc4.net,REJECT
 HOST-SUFFIX,adhunter.media,REJECT
 HOST-SUFFIX,adimage.guardian.co.uk,REJECT
 HOST-SUFFIX,adimages.been.com,REJECT
@@ -1201,7 +1203,6 @@ HOST-SUFFIX,calmcactus.com,REJECT
 HOST-SUFFIX,calypsocapsule.com,REJECT
 HOST-SUFFIX,campaign.bharatmatrimony.com,REJECT
 HOST-SUFFIX,caniamedia.com,REJECT
-HOST-SUFFIX,capablecows.com,REJECT
 HOST-SUFFIX,capriciouscorn.com,REJECT
 HOST-SUFFIX,captainbicycle.com,REJECT
 HOST-SUFFIX,carambo.la,REJECT
@@ -1945,6 +1946,7 @@ HOST-SUFFIX,insightexpressai.com,REJECT
 HOST-SUFFIX,inskinad.com,REJECT
 HOST-SUFFIX,inspectlet.com,REJECT
 HOST-SUFFIX,install.365-stream.com,REJECT
+HOST-SUFFIX,instantmadness.com,REJECT
 HOST-SUFFIX,insticator.com,REJECT
 HOST-SUFFIX,intelliads.com,REJECT
 HOST-SUFFIX,intelligenceadx.com,REJECT
@@ -2034,6 +2036,7 @@ HOST-SUFFIX,leadboltads.net,REJECT
 HOST-SUFFIX,leadclick.com,REJECT
 HOST-SUFFIX,leadinfo.net,REJECT
 HOST-SUFFIX,leadingedgecash.com,REJECT
+HOST-SUFFIX,leadplace.fr,REJECT
 HOST-SUFFIX,leadspace.com,REJECT
 HOST-SUFFIX,leadzupc.com,REJECT
 HOST-SUFFIX,leaplunchroom.com,REJECT
@@ -2564,7 +2567,6 @@ HOST-SUFFIX,predictad.com,REJECT
 HOST-SUFFIX,premium-offers.com,REJECT
 HOST-SUFFIX,presetrabbits.com,REJECT
 HOST-SUFFIX,previousplayground.com,REJECT
-HOST-SUFFIX,previouspotato.com,REJECT
 HOST-SUFFIX,prf.hn,REJECT
 HOST-SUFFIX,priceypies.com,REJECT
 HOST-SUFFIX,pricklydebt.com,REJECT
@@ -3431,7 +3433,6 @@ HOST-SUFFIX,webtrackerplus.com,REJECT
 HOST-SUFFIX,webtracky.com,REJECT
 HOST-SUFFIX,webtraffic.se,REJECT
 HOST-SUFFIX,webtraxx.de,REJECT
-HOST-SUFFIX,webtrendslive.com,REJECT
 HOST-SUFFIX,webxcdn.com,REJECT
 HOST-SUFFIX,wellmadefrog.com,REJECT
 HOST-SUFFIX,welved.com,REJECT
@@ -3537,6 +3538,5 @@ HOST-SUFFIX,zmedia.com,REJECT
 HOST-SUFFIX,zonewedgeshaft.com,REJECT
 HOST-SUFFIX,zpu.samsungelectronics.com,REJECT
 HOST-SUFFIX,zqtk.net,REJECT
-HOST-SUFFIX,zukxd6fkxqn.com,REJECT
 HOST-SUFFIX,zy16eoat1w.com,REJECT
 HOST-SUFFIX,zzhc.vnet.cn,REJECT

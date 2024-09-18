@@ -14476,7 +14476,6 @@ HOST-SUFFIX,go.piccolo.mobi,REJECT
 HOST-SUFFIX,go.picsart.com,REJECT
 HOST-SUFFIX,go.pinoy.innovatedating.com,REJECT
 HOST-SUFFIX,go.planetnine.com,REJECT
-HOST-SUFFIX,go.playbackbone.com,REJECT
 HOST-SUFFIX,go.player2app.com,REJECT
 HOST-SUFFIX,go.plygem.com,REJECT
 HOST-SUFFIX,go.poland.innovatedating.com,REJECT
@@ -21236,6 +21235,7 @@ HOST-SUFFIX,mds.ricoh.ie,REJECT
 HOST-SUFFIX,mds.ricoh.it,REJECT
 HOST-SUFFIX,mds.ricoh.no,REJECT
 HOST-SUFFIX,mdstats.info,REJECT
+HOST-SUFFIX,mdt.crateandbarrel.com,REJECT
 HOST-SUFFIX,mdtnjvcsdbc02-eth1-0.net.mydays.de,REJECT
 HOST-SUFFIX,mdugiz.jdsports.de,REJECT
 HOST-SUFFIX,mdws.1stchoicesavings.ca,REJECT
@@ -33219,6 +33219,7 @@ HOST-SUFFIX,stats.aixbrain.de,REJECT
 HOST-SUFFIX,stats.albert-kropp-gmbh.de,REJECT
 HOST-SUFFIX,stats.alibhai.co,REJECT
 HOST-SUFFIX,stats.alleaktien.de,REJECT
+HOST-SUFFIX,stats.allenai.org,REJECT
 HOST-SUFFIX,stats.alocreativa.com,REJECT
 HOST-SUFFIX,stats.am.ai,REJECT
 HOST-SUFFIX,stats.amaeya.media,REJECT
@@ -38885,6 +38886,7 @@ HOST-SUFFIX,uidpcx.planet.fr,REJECT
 HOST-SUFFIX,uifesg.modulor.de,REJECT
 HOST-SUFFIX,uigwgn.france-abonnements.fr,REJECT
 HOST-SUFFIX,uijciz.gunze.jp,REJECT
+HOST-SUFFIX,uilogging.tcdevops.com,REJECT
 HOST-SUFFIX,uilwmi.coop.nl,REJECT
 HOST-SUFFIX,uim.tifbs.net,REJECT
 HOST-SUFFIX,uinpmz.iichi.com,REJECT
@@ -38969,6 +38971,7 @@ HOST-SUFFIX,unknowncontrol.com,REJECT
 HOST-SUFFIX,unknowncrate.com,REJECT
 HOST-SUFFIX,unknownidea.com,REJECT
 HOST-SUFFIX,unknowntray.com,REJECT
+HOST-SUFFIX,unleash.livepix.gg,REJECT
 HOST-SUFFIX,unm.emol.com,REJECT
 HOST-SUFFIX,unsubscribe.datadelivers.com,REJECT
 HOST-SUFFIX,unsubscribe.e.silverfernfarms.com,REJECT
