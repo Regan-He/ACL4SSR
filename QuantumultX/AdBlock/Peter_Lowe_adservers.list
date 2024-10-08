@@ -104,7 +104,6 @@ HOST-SUFFIX,ad.digitallook.com,REJECT
 HOST-SUFFIX,ad.dnoticias.pt,REJECT
 HOST-SUFFIX,ad.domainfactory.de,REJECT
 HOST-SUFFIX,ad.exyws.org,REJECT
-HOST-SUFFIX,ad.foxnetworks.com,REJECT
 HOST-SUFFIX,ad.grafika.cz,REJECT
 HOST-SUFFIX,ad.gt,REJECT
 HOST-SUFFIX,ad.hbv.de,REJECT
@@ -209,7 +208,6 @@ HOST-SUFFIX,ademails.com,REJECT
 HOST-SUFFIX,adengage.com,REJECT
 HOST-SUFFIX,adetracking.com,REJECT
 HOST-SUFFIX,adeure.com,REJECT
-HOST-SUFFIX,adexc.net,REJECT
 HOST-SUFFIX,adexchangegate.com,REJECT
 HOST-SUFFIX,adexchangeprediction.com,REJECT
 HOST-SUFFIX,adexpose.com,REJECT
@@ -337,7 +335,6 @@ HOST-SUFFIX,ads-kesselhaus.com,REJECT
 HOST-SUFFIX,ads-trk.vidible.tv,REJECT
 HOST-SUFFIX,ads-twitter.com,REJECT
 HOST-SUFFIX,ads.365.mk,REJECT
-HOST-SUFFIX,ads.4tube.com,REJECT
 HOST-SUFFIX,ads.5ci.lt,REJECT
 HOST-SUFFIX,ads.73dpi.com,REJECT
 HOST-SUFFIX,ads.a-snag-smartmoney.fyi,REJECT
@@ -350,6 +347,7 @@ HOST-SUFFIX,ads.activestate.com,REJECT
 HOST-SUFFIX,ads.adfox.ru,REJECT
 HOST-SUFFIX,ads.administrator.de,REJECT
 HOST-SUFFIX,ads.adred.de,REJECT
+HOST-SUFFIX,ads.adsbtc.fun,REJECT
 HOST-SUFFIX,ads.adstream.com.ro,REJECT
 HOST-SUFFIX,ads.adultfriendfinder.com,REJECT
 HOST-SUFFIX,ads.advance.net,REJECT
@@ -368,7 +366,6 @@ HOST-SUFFIX,ads.asiafriendfinder.com,REJECT
 HOST-SUFFIX,ads.aspalliance.com,REJECT
 HOST-SUFFIX,ads.avazu.net,REJECT
 HOST-SUFFIX,ads.bb59.ru,REJECT
-HOST-SUFFIX,ads.belointeractive.com,REJECT
 HOST-SUFFIX,ads.betfair.com,REJECT
 HOST-SUFFIX,ads.bigchurch.com,REJECT
 HOST-SUFFIX,ads.bigfoot.com,REJECT
@@ -439,7 +436,6 @@ HOST-SUFFIX,ads.forbes.net,REJECT
 HOST-SUFFIX,ads.formit.cz,REJECT
 HOST-SUFFIX,ads.fortunecity.com,REJECT
 HOST-SUFFIX,ads.fotosidan.se,REJECT
-HOST-SUFFIX,ads.foxnetworks.com,REJECT
 HOST-SUFFIX,ads.friendfinder.com,REJECT
 HOST-SUFFIX,ads.gamecity.net,REJECT
 HOST-SUFFIX,ads.gamespyid.com,REJECT
@@ -547,6 +543,7 @@ HOST-SUFFIX,ads.printscr.com,REJECT
 HOST-SUFFIX,ads.prisacom.com,REJECT
 HOST-SUFFIX,ads.program3.com,REJECT
 HOST-SUFFIX,ads.psd2html.com,REJECT
+HOST-SUFFIX,ads.pubmatic.com,REJECT
 HOST-SUFFIX,ads.quoka.de,REJECT
 HOST-SUFFIX,ads.radialserver.com,REJECT
 HOST-SUFFIX,ads.radio1.lv,REJECT
@@ -1010,6 +1007,7 @@ HOST-SUFFIX,awzbijw.com,REJECT
 HOST-SUFFIX,axiomaticalley.com,REJECT
 HOST-SUFFIX,axonix.com,REJECT
 HOST-SUFFIX,ay.delivery,REJECT
+HOST-SUFFIX,ayads.co,REJECT
 HOST-SUFFIX,aztracking.net,REJECT
 HOST-SUFFIX,b-s.tercept.com,REJECT
 HOST-SUFFIX,b.videoamp.com,REJECT
@@ -1306,6 +1304,7 @@ HOST-SUFFIX,click.redditmail.com,REJECT
 HOST-SUFFIX,click.twcwigs.com,REJECT
 HOST-SUFFIX,click2freemoney.com,REJECT
 HOST-SUFFIX,click360v2-ingest.azurewebsites.net,REJECT
+HOST-SUFFIX,clickadddilla.com,REJECT
 HOST-SUFFIX,clickadz.com,REJECT
 HOST-SUFFIX,clickagents.com,REJECT
 HOST-SUFFIX,clickbank.com,REJECT
@@ -1372,7 +1371,6 @@ HOST-SUFFIX,compactbanner.com,REJECT
 HOST-SUFFIX,comparereaction.com,REJECT
 HOST-SUFFIX,compiledoctor.com,REJECT
 HOST-SUFFIX,comprabanner.it,REJECT
-HOST-SUFFIX,concernedchange.com,REJECT
 HOST-SUFFIX,conditionchange.com,REJECT
 HOST-SUFFIX,conductrics.com,REJECT
 HOST-SUFFIX,connatix.com,REJECT
@@ -1453,7 +1451,6 @@ HOST-SUFFIX,cushiondrum.com,REJECT
 HOST-SUFFIX,customad.cnn.com,REJECT
 HOST-SUFFIX,customads.co,REJECT
 HOST-SUFFIX,customers.kameleoon.com,REJECT
-HOST-SUFFIX,cutcurrent.com,REJECT
 HOST-SUFFIX,cutechin.com,REJECT
 HOST-SUFFIX,cxense.com,REJECT
 HOST-SUFFIX,cyberbounty.com,REJECT
@@ -1509,6 +1506,7 @@ HOST-SUFFIX,directorym.com,REJECT
 HOST-SUFFIX,directtrack.com,REJECT
 HOST-SUFFIX,discountclick.com,REJECT
 HOST-SUFFIX,discreetfield.com,REJECT
+HOST-SUFFIX,displayvertising.com,REJECT
 HOST-SUFFIX,disqusads.com,REJECT
 HOST-SUFFIX,dist.belnk.com,REJECT
 HOST-SUFFIX,distillery.wistia.com,REJECT
@@ -1743,6 +1741,7 @@ HOST-SUFFIX,fvl1f.pw,REJECT
 HOST-SUFFIX,fwcdn1.com,REJECT
 HOST-SUFFIX,fwcdn2.com,REJECT
 HOST-SUFFIX,fxstyle.net,REJECT
+HOST-SUFFIX,g2.gumgum.com,REJECT
 HOST-SUFFIX,ga.clearbit.com,REJECT
 HOST-SUFFIX,gadsbee.com,REJECT
 HOST-SUFFIX,galaxien.com,REJECT
@@ -1761,6 +1760,7 @@ HOST-SUFFIX,geovisite.com,REJECT
 HOST-SUFFIX,getclicky.com,REJECT
 HOST-SUFFIX,getintent.com,REJECT
 HOST-SUFFIX,getmyads.com,REJECT
+HOST-SUFFIX,getxmlisi.com,REJECT
 HOST-SUFFIX,giddycoat.com,REJECT
 HOST-SUFFIX,glisteningsign.com,REJECT
 HOST-SUFFIX,globalismedia.com,REJECT
@@ -1789,6 +1789,7 @@ HOST-SUFFIX,googletagmanager.com,REJECT
 HOST-SUFFIX,googletagservices.com,REJECT
 HOST-SUFFIX,gostats.com,REJECT
 HOST-SUFFIX,gothamads.com,REJECT
+HOST-SUFFIX,gotoyahoo.com,REJECT
 HOST-SUFFIX,gotraffic.net,REJECT
 HOST-SUFFIX,gp.dejanews.com,REJECT
 HOST-SUFFIX,graizoah.com,REJECT
@@ -2199,6 +2200,7 @@ HOST-SUFFIX,mediaplex.com,REJECT
 HOST-SUFFIX,mediascale.de,REJECT
 HOST-SUFFIX,mediaserver.bwinpartypartners.it,REJECT
 HOST-SUFFIX,mediasmart.io,REJECT
+HOST-SUFFIX,mediasquare.fr,REJECT
 HOST-SUFFIX,mediatext.com,REJECT
 HOST-SUFFIX,mediavine.com,REJECT
 HOST-SUFFIX,mediavoice.com,REJECT
@@ -2214,6 +2216,7 @@ HOST-SUFFIX,megastats.com,REJECT
 HOST-SUFFIX,megawerbung.de,REJECT
 HOST-SUFFIX,meltmilk.com,REJECT
 HOST-SUFFIX,memorizeneck.com,REJECT
+HOST-SUFFIX,merequartz.com,REJECT
 HOST-SUFFIX,messagenovice.com,REJECT
 HOST-SUFFIX,metadsp.co.uk,REJECT
 HOST-SUFFIX,metaffiliation.com,REJECT
@@ -2394,6 +2397,7 @@ HOST-SUFFIX,offer.fyber.com,REJECT
 HOST-SUFFIX,offer.sponsorpay.com,REJECT
 HOST-SUFFIX,offerforge.com,REJECT
 HOST-SUFFIX,offermatica.com,REJECT
+HOST-SUFFIX,ogads-pa.googleapis.com,REJECT
 HOST-SUFFIX,oglasi.posjetnica.com,REJECT
 HOST-SUFFIX,ogury.com,REJECT
 HOST-SUFFIX,ojrq.net,REJECT
@@ -2457,6 +2461,7 @@ HOST-SUFFIX,oxado.com,REJECT
 HOST-SUFFIX,oxcash.com,REJECT
 HOST-SUFFIX,oxen.hillcountrytexas.com,REJECT
 HOST-SUFFIX,p-n.io,REJECT
+HOST-SUFFIX,paa-reporting-advertising.amazon,REJECT
 HOST-SUFFIX,pagead.l.google.com,REJECT
 HOST-SUFFIX,pagefair.com,REJECT
 HOST-SUFFIX,pagerank-ranking.de,REJECT
@@ -2642,7 +2647,6 @@ HOST-SUFFIX,qctop.com,REJECT
 HOST-SUFFIX,ql.tc,REJECT
 HOST-SUFFIX,qnsr.com,REJECT
 HOST-SUFFIX,qrlsx.com,REJECT
-HOST-SUFFIX,quacksquirrel.com,REJECT
 HOST-SUFFIX,quaintcan.com,REJECT
 HOST-SUFFIX,quantcast.com,REJECT
 HOST-SUFFIX,quantcount.com,REJECT
@@ -2751,6 +2755,7 @@ HOST-SUFFIX,rexadvert.xyz,REJECT
 HOST-SUFFIX,reyden-x.com,REJECT
 HOST-SUFFIX,rhombusads.com,REJECT
 HOST-SUFFIX,rhythmone.com,REJECT
+HOST-SUFFIX,richaudience.com,REJECT
 HOST-SUFFIX,richmails.com,REJECT
 HOST-SUFFIX,richstring.com,REJECT
 HOST-SUFFIX,rightstats.com,REJECT
@@ -2765,6 +2770,7 @@ HOST-SUFFIX,rmedia.boston.com,REJECT
 HOST-SUFFIX,roar.com,REJECT
 HOST-SUFFIX,robotreplay.com,REJECT
 HOST-SUFFIX,rockabox.co,REJECT
+HOST-SUFFIX,rockagainst.com,REJECT
 HOST-SUFFIX,rok.com.com,REJECT
 HOST-SUFFIX,rollconnection.com,REJECT
 HOST-SUFFIX,rose.ixbt.com,REJECT
@@ -2814,7 +2820,6 @@ HOST-SUFFIX,scaredsong.com,REJECT
 HOST-SUFFIX,scaredswing.com,REJECT
 HOST-SUFFIX,scarfsmash.com,REJECT
 HOST-SUFFIX,scatteredheat.com,REJECT
-HOST-SUFFIX,scatteredquiver.com,REJECT
 HOST-SUFFIX,scintillatingscissors.com,REJECT
 HOST-SUFFIX,scintillatingsilver.com,REJECT
 HOST-SUFFIX,scissorsstatement.com,REJECT
@@ -2973,6 +2978,7 @@ HOST-SUFFIX,srvmath.com,REJECT
 HOST-SUFFIX,srvtrck.com,REJECT
 HOST-SUFFIX,srwww1.com,REJECT
 HOST-SUFFIX,sshowads.pubmatic.com,REJECT
+HOST-SUFFIX,sskzlabs.com,REJECT
 HOST-SUFFIX,st.dynamicyield.com,REJECT
 HOST-SUFFIX,st.pubmatic.com,REJECT
 HOST-SUFFIX,stack-sonar.com,REJECT
@@ -3023,7 +3029,6 @@ HOST-SUFFIX,steadfastsound.com,REJECT
 HOST-SUFFIX,steadfastsystem.com,REJECT
 HOST-SUFFIX,steelhouse.com,REJECT
 HOST-SUFFIX,steelhousemedia.com,REJECT
-HOST-SUFFIX,steepscale.com,REJECT
 HOST-SUFFIX,stickyadstv.com,REJECT
 HOST-SUFFIX,stiffgame.com,REJECT
 HOST-SUFFIX,stimulatingsneeze.com,REJECT
@@ -3087,7 +3092,6 @@ HOST-SUFFIX,t.visitorqueue.com,REJECT
 HOST-SUFFIX,t.x.co,REJECT
 HOST-SUFFIX,taboola.com,REJECT
 HOST-SUFFIX,tag-demo.mention-me.com,REJECT
-HOST-SUFFIX,tag.links-analytics.com,REJECT
 HOST-SUFFIX,tag.mention-me.com,REJECT
 HOST-SUFFIX,tagcommander.com,REJECT
 HOST-SUFFIX,tagger.opecloud.com,REJECT
