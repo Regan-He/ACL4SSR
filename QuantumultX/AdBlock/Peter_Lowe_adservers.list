@@ -634,7 +634,6 @@ HOST-SUFFIX,ads2.gamecity.net,REJECT
 HOST-SUFFIX,ads2.hsoub.com,REJECT
 HOST-SUFFIX,ads2.net-communities.co.uk,REJECT
 HOST-SUFFIX,ads2.rne.com,REJECT
-HOST-SUFFIX,ads2.techads.info,REJECT
 HOST-SUFFIX,ads2.virtual-nights.com,REJECT
 HOST-SUFFIX,ads2.webdrive.no,REJECT
 HOST-SUFFIX,ads2.xnet.cz,REJECT
@@ -830,7 +829,6 @@ HOST-SUFFIX,adview.com,REJECT
 HOST-SUFFIX,advisormedia.cz,REJECT
 HOST-SUFFIX,adviva.net,REJECT
 HOST-SUFFIX,advnt.com,REJECT
-HOST-SUFFIX,adwebone.com,REJECT
 HOST-SUFFIX,adwhirl.com,REJECT
 HOST-SUFFIX,adworldnetwork.com,REJECT
 HOST-SUFFIX,adworx.at,REJECT
@@ -1201,6 +1199,7 @@ HOST-SUFFIX,calmcactus.com,REJECT
 HOST-SUFFIX,calypsocapsule.com,REJECT
 HOST-SUFFIX,campaign.bharatmatrimony.com,REJECT
 HOST-SUFFIX,caniamedia.com,REJECT
+HOST-SUFFIX,capablecows.com,REJECT
 HOST-SUFFIX,capriciouscorn.com,REJECT
 HOST-SUFFIX,captainbicycle.com,REJECT
 HOST-SUFFIX,carambo.la,REJECT
@@ -1371,6 +1370,7 @@ HOST-SUFFIX,compactbanner.com,REJECT
 HOST-SUFFIX,comparereaction.com,REJECT
 HOST-SUFFIX,compiledoctor.com,REJECT
 HOST-SUFFIX,comprabanner.it,REJECT
+HOST-SUFFIX,concernedchange.com,REJECT
 HOST-SUFFIX,conditionchange.com,REJECT
 HOST-SUFFIX,conductrics.com,REJECT
 HOST-SUFFIX,connatix.com,REJECT
@@ -1445,12 +1445,12 @@ HOST-SUFFIX,crwdcntrl.net,REJECT
 HOST-SUFFIX,crypto-loot.org,REJECT
 HOST-SUFFIX,crystalboulevard.com,REJECT
 HOST-SUFFIX,cs.co,REJECT
-HOST-SUFFIX,cumbersomecloud.com,REJECT
 HOST-SUFFIX,curtaincows.com,REJECT
 HOST-SUFFIX,cushiondrum.com,REJECT
 HOST-SUFFIX,customad.cnn.com,REJECT
 HOST-SUFFIX,customads.co,REJECT
 HOST-SUFFIX,customers.kameleoon.com,REJECT
+HOST-SUFFIX,cutcurrent.com,REJECT
 HOST-SUFFIX,cutechin.com,REJECT
 HOST-SUFFIX,cxense.com,REJECT
 HOST-SUFFIX,cyberbounty.com,REJECT
@@ -2096,6 +2096,7 @@ HOST-SUFFIX,linktarget.com,REJECT
 HOST-SUFFIX,linkvertise.com,REJECT
 HOST-SUFFIX,liquidad.narrowcastmedia.com,REJECT
 HOST-SUFFIX,litix.io,REJECT
+HOST-SUFFIX,live.trmzum.com,REJECT
 HOST-SUFFIX,liveadexchanger.com,REJECT
 HOST-SUFFIX,liveintent.com,REJECT
 HOST-SUFFIX,livelylaugh.com,REJECT
@@ -2145,6 +2146,7 @@ HOST-SUFFIX,madisonavenue.com,REJECT
 HOST-SUFFIX,madvertise.de,REJECT
 HOST-SUFFIX,magicadz.co,REJECT
 HOST-SUFFIX,magicaljoin.com,REJECT
+HOST-SUFFIX,magsrv.com,REJECT
 HOST-SUFFIX,mail-ads.google.com,REJECT
 HOST-SUFFIX,maltiverse.lt.acemlnc.com,REJECT
 HOST-SUFFIX,manageadv.cblogs.eu,REJECT
@@ -2572,6 +2574,7 @@ HOST-SUFFIX,predictad.com,REJECT
 HOST-SUFFIX,premium-offers.com,REJECT
 HOST-SUFFIX,presetrabbits.com,REJECT
 HOST-SUFFIX,previousplayground.com,REJECT
+HOST-SUFFIX,previouspotato.com,REJECT
 HOST-SUFFIX,prf.hn,REJECT
 HOST-SUFFIX,priceypies.com,REJECT
 HOST-SUFFIX,pricklydebt.com,REJECT
@@ -2647,6 +2650,7 @@ HOST-SUFFIX,qctop.com,REJECT
 HOST-SUFFIX,ql.tc,REJECT
 HOST-SUFFIX,qnsr.com,REJECT
 HOST-SUFFIX,qrlsx.com,REJECT
+HOST-SUFFIX,quacksquirrel.com,REJECT
 HOST-SUFFIX,quaintcan.com,REJECT
 HOST-SUFFIX,quantcast.com,REJECT
 HOST-SUFFIX,quantcount.com,REJECT
@@ -2820,6 +2824,7 @@ HOST-SUFFIX,scaredsong.com,REJECT
 HOST-SUFFIX,scaredswing.com,REJECT
 HOST-SUFFIX,scarfsmash.com,REJECT
 HOST-SUFFIX,scatteredheat.com,REJECT
+HOST-SUFFIX,scatteredquiver.com,REJECT
 HOST-SUFFIX,scintillatingscissors.com,REJECT
 HOST-SUFFIX,scintillatingsilver.com,REJECT
 HOST-SUFFIX,scissorsstatement.com,REJECT
@@ -2963,7 +2968,6 @@ HOST-SUFFIX,spirebaboon.com,REJECT
 HOST-SUFFIX,sponsorads.de,REJECT
 HOST-SUFFIX,sponsorpro.de,REJECT
 HOST-SUFFIX,spookysleet.com,REJECT
-HOST-SUFFIX,spot.fitness.com,REJECT
 HOST-SUFFIX,spotlessstamp.com,REJECT
 HOST-SUFFIX,spotscenered.info,REJECT
 HOST-SUFFIX,spotx.tv,REJECT
@@ -3029,6 +3033,7 @@ HOST-SUFFIX,steadfastsound.com,REJECT
 HOST-SUFFIX,steadfastsystem.com,REJECT
 HOST-SUFFIX,steelhouse.com,REJECT
 HOST-SUFFIX,steelhousemedia.com,REJECT
+HOST-SUFFIX,steepscale.com,REJECT
 HOST-SUFFIX,stickyadstv.com,REJECT
 HOST-SUFFIX,stiffgame.com,REJECT
 HOST-SUFFIX,stimulatingsneeze.com,REJECT
@@ -3147,7 +3152,6 @@ HOST-SUFFIX,the-ozone-project.com,REJECT
 HOST-SUFFIX,theadex.com,REJECT
 HOST-SUFFIX,theadhost.com,REJECT
 HOST-SUFFIX,thebugs.ws,REJECT
-HOST-SUFFIX,theclickads.com,REJECT
 HOST-SUFFIX,themoneytizer.com,REJECT
 HOST-SUFFIX,therapistla.com,REJECT
 HOST-SUFFIX,thinkitten.com,REJECT
@@ -3229,8 +3233,6 @@ HOST-SUFFIX,tracker.icerocket.com,REJECT
 HOST-SUFFIX,tracker.metricswave.com,REJECT
 HOST-SUFFIX,tracker.mmdlv.it,REJECT
 HOST-SUFFIX,tracker.samplicio.us,REJECT
-HOST-SUFFIX,tracker.vgame.us,REJECT
-HOST-SUFFIX,tracking.21-a4652-bi.co.uk,REJECT
 HOST-SUFFIX,tracking.28-91473-wbm.co.uk,REJECT
 HOST-SUFFIX,tracking.39-bb4a9-osm.co.uk,REJECT
 HOST-SUFFIX,tracking.42-01pr5-osm-secure.co.uk,REJECT
