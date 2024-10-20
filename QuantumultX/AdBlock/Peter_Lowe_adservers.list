@@ -131,7 +131,6 @@ HOST-SUFFIX,ad.period-calendar.com,REJECT
 HOST-SUFFIX,ad.profiwin.de,REJECT
 HOST-SUFFIX,ad.prv.pl,REJECT
 HOST-SUFFIX,ad.reachlocal.com,REJECT
-HOST-SUFFIX,ad.simflight.com,REJECT
 HOST-SUFFIX,ad.simgames.net,REJECT
 HOST-SUFFIX,ad.style,REJECT
 HOST-SUFFIX,ad.tapthislink.com,REJECT
@@ -181,7 +180,6 @@ HOST-SUFFIX,adbrite.com,REJECT
 HOST-SUFFIX,adbroker.de,REJECT
 HOST-SUFFIX,adbunker.com,REJECT
 HOST-SUFFIX,adbutler.com,REJECT
-HOST-SUFFIX,adbuyer.com,REJECT
 HOST-SUFFIX,adbuyer3.lycos.com,REJECT
 HOST-SUFFIX,adcampo.com,REJECT
 HOST-SUFFIX,adcannyads.com,REJECT
@@ -1363,7 +1361,6 @@ HOST-SUFFIX,collector-dev.cdp-dev.cnn.com,REJECT
 HOST-SUFFIX,collector.cdp.cnn.com,REJECT
 HOST-SUFFIX,colonize.com,REJECT
 HOST-SUFFIX,comfortablecheese.com,REJECT
-HOST-SUFFIX,commindo-media-ressourcen.de,REJECT
 HOST-SUFFIX,commissionmonster.com,REJECT
 HOST-SUFFIX,communications.melitaltd.com,REJECT
 HOST-SUFFIX,compactbanner.com,REJECT
