@@ -6869,6 +6869,7 @@ HOST-SUFFIX,at.maxblue.de,REJECT
 HOST-SUFFIX,at.mclaren.com,REJECT
 HOST-SUFFIX,at.neom.com,REJECT
 HOST-SUFFIX,at.norisbank.de,REJECT
+HOST-SUFFIX,at.pagesjaunes.fr,REJECT
 HOST-SUFFIX,at.postbank.de,REJECT
 HOST-SUFFIX,at.sharpmarketing.eu,REJECT
 HOST-SUFFIX,at.swisscom.ch,REJECT
@@ -13064,7 +13065,6 @@ HOST-SUFFIX,ezgo.advancedtech.com,REJECT
 HOST-SUFFIX,ezhddx.thesouledstore.com,REJECT
 HOST-SUFFIX,eziccr.dedoles.cz,REJECT
 HOST-SUFFIX,ezobam.jdsports.nl,REJECT
-HOST-SUFFIX,ezodn.com,REJECT
 HOST-SUFFIX,ezstat.ru,REJECT
 HOST-SUFFIX,ezuhbd.industrialdiscount.it,REJECT
 HOST-SUFFIX,ezvjys.belezanaweb.com.br,REJECT
@@ -38998,6 +38998,7 @@ HOST-SUFFIX,undurs.1md.org,REJECT
 HOST-SUFFIX,unequalbrake.com,REJECT
 HOST-SUFFIX,unequaltrail.com,REJECT
 HOST-SUFFIX,uni.okane-reco-plus.com,REJECT
+HOST-SUFFIX,unicontainers.com,REJECT
 HOST-SUFFIX,unifiedwfo.verintsystemsinc.com,REJECT
 HOST-SUFFIX,unifilabs.actonservice.com,REJECT
 HOST-SUFFIX,unifyaddition.com,REJECT
