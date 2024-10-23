@@ -9610,7 +9610,6 @@ HOST-SUFFIX,ct.needlive.com,REJECT
 HOST-SUFFIX,ct.pinterest.com,REJECT
 HOST-SUFFIX,ct.taskhuman.com,REJECT
 HOST-SUFFIX,ct5m.citadium.com,REJECT
-HOST-SUFFIX,cta-service-cms2.hubspot.com,REJECT
 HOST-SUFFIX,ctc.wolterskluwer.com,REJECT
 HOST-SUFFIX,ctd.drivescore.com,REJECT
 HOST-SUFFIX,ctdfm.ilgiornale.it,REJECT
@@ -28354,6 +28353,7 @@ HOST-SUFFIX,sg.promo.skf.com,REJECT
 HOST-SUFFIX,sg3.notarize.com,REJECT
 HOST-SUFFIX,sgali-mcs.byteoversea.com,REJECT
 HOST-SUFFIX,sggsbd.fonteyn.nl,REJECT
+HOST-SUFFIX,sgmntfy.com,REJECT
 HOST-SUFFIX,sgms.greatschools.org,REJECT
 HOST-SUFFIX,sgsb.aba.com,REJECT
 HOST-SUFFIX,sgstats.com,REJECT
