@@ -5579,6 +5579,7 @@ HOST-SUFFIX,analytics.virginaustralia.com,REJECT
 HOST-SUFFIX,analytics.virginmobileusa.com,REJECT
 HOST-SUFFIX,analytics.visible.com,REJECT
 HOST-SUFFIX,analytics.vixcloud.co,REJECT
+HOST-SUFFIX,analytics.vortexscans.com,REJECT
 HOST-SUFFIX,analytics.warnertv.fr,REJECT
 HOST-SUFFIX,analytics.wavebox.io,REJECT
 HOST-SUFFIX,analytics.wayland.app,REJECT
@@ -15079,6 +15080,7 @@ HOST-SUFFIX,hitmse.altinbas.com,REJECT
 HOST-SUFFIX,hits.antena3.com,REJECT
 HOST-SUFFIX,hits.dealer.com,REJECT
 HOST-SUFFIX,hits.getelevar.com,REJECT
+HOST-SUFFIX,hits.gokwik.co,REJECT
 HOST-SUFFIX,hits.guardian.co.uk,REJECT
 HOST-SUFFIX,hits.informer.com,REJECT
 HOST-SUFFIX,hits.letras.mus.br,REJECT
@@ -25668,6 +25670,7 @@ HOST-SUFFIX,pulsar.ebay.com,REJECT
 HOST-SUFFIX,pulsatingmeadow.com,REJECT
 HOST-SUFFIX,pulse.delta.com,REJECT
 HOST-SUFFIX,pulse.munsonhealthcare.org,REJECT
+HOST-SUFFIX,pulse.shopflo.com,REJECT
 HOST-SUFFIX,pumlmb.netcologne.de,REJECT
 HOST-SUFFIX,pumpedpancake.com,REJECT
 HOST-SUFFIX,pumpedpurpose.com,REJECT
@@ -32315,6 +32318,7 @@ HOST-SUFFIX,squirrel.cividi.ch,REJECT
 HOST-SUFFIX,squirrel.malaynahocker.com,REJECT
 HOST-SUFFIX,squirrelhands.com,REJECT
 HOST-SUFFIX,sr59t7wbx5.claricelin.com,REJECT
+HOST-SUFFIX,src.freshmarketer.in,REJECT
 HOST-SUFFIX,srd1-pdx.net.jumia.ci,REJECT
 HOST-SUFFIX,srepdata.12newsnow.com,REJECT
 HOST-SUFFIX,srepdata.13wmaz.com,REJECT
