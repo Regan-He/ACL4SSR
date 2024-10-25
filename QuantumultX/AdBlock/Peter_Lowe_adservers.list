@@ -206,6 +206,7 @@ HOST-SUFFIX,ademails.com,REJECT
 HOST-SUFFIX,adengage.com,REJECT
 HOST-SUFFIX,adetracking.com,REJECT
 HOST-SUFFIX,adeure.com,REJECT
+HOST-SUFFIX,adexc.net,REJECT
 HOST-SUFFIX,adexchangegate.com,REJECT
 HOST-SUFFIX,adexchangeprediction.com,REJECT
 HOST-SUFFIX,adexpose.com,REJECT
@@ -733,7 +734,6 @@ HOST-SUFFIX,adservrs.com.edgekey.net,REJECT
 HOST-SUFFIX,adsfac.eu,REJECT
 HOST-SUFFIX,adsfac.net,REJECT
 HOST-SUFFIX,adsfac.us,REJECT
-HOST-SUFFIX,adsfactor.net,REJECT
 HOST-SUFFIX,adsfeed.brabys.com,REJECT
 HOST-SUFFIX,adshrink.it,REJECT
 HOST-SUFFIX,adside.com,REJECT
@@ -793,7 +793,6 @@ HOST-SUFFIX,adtraction.com,REJECT
 HOST-SUFFIX,adtrade.net,REJECT
 HOST-SUFFIX,adultadvertising.com,REJECT
 HOST-SUFFIX,adv-adserver.com,REJECT
-HOST-SUFFIX,adv.cooperhosting.net,REJECT
 HOST-SUFFIX,adv.donejty.pl,REJECT
 HOST-SUFFIX,adv.freeonline.it,REJECT
 HOST-SUFFIX,adv.hwupgrade.it,REJECT
@@ -827,6 +826,7 @@ HOST-SUFFIX,adview.com,REJECT
 HOST-SUFFIX,advisormedia.cz,REJECT
 HOST-SUFFIX,adviva.net,REJECT
 HOST-SUFFIX,advnt.com,REJECT
+HOST-SUFFIX,adwebone.com,REJECT
 HOST-SUFFIX,adwhirl.com,REJECT
 HOST-SUFFIX,adworldnetwork.com,REJECT
 HOST-SUFFIX,adworx.at,REJECT
@@ -1107,7 +1107,6 @@ HOST-SUFFIX,bidbarrel.cbsnews.com,REJECT
 HOST-SUFFIX,bidclix.com,REJECT
 HOST-SUFFIX,bidclix.net,REJECT
 HOST-SUFFIX,bidr.io,REJECT
-HOST-SUFFIX,bidsopt.com,REJECT
 HOST-SUFFIX,bidswitch.net,REJECT
 HOST-SUFFIX,bidtellect.com,REJECT
 HOST-SUFFIX,bidvertiser.com,REJECT
@@ -1470,7 +1469,6 @@ HOST-SUFFIX,daughterstone.com,REJECT
 HOST-SUFFIX,dc-storm.com,REJECT
 HOST-SUFFIX,de17a.com,REJECT
 HOST-SUFFIX,dealdotcom.com,REJECT
-HOST-SUFFIX,debtbusterloans.com,REJECT
 HOST-SUFFIX,decenterads.com,REJECT
 HOST-SUFFIX,decisivebase.com,REJECT
 HOST-SUFFIX,decisivedrawer.com,REJECT
@@ -3474,7 +3472,6 @@ HOST-SUFFIX,worldwidedigitalads.com,REJECT
 HOST-SUFFIX,worriednumber.com,REJECT
 HOST-SUFFIX,wt-eu02.net,REJECT
 HOST-SUFFIX,wt.bankmillennium.pl,REJECT
-HOST-SUFFIX,wtlive.com,REJECT
 HOST-SUFFIX,www-banner.chat.ru,REJECT
 HOST-SUFFIX,www-google-analytics.l.google.com,REJECT
 HOST-SUFFIX,www.dnps.com,REJECT
