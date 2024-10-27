@@ -5758,6 +5758,7 @@ HOST-SUFFIX,api.bunzlaucastle.com,REJECT
 HOST-SUFFIX,api.digitalpiloten.org,REJECT
 HOST-SUFFIX,api.elliehuxtable.com,REJECT
 HOST-SUFFIX,api.fuck.education,REJECT
+HOST-SUFFIX,api.june.so,REJECT
 HOST-SUFFIX,api.ryanyao.design,REJECT
 HOST-SUFFIX,api.wipmania.com,REJECT
 HOST-SUFFIX,apilog-web.acfun.cn,REJECT
@@ -33229,6 +33230,7 @@ HOST-SUFFIX,statistics.tattermedia.com,REJECT
 HOST-SUFFIX,statistics.tuv.com,REJECT
 HOST-SUFFIX,statistics.wibiya.com,REJECT
 HOST-SUFFIX,statisticsplatform.com,REJECT
+HOST-SUFFIX,statistiek.rijksoverheid.nl,REJECT
 HOST-SUFFIX,statistik.apartments-tirolerhaus.at,REJECT
 HOST-SUFFIX,statistik.simaja.de,REJECT
 HOST-SUFFIX,statm.the-adult-company.com,REJECT
