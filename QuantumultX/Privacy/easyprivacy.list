@@ -11256,6 +11256,7 @@ HOST-SUFFIX,dmcnyf.nevzatonay.com,REJECT
 HOST-SUFFIX,dmdgdu.atmosphera.com,REJECT
 HOST-SUFFIX,dmepyodjotcuks.com,REJECT
 HOST-SUFFIX,dmkt.solutions.cas.org,REJECT
+HOST-SUFFIX,dmp.citynews.ovh,REJECT
 HOST-SUFFIX,dmpcdn.el-mundo.net,REJECT
 HOST-SUFFIX,dmpmetrics.rcsmetrics.it,REJECT
 HOST-SUFFIX,dmpxs.com,REJECT
@@ -13502,6 +13503,7 @@ HOST-SUFFIX,fpc.trimarkusa.com,REJECT
 HOST-SUFFIX,fpc.utexas.edu,REJECT
 HOST-SUFFIX,fpcdallasstars.nhl.com,REJECT
 HOST-SUFFIX,fpcdn.io,REJECT
+HOST-SUFFIX,fpcn.bpsgameserver.com,REJECT
 HOST-SUFFIX,fpcs.firemountaingems.com,REJECT
 HOST-SUFFIX,fpcsbulls.nba.com,REJECT
 HOST-SUFFIX,fpghll.rossmann.hu,REJECT
@@ -23096,6 +23098,7 @@ HOST-SUFFIX,minerad.com,REJECT
 HOST-SUFFIX,mini-site.larksuite-marketing.com,REJECT
 HOST-SUFFIX,minorcattle.com,REJECT
 HOST-SUFFIX,minormeeting.com,REJECT
+HOST-SUFFIX,minstats.xyz,REJECT
 HOST-SUFFIX,minusmental.com,REJECT
 HOST-SUFFIX,minuteburst.com,REJECT
 HOST-SUFFIX,minuterhythm.com,REJECT
@@ -32411,6 +32414,7 @@ HOST-SUFFIX,srsg.srglobal.com,REJECT
 HOST-SUFFIX,srtb.msn.com,REJECT
 HOST-SUFFIX,sruk.srglobal.com,REJECT
 HOST-SUFFIX,srv.plesk.com,REJECT
+HOST-SUFFIX,srvgl.com,REJECT
 HOST-SUFFIX,ss.esade.edu,REJECT
 HOST-SUFFIX,ss.photospecialist.at,REJECT
 HOST-SUFFIX,ss.photospecialist.co.uk,REJECT
@@ -39835,7 +39839,6 @@ HOST-SUFFIX,webanalytics.logitechg.com.cn,REJECT
 HOST-SUFFIX,webanalytics.proff.no,REJECT
 HOST-SUFFIX,webanalyticsssl.websense.com,REJECT
 HOST-SUFFIX,webapp.e-post.smn.no,REJECT
-HOST-SUFFIX,webcare.byside.com,REJECT
 HOST-SUFFIX,webcasts.de.ni.com,REJECT
 HOST-SUFFIX,webcasts.partnermcafee.com,REJECT
 HOST-SUFFIX,webcounter.goweb.de,REJECT
