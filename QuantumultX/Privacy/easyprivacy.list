@@ -10700,6 +10700,7 @@ HOST-SUFFIX,deeplinks.pebblebee.com,REJECT
 HOST-SUFFIX,deeplinks.twelve.dynamify.com,REJECT
 HOST-SUFFIX,deeplinktest.yooture.info,REJECT
 HOST-SUFFIX,deeplinkuat.upoker.net,REJECT
+HOST-SUFFIX,deeptack.com,REJECT
 HOST-SUFFIX,deerbeginner.com,REJECT
 HOST-SUFFIX,def.bayer04.de,REJECT
 HOST-SUFFIX,defeatedbadge.com,REJECT
@@ -16554,7 +16555,6 @@ HOST-SUFFIX,info.moneycontrol.network18online.com,REJECT
 HOST-SUFFIX,info.monsooninc.com,REJECT
 HOST-SUFFIX,info.morganfranklin.com,REJECT
 HOST-SUFFIX,info.motion10.nl,REJECT
-HOST-SUFFIX,info.mouser.com,REJECT
 HOST-SUFFIX,info.msconsultants.com,REJECT
 HOST-SUFFIX,info.mshs.com,REJECT
 HOST-SUFFIX,info.multiburo.com,REJECT
@@ -19564,6 +19564,7 @@ HOST-SUFFIX,magento-recs-sdk.adobe.net,REJECT
 HOST-SUFFIX,maggieeatstheangel.com,REJECT
 HOST-SUFFIX,magic.freetrade.io,REJECT
 HOST-SUFFIX,magicaljoin.com,REJECT
+HOST-SUFFIX,magicminibox.com,REJECT
 HOST-SUFFIX,magiczenith.com,REJECT
 HOST-SUFFIX,magnetairport.com,REJECT
 HOST-SUFFIX,magnificentmeasure.com,REJECT
@@ -39280,7 +39281,6 @@ HOST-SUFFIX,vfmahn.slevomat.cz,REJECT
 HOST-SUFFIX,vfo.voyage-prive.co.uk,REJECT
 HOST-SUFFIX,vfo4.carrefour-banque.fr,REJECT
 HOST-SUFFIX,vfvcxv.naturhaeuschen.de,REJECT
-HOST-SUFFIX,vg247-p2.vg247.com,REJECT
 HOST-SUFFIX,vg247-uk.vg247.com,REJECT
 HOST-SUFFIX,vgavzy.spierandmackay.com,REJECT
 HOST-SUFFIX,vgazda.krefel.be,REJECT
