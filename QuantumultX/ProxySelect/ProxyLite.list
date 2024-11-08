@@ -13,7 +13,6 @@ HOST,books.apple.com,🚀 节点选择
 HOST,cdp.cloud.unity3d.com,🚀 节点选择
 HOST,clubhouse.pubnubapi.com,🚀 节点选择
 HOST,copilot.microsoft.com,🚀 节点选择
-HOST,disk.yandex.com,🚀 节点选择
 HOST,lab.skk.moe,🚀 节点选择
 HOST,location.microsoft.com,🚀 节点选择
 HOST,login.microsoftonline.com,🚀 节点选择
@@ -863,6 +862,7 @@ HOST-SUFFIX,xvideos.com,🚀 节点选择
 HOST-SUFFIX,yadi.sk,🚀 节点选择
 HOST-SUFFIX,yahoo.com,🚀 节点选择
 HOST-SUFFIX,yahooapis.com,🚀 节点选择
+HOST-SUFFIX,yandex.com,🚀 节点选择
 HOST-SUFFIX,yandex.ru,🚀 节点选择
 HOST-SUFFIX,yasni.co.uk,🚀 节点选择
 HOST-SUFFIX,yastatic.net,🚀 节点选择
