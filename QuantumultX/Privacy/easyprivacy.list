@@ -5128,6 +5128,7 @@ HOST-SUFFIX,analytics.adobe.ly,REJECT
 HOST-SUFFIX,analytics.adultswim.co.uk,REJECT
 HOST-SUFFIX,analytics.agenedia.com,REJECT
 HOST-SUFFIX,analytics.agoda.com,REJECT
+HOST-SUFFIX,analytics.ahrefs.dev,REJECT
 HOST-SUFFIX,analytics.aimtell.com,REJECT
 HOST-SUFFIX,analytics.airindia.com,REJECT
 HOST-SUFFIX,analytics.airtron.com,REJECT
@@ -12670,6 +12671,7 @@ HOST-SUFFIX,erraticreaction.com,REJECT
 HOST-SUFFIX,error-collector.ted.com,REJECT
 HOST-SUFFIX,error.videonow.ru,REJECT
 HOST-SUFFIX,errorreports.couponcabin.com,REJECT
+HOST-SUFFIX,errors.darkreader.app,REJECT
 HOST-SUFFIX,errors.snackly.co,REJECT
 HOST-SUFFIX,ert5.rmcsport.tv,REJECT
 HOST-SUFFIX,erutinmos.snagajob.com,REJECT
@@ -13730,6 +13732,7 @@ HOST-SUFFIX,g.siliconweek.es,REJECT
 HOST-SUFFIX,g.staging.pathsha.re,REJECT
 HOST-SUFFIX,g.whatsapp.net.iberostar.com,REJECT
 HOST-SUFFIX,g.yccdn.com,REJECT
+HOST-SUFFIX,g10102301085.co,REJECT
 HOST-SUFFIX,g10300385420.co,REJECT
 HOST-SUFFIX,g11686975765.co,REJECT
 HOST-SUFFIX,g1188506010.co,REJECT
@@ -28498,6 +28501,7 @@ HOST-SUFFIX,shelbypublishing.actonservice.com,REJECT
 HOST-SUFFIX,shell-recharge.tupinambaenergia.com.br,REJECT
 HOST-SUFFIX,sheregesh-io.traveler.today,REJECT
 HOST-SUFFIX,shesubscriptions.com,REJECT
+HOST-SUFFIX,shgcdn3.com,REJECT
 HOST-SUFFIX,shhoix0fuonj0hz6.net.fidor.de,REJECT
 HOST-SUFFIX,shinesavage.com,REJECT
 HOST-SUFFIX,shinypond.com,REJECT
@@ -33224,6 +33228,7 @@ HOST-SUFFIX,statistic2.reichelt.de,REJECT
 HOST-SUFFIX,statisticplatform.com,REJECT
 HOST-SUFFIX,statistics.csob.cz,REJECT
 HOST-SUFFIX,statistics.daktilo.com,REJECT
+HOST-SUFFIX,statistics.darkreader.app,REJECT
 HOST-SUFFIX,statistics.fppressa.ru,REJECT
 HOST-SUFFIX,statistics.heatbeat.de,REJECT
 HOST-SUFFIX,statistics.jfmedier.dk,REJECT
@@ -33403,6 +33408,7 @@ HOST-SUFFIX,stats.dailyposter.com,REJECT
 HOST-SUFFIX,stats.danestevens.dev,REJECT
 HOST-SUFFIX,stats.danielwolf.photography,REJECT
 HOST-SUFFIX,stats.danner-landschaftsbau.at,REJECT
+HOST-SUFFIX,stats.darkreader.app,REJECT
 HOST-SUFFIX,stats.dashbit.co,REJECT
 HOST-SUFFIX,stats.datahjaelp.net,REJECT
 HOST-SUFFIX,stats.datamanie.cz,REJECT
@@ -33994,6 +34000,7 @@ HOST-SUFFIX,stats.vattenfall.nl,REJECT
 HOST-SUFFIX,stats.vattenfall.se,REJECT
 HOST-SUFFIX,stats.vdsnow.ru,REJECT
 HOST-SUFFIX,stats.vican.me,REJECT
+HOST-SUFFIX,stats.vidbinge.com,REJECT
 HOST-SUFFIX,stats.viddler.com,REJECT
 HOST-SUFFIX,stats.vidyome.com,REJECT
 HOST-SUFFIX,stats.visions.ch,REJECT
@@ -34052,6 +34059,7 @@ HOST-SUFFIX,statse-omtrdc.deka.de,REJECT
 HOST-SUFFIX,statse.deka-etf.de,REJECT
 HOST-SUFFIX,statsegg.cdngeek.com,REJECT
 HOST-SUFFIX,statshunt.com,REJECT
+HOST-SUFFIX,statsjs.klevu.com,REJECT
 HOST-SUFFIX,statsmp2.emol.com,REJECT
 HOST-SUFFIX,statss.smartdestinations.com,REJECT
 HOST-SUFFIX,statt-collect.herokuapp.com,REJECT
@@ -35101,7 +35109,6 @@ HOST-SUFFIX,tags.johnlewis.com,REJECT
 HOST-SUFFIX,tags.klove.com,REJECT
 HOST-SUFFIX,tags.master-perf-tools.com,REJECT
 HOST-SUFFIX,tags.op-palvelut.fi,REJECT
-HOST-SUFFIX,tags.refinery89.com,REJECT
 HOST-SUFFIX,tags.soloway.ru,REJECT
 HOST-SUFFIX,tags.stepstone.com,REJECT
 HOST-SUFFIX,tagtracking.vibescm.com,REJECT
@@ -35125,7 +35132,6 @@ HOST-SUFFIX,tangyamount.com,REJECT
 HOST-SUFFIX,tangycover.com,REJECT
 HOST-SUFFIX,tao.barstoolsports.com,REJECT
 HOST-SUFFIX,tap.carling.com,REJECT
-HOST-SUFFIX,taplytics-umami.grubhub.com,REJECT
 HOST-SUFFIX,target-omtrdc.deka.de,REJECT
 HOST-SUFFIX,target-test.cisco.com,REJECT
 HOST-SUFFIX,target-us.samsung.com,REJECT
@@ -35985,7 +35991,6 @@ HOST-SUFFIX,tms.hft.hellofresh.com,REJECT
 HOST-SUFFIX,tmt.intelligence.informa.com,REJECT
 HOST-SUFFIX,tmvasapp.fitnessyard.com,REJECT
 HOST-SUFFIX,tmwkya.jh-profishop.at,REJECT
-HOST-SUFFIX,tmx.bestbuy.com,REJECT
 HOST-SUFFIX,tmx.td.com,REJECT
 HOST-SUFFIX,tmxjdr.benaza.ro,REJECT
 HOST-SUFFIX,tmy8.madeindesign.ch,REJECT
