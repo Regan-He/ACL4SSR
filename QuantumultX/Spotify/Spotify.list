@@ -4,8 +4,7 @@ HOST,heads-ak-spotify-com.akamaized.net,🎧 Spotify
 HOST,spotify.com.edgesuite.net,🎧 Spotify
 HOST,spotify.map.fastly.net,🎧 Spotify
 HOST,spotify.map.fastlylb.net,🎧 Spotify
-HOST-KEYWORD,-spotify-,🎧 Spotify
-HOST-KEYWORD,spotify.com,🎧 Spotify
+HOST-KEYWORD,spotify,🎧 Spotify
 HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,🎧 Spotify
 HOST-SUFFIX,byspotify.com,🎧 Spotify
 HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,🎧 Spotify

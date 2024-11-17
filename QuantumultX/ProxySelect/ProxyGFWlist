@@ -24,7 +24,6 @@ HOST-KEYWORD,fbcdn,🚀 节点选择
 HOST-KEYWORD,gmail,🚀 节点选择
 HOST-KEYWORD,google,🚀 节点选择
 HOST-KEYWORD,instagram,🚀 节点选择
-HOST-KEYWORD,musical.ly,🚀 节点选择
 HOST-KEYWORD,onedrive,🚀 节点选择
 HOST-KEYWORD,paypal,🚀 节点选择
 HOST-KEYWORD,porn,🚀 节点选择
@@ -32,7 +31,6 @@ HOST-KEYWORD,sci-hub,🚀 节点选择
 HOST-KEYWORD,skydrive,🚀 节点选择
 HOST-KEYWORD,spotify,🚀 节点选择
 HOST-KEYWORD,telegram,🚀 节点选择
-HOST-KEYWORD,tiktok,🚀 节点选择
 HOST-KEYWORD,ttvnw,🚀 节点选择
 HOST-KEYWORD,twitter,🚀 节点选择
 HOST-KEYWORD,uk-live,🚀 节点选择
@@ -764,7 +762,6 @@ HOST-SUFFIX,bybit.com,🚀 节点选择
 HOST-SUFFIX,bynet.co.il,🚀 节点选择
 HOST-SUFFIX,bypasscensorship.org,🚀 节点选择
 HOST-SUFFIX,byrut.org,🚀 节点选择
-HOST-SUFFIX,byteoversea.com,🚀 节点选择
 HOST-SUFFIX,c-est-simple.com,🚀 节点选择
 HOST-SUFFIX,c-span.org,🚀 节点选择
 HOST-SUFFIX,c-spanvideo.org,🚀 节点选择
@@ -2460,8 +2457,6 @@ HOST-SUFFIX,iblogserv-f.net,🚀 节点选择
 HOST-SUFFIX,ibros.org,🚀 节点选择
 HOST-SUFFIX,ibtimes.com,🚀 节点选择
 HOST-SUFFIX,ibvpn.com,🚀 节点选择
-HOST-SUFFIX,ibytedtos.com,🚀 节点选择
-HOST-SUFFIX,ibyteimg.com,🚀 节点选择
 HOST-SUFFIX,icams.com,🚀 节点选择
 HOST-SUFFIX,icedrive.net,🚀 节点选择
 HOST-SUFFIX,icij.org,🚀 节点选择
@@ -2592,7 +2587,6 @@ HOST-SUFFIX,ipoock.com,🚀 节点选择
 HOST-SUFFIX,iportal.me,🚀 节点选择
 HOST-SUFFIX,ippotv.com,🚀 节点选择
 HOST-SUFFIX,ipredator.se,🚀 节点选择
-HOST-SUFFIX,ipstatp.com,🚀 节点选择
 HOST-SUFFIX,iptv.com.tw,🚀 节点选择
 HOST-SUFFIX,iptvbin.com,🚀 节点选择
 HOST-SUFFIX,ipvanish.com,🚀 节点选择
@@ -3318,7 +3312,6 @@ HOST-SUFFIX,multiproxy.org,🚀 节点选择
 HOST-SUFFIX,multiupload.com,🚀 节点选择
 HOST-SUFFIX,mummysgold.com,🚀 节点选择
 HOST-SUFFIX,murmur.tw,🚀 节点选择
-HOST-SUFFIX,muscdn.com,🚀 节点选择
 HOST-SUFFIX,musicade.net,🚀 节点选择
 HOST-SUFFIX,muslimvideo.com,🚀 节点选择
 HOST-SUFFIX,muzi.com,🚀 节点选择
@@ -4335,7 +4328,6 @@ HOST-SUFFIX,sfshibao.com,🚀 节点选择
 HOST-SUFFIX,sftindia.org,🚀 节点选择
 HOST-SUFFIX,sftuk.org,🚀 节点选择
 HOST-SUFFIX,sfx.ms,🚀 节点选择
-HOST-SUFFIX,sgpstatp.com,🚀 节点选择
 HOST-SUFFIX,shadeyouvpn.com,🚀 节点选择
 HOST-SUFFIX,shadow.ma,🚀 节点选择
 HOST-SUFFIX,shadowsky.xyz,🚀 节点选择
@@ -4956,7 +4948,8 @@ HOST-SUFFIX,tibettruth.com,🚀 节点选择
 HOST-SUFFIX,tibetwrites.org,🚀 节点选择
 HOST-SUFFIX,ticket.com.tw,🚀 节点选择
 HOST-SUFFIX,tigervpn.com,🚀 节点选择
-HOST-SUFFIX,tik-tokapi.com,🚀 节点选择
+HOST-SUFFIX,tiktok.com,🚀 节点选择
+HOST-SUFFIX,tiktokv.com,🚀 节点选择
 HOST-SUFFIX,tiltbrush.com,🚀 节点选择
 HOST-SUFFIX,timdir.com,🚀 节点选择
 HOST-SUFFIX,time.com,🚀 节点选择
@@ -5996,8 +5989,6 @@ IP-CIDR,74.119.76.0/22,🚀 节点选择,no-resolve
 IP-CIDR,74.125.0.0/16,🚀 节点选择,no-resolve
 IP-CIDR,75.126.0.0/16,🚀 节点选择,no-resolve
 IP-CIDR,91.105.192.0/23,🚀 节点选择,no-resolve
-IP-CIDR,101.32.96.0/20,🚀 节点选择,no-resolve
-IP-CIDR,101.32.118.0/23,🚀 节点选择,no-resolve
 IP-CIDR,103.2.28.0/22,🚀 节点选择,no-resolve
 IP-CIDR,103.4.96.0/22,🚀 节点选择,no-resolve
 IP-CIDR,103.27.148.0/22,🚀 节点选择,no-resolve
@@ -6019,7 +6010,6 @@ IP-CIDR,125.6.149.0/24,🚀 节点选择,no-resolve
 IP-CIDR,125.6.190.0/24,🚀 节点选择,no-resolve
 IP-CIDR,125.209.208.0/20,🚀 节点选择,no-resolve
 IP-CIDR,129.134.0.0/17,🚀 节点选择,no-resolve
-IP-CIDR,129.226.0.0/16,🚀 节点选择,no-resolve
 IP-CIDR,147.92.128.0/17,🚀 节点选择,no-resolve
 IP-CIDR,157.240.0.0/17,🚀 节点选择,no-resolve
 IP-CIDR,158.85.5.192/27,🚀 节点选择,no-resolve
