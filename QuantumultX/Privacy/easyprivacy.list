@@ -7197,7 +7197,6 @@ HOST-SUFFIX,b.home.com.au,REJECT
 HOST-SUFFIX,b.iheart.southwest.com,REJECT
 HOST-SUFFIX,b.itravel.southwest.com,REJECT
 HOST-SUFFIX,b.iwanna.southwest.com,REJECT
-HOST-SUFFIX,b.karte.io,REJECT
 HOST-SUFFIX,b.koodomobile.com,REJECT
 HOST-SUFFIX,b.law.com,REJECT
 HOST-SUFFIX,b.lyst.com,REJECT
@@ -8378,6 +8377,7 @@ HOST-SUFFIX,cerionnano.actonservice.com,REJECT
 HOST-SUFFIX,certify.nasm.org,REJECT
 HOST-SUFFIX,cesa6.actonservice.com,REJECT
 HOST-SUFFIX,cesario.bt.no,REJECT
+HOST-SUFFIX,cf-pixelfront-analytics.widencdn.net,REJECT
 HOST-SUFFIX,cf.campagnes-france.com,REJECT
 HOST-SUFFIX,cf.overblog.com,REJECT
 HOST-SUFFIX,cfa.fidelity.com,REJECT
@@ -8875,6 +8875,7 @@ HOST-SUFFIX,collection.saga.co.uk,REJECT
 HOST-SUFFIX,collections.equifax.com,REJECT
 HOST-SUFFIX,collector-api.99designs.com,REJECT
 HOST-SUFFIX,collector-api.frspecifics.com,REJECT
+HOST-SUFFIX,collector-direct.xhamster.com,REJECT
 HOST-SUFFIX,collector-px0py5pczn.octopart.com,REJECT
 HOST-SUFFIX,collector-videoplayer.5centscdn.net,REJECT
 HOST-SUFFIX,collector.api.video,REJECT
@@ -8903,6 +8904,7 @@ HOST-SUFFIX,collector.xhamster.com,REJECT
 HOST-SUFFIX,collector.xhamster.desi,REJECT
 HOST-SUFFIX,collector.xhamster2.com,REJECT
 HOST-SUFFIX,collector.xhamster3.com,REJECT
+HOST-SUFFIX,collector.xhamsterporno.mx,REJECT
 HOST-SUFFIX,collector2c.zhihuishu.com,REJECT
 HOST-SUFFIX,collector5.zipy.ai,REJECT
 HOST-SUFFIX,college.business.oregonstate.edu,REJECT
@@ -9625,6 +9627,7 @@ HOST-SUFFIX,ctlayn.talbots.com,REJECT
 HOST-SUFFIX,ctp1.bforbank.com,REJECT
 HOST-SUFFIX,ctr-iwb.nmg.de,REJECT
 HOST-SUFFIX,ctr-opc.nmg.de,REJECT
+HOST-SUFFIX,ctr.po-kaki-to.com,REJECT
 HOST-SUFFIX,ctrkd.ilsole24ore.com,REJECT
 HOST-SUFFIX,cttest.branch.rocks,REJECT
 HOST-SUFFIX,ctwqxs.autoscout24.at,REJECT
@@ -11908,7 +11911,6 @@ HOST-SUFFIX,elderlybean.com,REJECT
 HOST-SUFFIX,elderlyinsect.com,REJECT
 HOST-SUFFIX,elderlyscissors.com,REJECT
 HOST-SUFFIX,elderlytown.com,REJECT
-HOST-SUFFIX,ele26126.jscrambler.com,REJECT
 HOST-SUFFIX,electricity2.tokyu-ps.jp,REJECT
 HOST-SUFFIX,electrifai.actonservice.com,REJECT
 HOST-SUFFIX,electronics.edm.globalsources.com,REJECT
@@ -12605,6 +12607,7 @@ HOST-SUFFIX,enrolldi.glic.com,REJECT
 HOST-SUFFIX,ens.luzernerzeitung.ch,REJECT
 HOST-SUFFIX,ens.nzz.ch,REJECT
 HOST-SUFFIX,ens.tagblatt.ch,REJECT
+HOST-SUFFIX,entail-insights.com,REJECT
 HOST-SUFFIX,enterdrama.com,REJECT
 HOST-SUFFIX,enterombacerick.com,REJECT
 HOST-SUFFIX,enterprise.dnb.ca,REJECT
@@ -12868,6 +12871,7 @@ HOST-SUFFIX,events.btw.so,REJECT
 HOST-SUFFIX,events.careallies.com,REJECT
 HOST-SUFFIX,events.centex.com,REJECT
 HOST-SUFFIX,events.chaordicsystems.com,REJECT
+HOST-SUFFIX,events.character.ai,REJECT
 HOST-SUFFIX,events.cigna.com,REJECT
 HOST-SUFFIX,events.clips4sale.com,REJECT
 HOST-SUFFIX,events.coface.com,REJECT
@@ -16901,6 +16905,7 @@ HOST-SUFFIX,infosfba.readingpartners.org,REJECT
 HOST-SUFFIX,infospot.roanokegroup.com,REJECT
 HOST-SUFFIX,infotc.readingpartners.org,REJECT
 HOST-SUFFIX,infotul.readingpartners.org,REJECT
+HOST-SUFFIX,ingest.coincodex.com,REJECT
 HOST-SUFFIX,ingest.make.rvapps.io,REJECT
 HOST-SUFFIX,ingest.make.rvohealth.com,REJECT
 HOST-SUFFIX,ingredients.firmenich.com,REJECT
@@ -19123,6 +19128,7 @@ HOST-SUFFIX,log.zongheng.com,REJECT
 HOST-SUFFIX,log000.goo.ne.jp,REJECT
 HOST-SUFFIX,log2.sina.cn,REJECT
 HOST-SUFFIX,logbak.hicloud.com,REJECT
+HOST-SUFFIX,logcollector.note.com,REJECT
 HOST-SUFFIX,logger.bzu.kr,REJECT
 HOST-SUFFIX,logger.kataweb.it,REJECT
 HOST-SUFFIX,logger.nerdwallet.com,REJECT
@@ -19151,6 +19157,7 @@ HOST-SUFFIX,logs-api.shoprunner.com,REJECT
 HOST-SUFFIX,logs-partners.coupang.com,REJECT
 HOST-SUFFIX,logs.51cto.com,REJECT
 HOST-SUFFIX,logs.animaapp.com,REJECT
+HOST-SUFFIX,logs.chatboost-cv.algoage.co.jp,REJECT
 HOST-SUFFIX,logs.hotstar.com,REJECT
 HOST-SUFFIX,logs.mezmo.com,REJECT
 HOST-SUFFIX,logs.naukri.com,REJECT
@@ -24482,6 +24489,7 @@ HOST-SUFFIX,orbis.actonservice.com,REJECT
 HOST-SUFFIX,ordbng.extra.com.br,REJECT
 HOST-SUFFIX,ordpmx.victorianplumbing.co.uk,REJECT
 HOST-SUFFIX,oregonstate.actonservice.com,REJECT
+HOST-SUFFIX,organiccdn.io,REJECT
 HOST-SUFFIX,organizations.stratfor.com,REJECT
 HOST-SUFFIX,orhdev.com,REJECT
 HOST-SUFFIX,orientedargument.com,REJECT
@@ -24688,6 +24696,7 @@ HOST-SUFFIX,pa.travelwhiz.app,REJECT
 HOST-SUFFIX,pabgey.siepomaga.pl,REJECT
 HOST-SUFFIX,pac.thescottishsun.co.uk,REJECT
 HOST-SUFFIX,pac.thesun.co.uk,REJECT
+HOST-SUFFIX,pac.thetimes.com,REJECT
 HOST-SUFFIX,pacstainless.actonservice.com,REJECT
 HOST-SUFFIX,paeppk.spar-mit.com,REJECT
 HOST-SUFFIX,page-events-ustats.udemy.com,REJECT
@@ -25541,6 +25550,7 @@ HOST-SUFFIX,prod.fennec.atp.fox,REJECT
 HOST-SUFFIX,prod.nitrosniffer.ottogroup.io,REJECT
 HOST-SUFFIX,prod.tracking.refinitiv.com,REJECT
 HOST-SUFFIX,proditor.sparda.de,REJECT
+HOST-SUFFIX,prodregistryv2.org,REJECT
 HOST-SUFFIX,producecopy.com,REJECT
 HOST-SUFFIX,producepickle.com,REJECT
 HOST-SUFFIX,product.cel-fi.com,REJECT
@@ -33662,6 +33672,7 @@ HOST-SUFFIX,stats.lippeshirts.de,REJECT
 HOST-SUFFIX,stats.literacysomerset.org,REJECT
 HOST-SUFFIX,stats.literaturkreis.online,REJECT
 HOST-SUFFIX,stats.lmdsp.com,REJECT
+HOST-SUFFIX,stats.locallabs.com,REJECT
 HOST-SUFFIX,stats.localmetravel.com,REJECT
 HOST-SUFFIX,stats.lord.io,REJECT
 HOST-SUFFIX,stats.lotlinx.com,REJECT
@@ -34961,6 +34972,7 @@ HOST-SUFFIX,t.ramblinwreck.com,REJECT
 HOST-SUFFIX,t.raptorsmartadvisor.com,REJECT
 HOST-SUFFIX,t.regionsjob.com,REJECT
 HOST-SUFFIX,t.rentcafe.com,REJECT
+HOST-SUFFIX,t.rentio.jp,REJECT
 HOST-SUFFIX,t.restek.com,REJECT
 HOST-SUFFIX,t.rheumatoidarthritis.com,REJECT
 HOST-SUFFIX,t.richmondspiders.com,REJECT

@@ -23,7 +23,6 @@ HOST,exodus.desync.com,🫣 隐私保护
 HOST,explodie.org,🫣 隐私保护
 HOST,finbytes.org,🫣 隐私保护
 HOST,fleira.no,🫣 隐私保护
-HOST,ftp.pet,🫣 隐私保护
 HOST,highteahop.top,🫣 隐私保护
 HOST,home.yxgz.club,🫣 隐私保护
 HOST,ipv4.rer.lol,🫣 隐私保护
@@ -31,9 +30,9 @@ HOST,isk.richardsw.club,🫣 隐私保护
 HOST,ismaarino.com,🫣 隐私保护
 HOST,jutone.com,🫣 隐私保护
 HOST,kiryuu-test.mywaifu.best,🫣 隐私保护
+HOST,leet-tracker.moe,🫣 隐私保护
 HOST,martin-gebhardt.eu,🫣 隐私保护
 HOST,mathkangaroo.jp,🫣 隐私保护
-HOST,ns-1.x-fins.com,🫣 隐私保护
 HOST,ns1.monolithindustries.com,🫣 隐私保护
 HOST,nyaa.tracker.wf,🫣 隐私保护
 HOST,odd-hd.fr,🫣 隐私保护
@@ -51,7 +50,6 @@ HOST,p2p.publictracker.xyz,🫣 隐私保护
 HOST,p4p.arenabg.com,🫣 隐私保护
 HOST,public.tracker.vraphim.com,🫣 隐私保护
 HOST,pybittrack.retiolus.net,🫣 隐私保护
-HOST,retracker.hotplug.ru,🫣 隐私保护
 HOST,retracker.lanta.me,🫣 隐私保护
 HOST,retracker.spark-rostov.ru,🫣 隐私保护
 HOST,retracker01-msk-virt.corbina.net,🫣 隐私保护
@@ -73,6 +71,7 @@ HOST,tk.leechshield.link,🫣 隐私保护
 HOST,tk1.trackerservers.com,🫣 隐私保护
 HOST,tk2v6.trackerservers.com,🫣 隐私保护
 HOST,torrentsmd.com,🫣 隐私保护
+HOST,tr.abir.ga,🫣 隐私保护
 HOST,tr.burnabyhighstar.com,🫣 隐私保护
 HOST,tr.kxmp.cf,🫣 隐私保护
 HOST,tr.nyacat.pw,🫣 隐私保护
@@ -83,7 +82,6 @@ HOST,trackarr.org,🫣 隐私保护
 HOST,tracker-udp.gbitt.info,🫣 隐私保护
 HOST,tracker-zhuqiy.dgj055.icu,🫣 隐私保护
 HOST,tracker.0x7c0.com,🫣 隐私保护
-HOST,tracker.beeimg.com,🫣 隐私保护
 HOST,tracker.bittor.pw,🫣 隐私保护
 HOST,tracker.bjut.jp,🫣 隐私保护
 HOST,tracker.breizh.pm,🫣 隐私保护
@@ -92,12 +90,12 @@ HOST,tracker.bt4g.com,🫣 隐私保护
 HOST,tracker.bz,🫣 隐私保护
 HOST,tracker.cloudit.top,🫣 隐私保护
 HOST,tracker.corpscorp.online,🫣 隐私保护
-HOST,tracker.cyberia.is,🫣 隐私保护
 HOST,tracker.darkness.services,🫣 隐私保护
 HOST,tracker.deadorbit.nl,🫣 隐私保护
 HOST,tracker.dler.com,🫣 隐私保护
 HOST,tracker.dler.org,🫣 隐私保护
 HOST,tracker.dmcomic.org,🫣 隐私保护
+HOST,tracker.dump.cl,🫣 隐私保护
 HOST,tracker.edkj.club,🫣 隐私保护
 HOST,tracker.filemail.com,🫣 隐私保护
 HOST,tracker.fnix.net,🫣 隐私保护
@@ -114,6 +112,7 @@ HOST,tracker.lilithraws.org,🫣 隐私保护
 HOST,tracker.lintk.me,🫣 隐私保护
 HOST,tracker.moxing.party,🫣 隐私保护
 HOST,tracker.mywaifu.best,🫣 隐私保护
+HOST,tracker.ololosh.space,🫣 隐私保护
 HOST,tracker.opentrackr.org,🫣 隐私保护
 HOST,tracker.openwebtorrent.com,🫣 隐私保护
 HOST,tracker.peckservers.com,🫣 隐私保护
@@ -128,9 +127,9 @@ HOST,tracker.tamersunion.org,🫣 隐私保护
 HOST,tracker.theoks.net,🫣 隐私保护
 HOST,tracker.tiny-vps.com,🫣 隐私保护
 HOST,tracker.torrent.eu.org,🫣 隐私保护
+HOST,tracker.torrust-demo.com,🫣 隐私保护
 HOST,tracker.tryhackx.org,🫣 隐私保护
 HOST,tracker.vanitycore.co,🫣 隐私保护
-HOST,tracker.vraphim.com,🫣 隐私保护
 HOST,tracker.waaa.moe,🫣 隐私保护
 HOST,tracker.xiaoduola.xyz,🫣 隐私保护
 HOST,tracker.yemekyedim.com,🫣 隐私保护
@@ -283,6 +282,3 @@ HOST-SUFFIX,trontv.com,🫣 隐私保护
 HOST-SUFFIX,u2.dmhy.org,🫣 隐私保护
 HOST-SUFFIX,uhdbits.org,🫣 隐私保护
 HOST-SUFFIX,xauat6.edu.cn,🫣 隐私保护
-IP-CIDR,52.58.128.163/32,🫣 隐私保护
-IP-CIDR,207.241.226.111/32,🫣 隐私保护
-IP-CIDR,207.241.231.226/32,🫣 隐私保护
