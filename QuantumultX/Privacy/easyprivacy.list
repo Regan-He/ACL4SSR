@@ -6654,6 +6654,7 @@ HOST-SUFFIX,appointments.swedish.org,REJECT
 HOST-SUFFIX,appredirect.snapdeal.com,REJECT
 HOST-SUFFIX,apprhs.hrm.healthgrades.com,REJECT
 HOST-SUFFIX,approach.wise1-golf.com,REJECT
+HOST-SUFFIX,apps-pbd.ctraffic.io,REJECT
 HOST-SUFFIX,apps-test.spectrum-member.com,REJECT
 HOST-SUFFIX,apps.airmeet.com,REJECT
 HOST-SUFFIX,apps.ayopop.id,REJECT
@@ -12867,6 +12868,7 @@ HOST-SUFFIX,events.baselime.io,REJECT
 HOST-SUFFIX,events.bendigotafe.edu.au,REJECT
 HOST-SUFFIX,events.blackboard.com,REJECT
 HOST-SUFFIX,events.brightline.tv,REJECT
+HOST-SUFFIX,events.bsky.app,REJECT
 HOST-SUFFIX,events.btw.so,REJECT
 HOST-SUFFIX,events.careallies.com,REJECT
 HOST-SUFFIX,events.centex.com,REJECT
@@ -13744,6 +13746,7 @@ HOST-SUFFIX,g1188506010.co,REJECT
 HOST-SUFFIX,g11885060100.co,REJECT
 HOST-SUFFIX,g12083144435.co,REJECT
 HOST-SUFFIX,g12281228770.co,REJECT
+HOST-SUFFIX,g1386590346.co,REJECT
 HOST-SUFFIX,g1584674682.co,REJECT
 HOST-SUFFIX,g1584674684.co,REJECT
 HOST-SUFFIX,g1782759015.co,REJECT
@@ -28393,6 +28396,7 @@ HOST-SUFFIX,shakesuggestion.com,REJECT
 HOST-SUFFIX,shakyseat.com,REJECT
 HOST-SUFFIX,shakysurprise.com,REJECT
 HOST-SUFFIX,shakytaste.com,REJECT
+HOST-SUFFIX,shallowart.com,REJECT
 HOST-SUFFIX,shallowblade.com,REJECT
 HOST-SUFFIX,shallowsmile.com,REJECT
 HOST-SUFFIX,shamerain.com,REJECT
@@ -34246,7 +34250,6 @@ HOST-SUFFIX,strapi.clickjogos.com.br,REJECT
 HOST-SUFFIX,strategycompanion.actonservice.com,REJECT
 HOST-SUFFIX,strawberry.basf.com,REJECT
 HOST-SUFFIX,stream-log.dditscdn.com,REJECT
-HOST-SUFFIX,stream.9now.com.au,REJECT
 HOST-SUFFIX,stream.corporatefinanceinstitute.com,REJECT
 HOST-SUFFIX,streams.cablecar.sph.com.sg,REJECT
 HOST-SUFFIX,streamstats.prd.dlive.tv,REJECT
@@ -37543,6 +37546,7 @@ HOST-SUFFIX,tracker.nbcuas.com,REJECT
 HOST-SUFFIX,tracker.nitropay.com,REJECT
 HOST-SUFFIX,tracker.nocodelytics.com,REJECT
 HOST-SUFFIX,tracker.novage.com.ua,REJECT
+HOST-SUFFIX,tracker.prod.ams3.k8s.hyperia.sk,REJECT
 HOST-SUFFIX,tracker.prom.ua,REJECT
 HOST-SUFFIX,tracker.providence.org,REJECT
 HOST-SUFFIX,tracker.psjhealth.org,REJECT
@@ -39178,6 +39182,7 @@ HOST-SUFFIX,ut19suycy9vt.nowyformat.nofluffjobs.com,REJECT
 HOST-SUFFIX,utapbu.cykelkraft.se,REJECT
 HOST-SUFFIX,utexas.actonservice.com,REJECT
 HOST-SUFFIX,utgckq.reductionrevolution.com.au,REJECT
+HOST-SUFFIX,utics.nodejibi.in,REJECT
 HOST-SUFFIX,utjzyz.phillips.com,REJECT
 HOST-SUFFIX,utklhk.kojima.net,REJECT
 HOST-SUFFIX,utm.semilab.hu,REJECT

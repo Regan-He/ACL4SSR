@@ -2,7 +2,6 @@ HOST-SUFFIX,1-1ads.com,REJECT
 HOST-SUFFIX,101com.com,REJECT
 HOST-SUFFIX,180hits.de,REJECT
 HOST-SUFFIX,180searchassistant.com,REJECT
-HOST-SUFFIX,1link2020.com,REJECT
 HOST-SUFFIX,1rx.io,REJECT
 HOST-SUFFIX,207.net,REJECT
 HOST-SUFFIX,247media.com,REJECT
@@ -391,7 +390,6 @@ HOST-SUFFIX,ads.co.com,REJECT
 HOST-SUFFIX,ads.colombiaonline.com,REJECT
 HOST-SUFFIX,ads.com.com,REJECT
 HOST-SUFFIX,ads.comeon.com,REJECT
-HOST-SUFFIX,ads.contactmusic.com,REJECT
 HOST-SUFFIX,ads.creative-serving.com,REJECT
 HOST-SUFFIX,ads.cybersales.cz,REJECT
 HOST-SUFFIX,ads.dada.it,REJECT
@@ -544,7 +542,6 @@ HOST-SUFFIX,ads.program3.com,REJECT
 HOST-SUFFIX,ads.psd2html.com,REJECT
 HOST-SUFFIX,ads.pubmatic.com,REJECT
 HOST-SUFFIX,ads.quoka.de,REJECT
-HOST-SUFFIX,ads.radialserver.com,REJECT
 HOST-SUFFIX,ads.radio1.lv,REJECT
 HOST-SUFFIX,ads.recoletos.es,REJECT
 HOST-SUFFIX,ads.rediff.com,REJECT
@@ -968,6 +965,7 @@ HOST-SUFFIX,as2.adserverhd.com,REJECT
 HOST-SUFFIX,aserv.motorsgate.com,REJECT
 HOST-SUFFIX,asewlfjqwlflkew.com,REJECT
 HOST-SUFFIX,aso1.net,REJECT
+HOST-SUFFIX,assets1.exgfnetwork.com,REJECT
 HOST-SUFFIX,assoc-amazon.com,REJECT
 HOST-SUFFIX,aswpapius.com,REJECT
 HOST-SUFFIX,aswpsdkus.com,REJECT
@@ -1193,7 +1191,6 @@ HOST-SUFFIX,calmcactus.com,REJECT
 HOST-SUFFIX,calypsocapsule.com,REJECT
 HOST-SUFFIX,campaign.bharatmatrimony.com,REJECT
 HOST-SUFFIX,caniamedia.com,REJECT
-HOST-SUFFIX,capablecows.com,REJECT
 HOST-SUFFIX,capriciouscorn.com,REJECT
 HOST-SUFFIX,captainbicycle.com,REJECT
 HOST-SUFFIX,carambo.la,REJECT
@@ -1297,6 +1294,7 @@ HOST-SUFFIX,click.nl.npr.org,REJECT
 HOST-SUFFIX,click.nvgaming.nvidia.com,REJECT
 HOST-SUFFIX,click.redditmail.com,REJECT
 HOST-SUFFIX,click.twcwigs.com,REJECT
+HOST-SUFFIX,click.v.visionlab.es,REJECT
 HOST-SUFFIX,click2freemoney.com,REJECT
 HOST-SUFFIX,click360v2-ingest.azurewebsites.net,REJECT
 HOST-SUFFIX,click4.pro,REJECT
@@ -1360,13 +1358,13 @@ HOST-SUFFIX,collector-dev.cdp-dev.cnn.com,REJECT
 HOST-SUFFIX,collector.cdp.cnn.com,REJECT
 HOST-SUFFIX,colonize.com,REJECT
 HOST-SUFFIX,comfortablecheese.com,REJECT
+HOST-SUFFIX,commindo-media-ressourcen.de,REJECT
 HOST-SUFFIX,commissionmonster.com,REJECT
 HOST-SUFFIX,communications.melitaltd.com,REJECT
 HOST-SUFFIX,compactbanner.com,REJECT
 HOST-SUFFIX,comparereaction.com,REJECT
 HOST-SUFFIX,compiledoctor.com,REJECT
 HOST-SUFFIX,comprabanner.it,REJECT
-HOST-SUFFIX,concernedchange.com,REJECT
 HOST-SUFFIX,conditionchange.com,REJECT
 HOST-SUFFIX,conductrics.com,REJECT
 HOST-SUFFIX,connatix.com,REJECT
@@ -1447,7 +1445,6 @@ HOST-SUFFIX,cushiondrum.com,REJECT
 HOST-SUFFIX,customad.cnn.com,REJECT
 HOST-SUFFIX,customads.co,REJECT
 HOST-SUFFIX,customers.kameleoon.com,REJECT
-HOST-SUFFIX,cutcurrent.com,REJECT
 HOST-SUFFIX,cutechin.com,REJECT
 HOST-SUFFIX,cxense.com,REJECT
 HOST-SUFFIX,cyberbounty.com,REJECT
@@ -2024,7 +2021,6 @@ HOST-SUFFIX,lakequincy.com,REJECT
 HOST-SUFFIX,lameletters.com,REJECT
 HOST-SUFFIX,larati.net,REJECT
 HOST-SUFFIX,largebrass.com,REJECT
-HOST-SUFFIX,laughcloth.com,REJECT
 HOST-SUFFIX,launchbit.com,REJECT
 HOST-SUFFIX,layer-ad.de,REJECT
 HOST-SUFFIX,layer-ads.de,REJECT
@@ -2465,6 +2461,7 @@ HOST-SUFFIX,pagerank-ranking.de,REJECT
 HOST-SUFFIX,pageranktop.com,REJECT
 HOST-SUFFIX,painstakingpickle.com,REJECT
 HOST-SUFFIX,paleleaf.com,REJECT
+HOST-SUFFIX,panickycurtain.com,REJECT
 HOST-SUFFIX,panickypancake.com,REJECT
 HOST-SUFFIX,panoramicplane.com,REJECT
 HOST-SUFFIX,parachutehome.sjv.io,REJECT
@@ -2567,7 +2564,6 @@ HOST-SUFFIX,predictad.com,REJECT
 HOST-SUFFIX,premium-offers.com,REJECT
 HOST-SUFFIX,presetrabbits.com,REJECT
 HOST-SUFFIX,previousplayground.com,REJECT
-HOST-SUFFIX,previouspotato.com,REJECT
 HOST-SUFFIX,prf.hn,REJECT
 HOST-SUFFIX,priceypies.com,REJECT
 HOST-SUFFIX,pricklydebt.com,REJECT
@@ -2641,7 +2637,6 @@ HOST-SUFFIX,qctop.com,REJECT
 HOST-SUFFIX,ql.tc,REJECT
 HOST-SUFFIX,qnsr.com,REJECT
 HOST-SUFFIX,qrlsx.com,REJECT
-HOST-SUFFIX,quacksquirrel.com,REJECT
 HOST-SUFFIX,quaintcan.com,REJECT
 HOST-SUFFIX,quantcast.com,REJECT
 HOST-SUFFIX,quantcount.com,REJECT
@@ -2817,7 +2812,6 @@ HOST-SUFFIX,scaredsong.com,REJECT
 HOST-SUFFIX,scaredswing.com,REJECT
 HOST-SUFFIX,scarfsmash.com,REJECT
 HOST-SUFFIX,scatteredheat.com,REJECT
-HOST-SUFFIX,scatteredquiver.com,REJECT
 HOST-SUFFIX,scintillatingscissors.com,REJECT
 HOST-SUFFIX,scintillatingsilver.com,REJECT
 HOST-SUFFIX,scissorsstatement.com,REJECT
@@ -2936,6 +2930,7 @@ HOST-SUFFIX,sombersurprise.com,REJECT
 HOST-SUFFIX,somniture.stuff.co.nz,REJECT
 HOST-SUFFIX,somoaudience.com,REJECT
 HOST-SUFFIX,sonobi.com,REJECT
+HOST-SUFFIX,sordidsmile.com,REJECT
 HOST-SUFFIX,sortable.com,REJECT
 HOST-SUFFIX,sourcepoint.vice.com,REJECT
 HOST-SUFFIX,sovrn.com,REJECT
@@ -3024,7 +3019,6 @@ HOST-SUFFIX,steadfastsound.com,REJECT
 HOST-SUFFIX,steadfastsystem.com,REJECT
 HOST-SUFFIX,steelhouse.com,REJECT
 HOST-SUFFIX,steelhousemedia.com,REJECT
-HOST-SUFFIX,steepscale.com,REJECT
 HOST-SUFFIX,stickyadstv.com,REJECT
 HOST-SUFFIX,stiffgame.com,REJECT
 HOST-SUFFIX,stimulatingsneeze.com,REJECT
@@ -3388,7 +3382,6 @@ HOST-SUFFIX,vivads.net,REJECT
 HOST-SUFFIX,vivtracking.com,REJECT
 HOST-SUFFIX,vmmpxl.com,REJECT
 HOST-SUFFIX,voicefive.com,REJECT
-HOST-SUFFIX,voicelessvein.com,REJECT
 HOST-SUFFIX,volatilevessel.com,REJECT
 HOST-SUFFIX,voluum.com,REJECT
 HOST-SUFFIX,voluumtrk2.com,REJECT
