@@ -7,6 +7,7 @@ HOST-SUFFIX,207.net,REJECT
 HOST-SUFFIX,247media.com,REJECT
 HOST-SUFFIX,24log.com,REJECT
 HOST-SUFFIX,24pm-affiliation.com,REJECT
+HOST-SUFFIX,2linkpath.com,REJECT
 HOST-SUFFIX,2mdn.net,REJECT
 HOST-SUFFIX,2o7.net,REJECT
 HOST-SUFFIX,2znp09oa.com,REJECT
@@ -1467,6 +1468,7 @@ HOST-SUFFIX,data.namesakeoscilloscopemarquis.com,REJECT
 HOST-SUFFIX,daughterstone.com,REJECT
 HOST-SUFFIX,dc-storm.com,REJECT
 HOST-SUFFIX,de17a.com,REJECT
+HOST-SUFFIX,deal-on.eu,REJECT
 HOST-SUFFIX,dealdotcom.com,REJECT
 HOST-SUFFIX,decenterads.com,REJECT
 HOST-SUFFIX,decisivebase.com,REJECT
@@ -1494,6 +1496,7 @@ HOST-SUFFIX,digestiondrawer.com,REJECT
 HOST-SUFFIX,digital-ads.s3.amazonaws.com,REJECT
 HOST-SUFFIX,digitalmerkat.com,REJECT
 HOST-SUFFIX,direct-events-collector.spot.im,REJECT
+HOST-SUFFIX,direct-re2.pl,REJECT
 HOST-SUFFIX,directaclick.com,REJECT
 HOST-SUFFIX,directleads.com,REJECT
 HOST-SUFFIX,directorym.com,REJECT
@@ -2683,6 +2686,7 @@ HOST-SUFFIX,ratings.lycos.com,REJECT
 HOST-SUFFIX,rayjump.com,REJECT
 HOST-SUFFIX,rcadserver.com,REJECT
 HOST-SUFFIX,re-direct.pl,REJECT
+HOST-SUFFIX,re-direct1.com,REJECT
 HOST-SUFFIX,reachjunction.com,REJECT
 HOST-SUFFIX,reactx.com,REJECT
 HOST-SUFFIX,readingguilt.com,REJECT
@@ -2753,6 +2757,7 @@ HOST-SUFFIX,richaudience.com,REJECT
 HOST-SUFFIX,richmails.com,REJECT
 HOST-SUFFIX,richstring.com,REJECT
 HOST-SUFFIX,rightstats.com,REJECT
+HOST-SUFFIX,riktok.pl,REJECT
 HOST-SUFFIX,ringplant.com,REJECT
 HOST-SUFFIX,ringsrecord.com,REJECT
 HOST-SUFFIX,ritzykey.com,REJECT
