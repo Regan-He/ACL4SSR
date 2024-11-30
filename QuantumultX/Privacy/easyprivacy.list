@@ -4556,6 +4556,7 @@ HOST-SUFFIX,adex.predear.com,REJECT
 HOST-SUFFIX,adfox.yandex.ru,REJECT
 HOST-SUFFIX,adhudg.nec-lavie.jp,REJECT
 HOST-SUFFIX,adi.ni.com,REJECT
+HOST-SUFFIX,aditude.cloud,REJECT
 HOST-SUFFIX,adixkr.culturekings.com.au,REJECT
 HOST-SUFFIX,adl.bankofthewest.com,REJECT
 HOST-SUFFIX,adl.kkguan.com,REJECT
@@ -25349,6 +25350,7 @@ HOST-SUFFIX,pluckypocket.com,REJECT
 HOST-SUFFIX,pluckyzone.com,REJECT
 HOST-SUFFIX,plugs.jameco.com,REJECT
 HOST-SUFFIX,plusavecmoins.adp.ca,REJECT
+HOST-SUFFIX,pluto.smallpdf.com,REJECT
 HOST-SUFFIX,plv.geocomply.com,REJECT
 HOST-SUFFIX,plwfwc.teknozone.it,REJECT
 HOST-SUFFIX,plyizb.latour-lith.nl,REJECT

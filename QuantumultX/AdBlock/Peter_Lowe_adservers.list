@@ -53,6 +53,7 @@ HOST-SUFFIX,aaxads.com,REJECT
 HOST-SUFFIX,abacho.net,REJECT
 HOST-SUFFIX,abc-ads.com,REJECT
 HOST-SUFFIX,ablink.comms.trainline.com,REJECT
+HOST-SUFFIX,ablink.info.wise.com,REJECT
 HOST-SUFFIX,ablink.news.emails-puregym.com,REJECT
 HOST-SUFFIX,ablinks.mail.hinge.co,REJECT
 HOST-SUFFIX,aboardlevel.com,REJECT
@@ -1104,6 +1105,7 @@ HOST-SUFFIX,bidbarrel.cbsnews.com,REJECT
 HOST-SUFFIX,bidclix.com,REJECT
 HOST-SUFFIX,bidclix.net,REJECT
 HOST-SUFFIX,bidr.io,REJECT
+HOST-SUFFIX,bidsopt.com,REJECT
 HOST-SUFFIX,bidswitch.net,REJECT
 HOST-SUFFIX,bidtellect.com,REJECT
 HOST-SUFFIX,bidvertiser.com,REJECT
@@ -1128,7 +1130,6 @@ HOST-SUFFIX,blogcounter.de,REJECT
 HOST-SUFFIX,blogherads.com,REJECT
 HOST-SUFFIX,blogtoplist.se,REJECT
 HOST-SUFFIX,blogtopsites.com,REJECT
-HOST-SUFFIX,blueadvertise.com,REJECT
 HOST-SUFFIX,blueconic.com,REJECT
 HOST-SUFFIX,blueconic.net,REJECT
 HOST-SUFFIX,bluekai.com,REJECT
@@ -3248,7 +3249,6 @@ HOST-SUFFIX,tracking101.com,REJECT
 HOST-SUFFIX,tracking22.com,REJECT
 HOST-SUFFIX,trackingsoft.com,REJECT
 HOST-SUFFIX,trackmysales.com,REJECT
-HOST-SUFFIX,trackuhub.com,REJECT
 HOST-SUFFIX,tradeadexchange.com,REJECT
 HOST-SUFFIX,tradedoubler.com,REJECT
 HOST-SUFFIX,traffic-exchange.com,REJECT
