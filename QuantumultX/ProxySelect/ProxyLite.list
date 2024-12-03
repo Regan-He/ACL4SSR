@@ -1,5 +1,4 @@
 HOST,addons.mozilla.org,🚀 节点选择
-HOST,amp-api.podcasts.apple.com,🚀 节点选择
 HOST,api.msn.com,🚀 节点选择
 HOST,api.waqi.info,🚀 节点选择
 HOST,aqi.aqicn.org,🚀 节点选择
@@ -8,8 +7,6 @@ HOST,assets1.xboxlive.com,🚀 节点选择
 HOST,assets2.xboxlive.com,🚀 节点选择
 HOST,az416426.vo.msecnd.net,🚀 节点选择
 HOST,az668014.vo.msecnd.net,🚀 节点选择
-HOST,beta.music.apple.com,🚀 节点选择
-HOST,books.apple.com,🚀 节点选择
 HOST,cdp.cloud.unity3d.com,🚀 节点选择
 HOST,clubhouse.pubnubapi.com,🚀 节点选择
 HOST,copilot.microsoft.com,🚀 节点选择
@@ -19,12 +16,10 @@ HOST,login.microsoftonline.com,🚀 节点选择
 HOST,ocsp.int-x3.letsencrypt.org,🚀 节点选择
 HOST,search.yahoo.co.jp,🚀 节点选择
 HOST,self.events.data.microsoft.com,🚀 节点选择
-HOST,tv.apple.com,🚀 节点选择
 HOST,wego.here.com,🚀 节点选择
 HOST-KEYWORD,.pinterest.,🚀 节点选择
 HOST-KEYWORD,1e100,🚀 节点选择
 HOST-KEYWORD,abema,🚀 节点选择
-HOST-KEYWORD,appledaily,🚀 节点选择
 HOST-KEYWORD,avtb,🚀 节点选择
 HOST-KEYWORD,beetalk,🚀 节点选择
 HOST-KEYWORD,dlercloud,🚀 节点选择
@@ -597,7 +592,6 @@ HOST-SUFFIX,slideshare.net,🚀 节点选择
 HOST-SUFFIX,smartdnsproxy.com,🚀 节点选择
 HOST-SUFFIX,smartmailcloud.com,🚀 节点选择
 HOST-SUFFIX,smh.com.au,🚀 节点选择
-HOST-SUFFIX,smoot.apple.com,🚀 节点选择
 HOST-SUFFIX,snapchat.com,🚀 节点选择
 HOST-SUFFIX,sndcdn.com,🚀 节点选择
 HOST-SUFFIX,sockslist.net,🚀 节点选择

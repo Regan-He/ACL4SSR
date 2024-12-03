@@ -77,16 +77,18 @@ function remove_duplicate_ipcidr() {
 }
 
 function remove_unneeded_apple_proxy() {
-    echo "Start processing apple ..."
-    sed -i '/apple/d' "$(
+    echo "Start processing apple tag ..."
+    while read -r file; do
+        sed -i '/apple/d' "${file}"
+    done < <(
         grep -l -r apple "${SCRIPT_DIR}"/ProxySelect
-    )"
-    echo "Done."
+    )
 
-    echo "Start processing apple.com ..."
-    sed -i '/\.apple\.com/d' "$(
+    while read -r file; do
+        sed -i '/\.apple\.com/d' "${file}"
+    done < <(
         grep -l -rE '\.apple\.com' "${SCRIPT_DIR}"/AdBlock
-    )"
+    )
     echo "Done."
 }
 
