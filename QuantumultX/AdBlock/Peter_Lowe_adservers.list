@@ -2839,8 +2839,6 @@ HOST-SUFFIX,secre.jp,REJECT
 HOST-SUFFIX,secretspiders.com,REJECT
 HOST-SUFFIX,secure.webconnect.net,REJECT
 HOST-SUFFIX,securedopen-bp.com,REJECT
-HOST-SUFFIX,securemetrics.apple.com,REJECT
-HOST-SUFFIX,securemetrics.apple.com.cn,REJECT
 HOST-SUFFIX,sedoparking.com,REJECT
 HOST-SUFFIX,sedotracker.com,REJECT
 HOST-SUFFIX,segment-cdn.producthunt.com,REJECT

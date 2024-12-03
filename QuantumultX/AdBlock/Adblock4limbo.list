@@ -379,7 +379,6 @@ HOST-SUFFIX,iad-05.braze.com,REJECT
 HOST-SUFFIX,iad-06.braze.com,REJECT
 HOST-SUFFIX,iad-08.braze.com,REJECT
 HOST-SUFFIX,iad.appboy.com,REJECT
-HOST-SUFFIX,iadsdk.apple.com,REJECT
 HOST-SUFFIX,img.hylmxing.com,REJECT
 HOST-SUFFIX,imgxxx.shunxincar.cn,REJECT
 HOST-SUFFIX,impactserving.com,REJECT
