@@ -1316,6 +1316,7 @@ HOST-SUFFIX,clickfuse.com,REJECT
 HOST-SUFFIX,clickhereforcellphones.com,REJECT
 HOST-SUFFIX,clicklink.jp,REJECT
 HOST-SUFFIX,clickmate.io,REJECT
+HOST-SUFFIX,clickngo.pro,REJECT
 HOST-SUFFIX,clickonometrics.pl,REJECT
 HOST-SUFFIX,clicks.deliveroo.co.uk,REJECT
 HOST-SUFFIX,clicks.equantum.com,REJECT
@@ -1466,6 +1467,7 @@ HOST-SUFFIX,damdoor.com,REJECT
 HOST-SUFFIX,dancemistake.com,REJECT
 HOST-SUFFIX,dapper.net,REJECT
 HOST-SUFFIX,data.namesakeoscilloscopemarquis.com,REJECT
+HOST-SUFFIX,datenow.link,REJECT
 HOST-SUFFIX,daughterstone.com,REJECT
 HOST-SUFFIX,dc-storm.com,REJECT
 HOST-SUFFIX,de17a.com,REJECT
@@ -2709,6 +2711,7 @@ HOST-SUFFIX,recoco.it,REJECT
 HOST-SUFFIX,reconditerake.com,REJECT
 HOST-SUFFIX,record.bonniergaming.com,REJECT
 HOST-SUFFIX,record.mrwin.com,REJECT
+HOST-SUFFIX,redirecting8.eu,REJECT
 HOST-SUFFIX,redirectingat.com,REJECT
 HOST-SUFFIX,redirectvoluum.com,REJECT
 HOST-SUFFIX,redrection.pro,REJECT

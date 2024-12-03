@@ -9898,7 +9898,6 @@ HOST-SUFFIX,d1ros97qkrwjf5.cloudfront.net,REJECT
 HOST-SUFFIX,d1t9uctetvi0tu.cloudfront.net,REJECT
 HOST-SUFFIX,d1tbj6eaenapdy.cloudfront.net,REJECT
 HOST-SUFFIX,d1vg5xiq7qffdj.cloudfront.net,REJECT
-HOST-SUFFIX,d1wix2gc2cgqis.cloudfront.net,REJECT
 HOST-SUFFIX,d1xfq2052q7thw.cloudfront.net,REJECT
 HOST-SUFFIX,d1z3r0i09bwium.cloudfront.net,REJECT
 HOST-SUFFIX,d1z9vm58yath60.cloudfront.net,REJECT
@@ -27185,6 +27184,7 @@ HOST-SUFFIX,sams.spiegel.de,REJECT
 HOST-SUFFIX,samt.frankly.ch,REJECT
 HOST-SUFFIX,samt.swisscanto.com,REJECT
 HOST-SUFFIX,samt.zkb.ch,REJECT
+HOST-SUFFIX,samuraibots.com,REJECT
 HOST-SUFFIX,sanalytics.adobe.tp.gskpro.com,REJECT
 HOST-SUFFIX,sanalytics.adultswim.co.uk,REJECT
 HOST-SUFFIX,sanalytics.allianz-assistance.co.uk,REJECT
@@ -40034,6 +40034,7 @@ HOST-SUFFIX,wigglyindustry.com,REJECT
 HOST-SUFFIX,wigkxx.jetcost.com,REJECT
 HOST-SUFFIX,wildcommittee.com,REJECT
 HOST-SUFFIX,wildernesscamera.com,REJECT
+HOST-SUFFIX,wildwoodavenue.com,REJECT
 HOST-SUFFIX,win.staticstuff.net,REJECT
 HOST-SUFFIX,wirecomic.com,REJECT
 HOST-SUFFIX,wiredforcoffee.com,REJECT
