@@ -5258,6 +5258,7 @@ HOST-SUFFIX,analytics.eventbrite.com,REJECT
 HOST-SUFFIX,analytics.evo.co.uk,REJECT
 HOST-SUFFIX,analytics.faceitanalytics.com,REJECT
 HOST-SUFFIX,analytics.faprika.net,REJECT
+HOST-SUFFIX,analytics.fatmedia.io,REJECT
 HOST-SUFFIX,analytics.favcy.com,REJECT
 HOST-SUFFIX,analytics.ferguson.com,REJECT
 HOST-SUFFIX,analytics.firespring.com,REJECT
@@ -23811,6 +23812,7 @@ HOST-SUFFIX,noa0.compteczam.fr,REJECT
 HOST-SUFFIX,nocaadobefpc.optus.com.au,REJECT
 HOST-SUFFIX,nocturnalloom.com,REJECT
 HOST-SUFFIX,nocturnalmystique.com,REJECT
+HOST-SUFFIX,nodethisweek.com,REJECT
 HOST-SUFFIX,noflake-aggregator-http.narvar.com,REJECT
 HOST-SUFFIX,nogxjk.dackonline.se,REJECT
 HOST-SUFFIX,nohaxn.damattween.com,REJECT
@@ -24080,6 +24082,7 @@ HOST-SUFFIX,offers.hddistributors.com,REJECT
 HOST-SUFFIX,offers.jazelauto.com,REJECT
 HOST-SUFFIX,offers.la-z-boy.com,REJECT
 HOST-SUFFIX,offers.storagepipe.com,REJECT
+HOST-SUFFIX,offshorecyclone.com,REJECT
 HOST-SUFFIX,ofkqiy.knowfashionstyle.com,REJECT
 HOST-SUFFIX,ofqkbk.proclipusa.com,REJECT
 HOST-SUFFIX,ofvosb.jumbo.com.tr,REJECT
@@ -25124,6 +25127,7 @@ HOST-SUFFIX,pixel6.wp.pl,REJECT
 HOST-SUFFIX,pixeledhub.com,REJECT
 HOST-SUFFIX,pixels.afcdn.com,REJECT
 HOST-SUFFIX,pixels.boxberry.ru,REJECT
+HOST-SUFFIX,pixelvariety.com,REJECT
 HOST-SUFFIX,pixelzirkus.gameforge.com,REJECT
 HOST-SUFFIX,pixiedust.buzzfeed.com,REJECT
 HOST-SUFFIX,pixmg.com,REJECT
@@ -27015,6 +27019,7 @@ HOST-SUFFIX,saas.stratitude.com,REJECT
 HOST-SUFFIX,saat.dow.com,REJECT
 HOST-SUFFIX,sabic.actonservice.com,REJECT
 HOST-SUFFIX,sableloss.com,REJECT
+HOST-SUFFIX,sableshelf.com,REJECT
 HOST-SUFFIX,sablesmile.com,REJECT
 HOST-SUFFIX,sablesong.com,REJECT
 HOST-SUFFIX,sabxt.teeoff.com,REJECT
