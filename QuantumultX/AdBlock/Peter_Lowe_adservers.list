@@ -1678,6 +1678,7 @@ HOST-SUFFIX,fimserve.com,REJECT
 HOST-SUFFIX,findcommerce.com,REJECT
 HOST-SUFFIX,findyourcasino.com,REJECT
 HOST-SUFFIX,fingahvf.top,REJECT
+HOST-SUFFIX,fireads.org,REJECT
 HOST-SUFFIX,fireworkadservices.com,REJECT
 HOST-SUFFIX,fireworkanalytics.com,REJECT
 HOST-SUFFIX,fireworks-advertising.com,REJECT
@@ -2306,6 +2307,7 @@ HOST-SUFFIX,mybuys.com,REJECT
 HOST-SUFFIX,mycounter.ua,REJECT
 HOST-SUFFIX,mydas.mobi,REJECT
 HOST-SUFFIX,mylead-tracking.tracknow.info,REJECT
+HOST-SUFFIX,mylead.global,REJECT
 HOST-SUFFIX,mylink-today.com,REJECT
 HOST-SUFFIX,mypagerank.net,REJECT
 HOST-SUFFIX,mypagerank.ru,REJECT

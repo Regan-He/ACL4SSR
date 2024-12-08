@@ -7391,6 +7391,7 @@ HOST-SUFFIX,beacon.watch.impress.co.jp,REJECT
 HOST-SUFFIX,beacon.wikia-services.com,REJECT
 HOST-SUFFIX,beaconcdn.qq.com,REJECT
 HOST-SUFFIX,beaconhealthsystem.hrm.healthgrades.com,REJECT
+HOST-SUFFIX,beacons.digital.disneyadvertising.com,REJECT
 HOST-SUFFIX,beacons.mediamelon.com,REJECT
 HOST-SUFFIX,beadbears.com,REJECT
 HOST-SUFFIX,beafdf.restaupro.com,REJECT
@@ -37523,6 +37524,7 @@ HOST-SUFFIX,tracker.bt.uol.com.br,REJECT
 HOST-SUFFIX,tracker.cauly.co.kr,REJECT
 HOST-SUFFIX,tracker.cdnbye.com,REJECT
 HOST-SUFFIX,tracker.comagic.ru,REJECT
+HOST-SUFFIX,tracker.curama.jp,REJECT
 HOST-SUFFIX,tracker.decomworld.com,REJECT
 HOST-SUFFIX,tracker.digitalcamp.co.kr,REJECT
 HOST-SUFFIX,tracker.downdetector.com,REJECT
