@@ -5551,6 +5551,7 @@ HOST-SUFFIX,analytics.tntsports.com.br,REJECT
 HOST-SUFFIX,analytics.tomato.gg,REJECT
 HOST-SUFFIX,analytics.tondach.pl,REJECT
 HOST-SUFFIX,analytics.top10-charts.com,REJECT
+HOST-SUFFIX,analytics.topseotoolkit.com,REJECT
 HOST-SUFFIX,analytics.tout.com,REJECT
 HOST-SUFFIX,analytics.toyotaforklift.com,REJECT
 HOST-SUFFIX,analytics.tradedoubler.com,REJECT
@@ -7928,7 +7929,6 @@ HOST-SUFFIX,brrmpm.skanskin.kr,REJECT
 HOST-SUFFIX,brshareandrent.eccocar.com,REJECT
 HOST-SUFFIX,brsmovecity.eccocar.com,REJECT
 HOST-SUFFIX,brsolenelocation.eccocar.com,REJECT
-HOST-SUFFIX,brsrvr.com,REJECT
 HOST-SUFFIX,brtelefurgo.eccocar.com,REJECT
 HOST-SUFFIX,brtimove.eccocar.com,REJECT
 HOST-SUFFIX,brtimovesharing.eccocar.com,REJECT
@@ -8354,6 +8354,7 @@ HOST-SUFFIX,cdn1.skrill.com,REJECT
 HOST-SUFFIX,cdn7.baunetz.de,REJECT
 HOST-SUFFIX,cdnhst.xyz,REJECT
 HOST-SUFFIX,cdnral.com,REJECT
+HOST-SUFFIX,cdns.brsrvr.com,REJECT
 HOST-SUFFIX,cdnwidget.com,REJECT
 HOST-SUFFIX,cdp.cifinancial.com,REJECT
 HOST-SUFFIX,cdp.yna.co.kr,REJECT
@@ -14691,6 +14692,7 @@ HOST-SUFFIX,god.vsee.me,REJECT
 HOST-SUFFIX,godev.steps.me,REJECT
 HOST-SUFFIX,godiciardstia.com,REJECT
 HOST-SUFFIX,godlygeese.com,REJECT
+HOST-SUFFIX,godseedband.com,REJECT
 HOST-SUFFIX,gogaej.momastore.jp,REJECT
 HOST-SUFFIX,gogofunding.actonservice.com,REJECT
 HOST-SUFFIX,gogovapps.actonservice.com,REJECT
