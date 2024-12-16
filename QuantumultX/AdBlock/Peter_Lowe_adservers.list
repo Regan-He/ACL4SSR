@@ -863,6 +863,7 @@ HOST-SUFFIX,affiliatetracking.com,REJECT
 HOST-SUFFIX,affiliatetracking.net,REJECT
 HOST-SUFFIX,affiliatewindow.com,REJECT
 HOST-SUFFIX,affiliation-france.com,REJECT
+HOST-SUFFIX,afflnx.com,REJECT
 HOST-SUFFIX,afftracking.justanswer.com,REJECT
 HOST-SUFFIX,afraidlanguage.com,REJECT
 HOST-SUFFIX,agkn.com,REJECT
@@ -926,7 +927,6 @@ HOST-SUFFIX,analytics.yahoo.com,REJECT
 HOST-SUFFIX,analyticsapi.happypancake.net,REJECT
 HOST-SUFFIX,ancientact.com,REJECT
 HOST-SUFFIX,androiddownload.net,REJECT
-HOST-SUFFIX,angossa.com,REJECT
 HOST-SUFFIX,aniview.com,REJECT
 HOST-SUFFIX,annonser.dagbladet.no,REJECT
 HOST-SUFFIX,annoyedairport.com,REJECT
@@ -1095,6 +1095,7 @@ HOST-SUFFIX,benefits.sovendus.com,REJECT
 HOST-SUFFIX,benfly.net,REJECT
 HOST-SUFFIX,berp.com,REJECT
 HOST-SUFFIX,bespoke.iln8.net,REJECT
+HOST-SUFFIX,best-click.pro,REJECT
 HOST-SUFFIX,bestboundary.com,REJECT
 HOST-SUFFIX,bestbuy.7tiv.net,REJECT
 HOST-SUFFIX,bewilderedblade.com,REJECT
@@ -1353,6 +1354,7 @@ HOST-SUFFIX,cmvrclicks000.com,REJECT
 HOST-SUFFIX,cnomy.com,REJECT
 HOST-SUFFIX,cnt.spbland.ru,REJECT
 HOST-SUFFIX,cnt1.pocitadlo.cz,REJECT
+HOST-SUFFIX,cnvlink.com,REJECT
 HOST-SUFFIX,cny.yoyo.org,REJECT
 HOST-SUFFIX,codeadnetwork.com,REJECT
 HOST-SUFFIX,cognitiv.ai,REJECT
@@ -1678,6 +1680,7 @@ HOST-SUFFIX,fimserve.com,REJECT
 HOST-SUFFIX,findcommerce.com,REJECT
 HOST-SUFFIX,findyourcasino.com,REJECT
 HOST-SUFFIX,fingahvf.top,REJECT
+HOST-SUFFIX,fireads.online,REJECT
 HOST-SUFFIX,fireads.org,REJECT
 HOST-SUFFIX,fireworkadservices.com,REJECT
 HOST-SUFFIX,fireworkanalytics.com,REJECT
@@ -1808,6 +1811,7 @@ HOST-SUFFIX,guardeddirection.com,REJECT
 HOST-SUFFIX,guardedschool.com,REJECT
 HOST-SUFFIX,gunggo.com,REJECT
 HOST-SUFFIX,h-bid.com,REJECT
+HOST-SUFFIX,h-trck.com,REJECT
 HOST-SUFFIX,h0.t.hubspotemail.net,REJECT
 HOST-SUFFIX,h78xb.pw,REJECT
 HOST-SUFFIX,habitualhumor.com,REJECT
@@ -2069,7 +2073,6 @@ HOST-SUFFIX,lifeimpressions.net,REJECT
 HOST-SUFFIX,liftdna.com,REJECT
 HOST-SUFFIX,ligatus.com,REJECT
 HOST-SUFFIX,ligatus.de,REJECT
-HOST-SUFFIX,lightcast.leadscoringcenter.com,REJECT
 HOST-SUFFIX,lightspeedcash.com,REJECT
 HOST-SUFFIX,lightstep.medium.systems,REJECT
 HOST-SUFFIX,lijit.com,REJECT
@@ -2471,6 +2474,7 @@ HOST-SUFFIX,pagerank-ranking.de,REJECT
 HOST-SUFFIX,pageranktop.com,REJECT
 HOST-SUFFIX,painstakingpickle.com,REJECT
 HOST-SUFFIX,paleleaf.com,REJECT
+HOST-SUFFIX,panatenlink.pl,REJECT
 HOST-SUFFIX,panickycurtain.com,REJECT
 HOST-SUFFIX,panickypancake.com,REJECT
 HOST-SUFFIX,panoramicplane.com,REJECT
@@ -2568,6 +2572,7 @@ HOST-SUFFIX,postback.iqm.com,REJECT
 HOST-SUFFIX,postrelease.com,REJECT
 HOST-SUFFIX,ppc.adhere.marchex.com,REJECT
 HOST-SUFFIX,pr-star.de,REJECT
+HOST-SUFFIX,praddpro.de,REJECT
 HOST-SUFFIX,prchecker.info,REJECT
 HOST-SUFFIX,prebid.org,REJECT
 HOST-SUFFIX,predictad.com,REJECT
@@ -2609,6 +2614,7 @@ HOST-SUFFIX,protraffic.com,REJECT
 HOST-SUFFIX,provenpixel.com,REJECT
 HOST-SUFFIX,prpops.com,REJECT
 HOST-SUFFIX,prsitecheck.com,REJECT
+HOST-SUFFIX,prufenzo.xyz,REJECT
 HOST-SUFFIX,pstmrk.it,REJECT
 HOST-SUFFIX,psychedelicchess.com,REJECT
 HOST-SUFFIX,ptoushoa.com,REJECT
@@ -2676,6 +2682,7 @@ HOST-SUFFIX,railwayreason.com,REJECT
 HOST-SUFFIX,rambunctiousflock.com,REJECT
 HOST-SUFFIX,rampidads.com,REJECT
 HOST-SUFFIX,randkuj.xyz,REJECT
+HOST-SUFFIX,randkula.online,REJECT
 HOST-SUFFIX,rankchamp.de,REJECT
 HOST-SUFFIX,ranking-charts.de,REJECT
 HOST-SUFFIX,ranking-hits.de,REJECT
@@ -2941,6 +2948,7 @@ HOST-SUFFIX,sombersurprise.com,REJECT
 HOST-SUFFIX,somniture.stuff.co.nz,REJECT
 HOST-SUFFIX,somoaudience.com,REJECT
 HOST-SUFFIX,sonobi.com,REJECT
+HOST-SUFFIX,sordidsmile.com,REJECT
 HOST-SUFFIX,sortable.com,REJECT
 HOST-SUFFIX,sourcepoint.vice.com,REJECT
 HOST-SUFFIX,sovrn.com,REJECT
@@ -3209,6 +3217,7 @@ HOST-SUFFIX,track.mailerlite.com,REJECT
 HOST-SUFFIX,track.miro.com,REJECT
 HOST-SUFFIX,track.nationalgunrights.org,REJECT
 HOST-SUFFIX,track.privacyatclearbit.com,REJECT
+HOST-SUFFIX,track.przejdzdostrony.pl,REJECT
 HOST-SUFFIX,track.pubmatic.com,REJECT
 HOST-SUFFIX,track.segmetrics.io,REJECT
 HOST-SUFFIX,track.software-codes.com,REJECT
@@ -3224,7 +3233,6 @@ HOST-SUFFIX,trackedlink.net,REJECT
 HOST-SUFFIX,trackedweb.net,REJECT
 HOST-SUFFIX,tracker-pm2.spilleren.com,REJECT
 HOST-SUFFIX,tracker.bannerflow.com,REJECT
-HOST-SUFFIX,tracker.cdnbye.com,REJECT
 HOST-SUFFIX,tracker.icerocket.com,REJECT
 HOST-SUFFIX,tracker.metricswave.com,REJECT
 HOST-SUFFIX,tracker.mmdlv.it,REJECT

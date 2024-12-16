@@ -8402,6 +8402,7 @@ HOST-SUFFIX,cgwebmetrics.capgroup.com,REJECT
 HOST-SUFFIX,ch.credithypo.com,REJECT
 HOST-SUFFIX,ch.sharpmarketing.eu,REJECT
 HOST-SUFFIX,ch0p.darty.com,REJECT
+HOST-SUFFIX,chademocharge.com,REJECT
 HOST-SUFFIX,chaireggnog.com,REJECT
 HOST-SUFFIX,chairscrack.com,REJECT
 HOST-SUFFIX,chairsdonkey.com,REJECT
@@ -12937,7 +12938,6 @@ HOST-SUFFIX,events.santander.co.uk,REJECT
 HOST-SUFFIX,events.shareably.net,REJECT
 HOST-SUFFIX,events.sk.ht,REJECT
 HOST-SUFFIX,events.splash-screen.net,REJECT
-HOST-SUFFIX,events.split.io,REJECT
 HOST-SUFFIX,events.squarespace.com,REJECT
 HOST-SUFFIX,events.storifyme.com,REJECT
 HOST-SUFFIX,events.tafensw.edu.au,REJECT
@@ -14735,7 +14735,6 @@ HOST-SUFFIX,governmentcloud.avaya.com,REJECT
 HOST-SUFFIX,govirtualoffice.actonservice.com,REJECT
 HOST-SUFFIX,gowestgroup.actonservice.com,REJECT
 HOST-SUFFIX,gowhiteowl.actonservice.com,REJECT
-HOST-SUFFIX,goya.rutube.ru,REJECT
 HOST-SUFFIX,gozncj.stealthangelsurvival.com,REJECT
 HOST-SUFFIX,gp.oddo-bhf.com,REJECT
 HOST-SUFFIX,gpiljd.thetiebar.com,REJECT
@@ -19164,6 +19163,7 @@ HOST-SUFFIX,logql.yahoo.co.jp,REJECT
 HOST-SUFFIX,logs-api.shoprunner.com,REJECT
 HOST-SUFFIX,logs-partners.coupang.com,REJECT
 HOST-SUFFIX,logs.51cto.com,REJECT
+HOST-SUFFIX,logs.adplay.ru,REJECT
 HOST-SUFFIX,logs.animaapp.com,REJECT
 HOST-SUFFIX,logs.chatboost-cv.algoage.co.jp,REJECT
 HOST-SUFFIX,logs.hotstar.com,REJECT
@@ -19576,6 +19576,7 @@ HOST-SUFFIX,mackaytracking.newyorklifeinvestments.com,REJECT
 HOST-SUFFIX,maddeningpowder.com,REJECT
 HOST-SUFFIX,madebyintent.com,REJECT
 HOST-SUFFIX,madisoncres.actonservice.com,REJECT
+HOST-SUFFIX,madlysuccessful.com,REJECT
 HOST-SUFFIX,madrid.report.botm.transparentedge.io,REJECT
 HOST-SUFFIX,maeketing.net.gafas.es,REJECT
 HOST-SUFFIX,mafiahairdresser.actonservice.com,REJECT
@@ -24803,6 +24804,7 @@ HOST-SUFFIX,pages.zenefits.com,REJECT
 HOST-SUFFIX,pages2.rizap.jp,REJECT
 HOST-SUFFIX,pagesense-collect.zoho.com,REJECT
 HOST-SUFFIX,pagesocket.glam.com,REJECT
+HOST-SUFFIX,pageviews.tray.com.br,REJECT
 HOST-SUFFIX,paginaseloqua.unisabana.edu.co,REJECT
 HOST-SUFFIX,pailcrime.com,REJECT
 HOST-SUFFIX,pailpatch.com,REJECT
@@ -33157,6 +33159,7 @@ HOST-SUFFIX,stat.dauc.cz,REJECT
 HOST-SUFFIX,stat.dbschenker.com,REJECT
 HOST-SUFFIX,stat.detelefoongids.nl,REJECT
 HOST-SUFFIX,stat.eagleplatform.com,REJECT
+HOST-SUFFIX,stat.fly.codes,REJECT
 HOST-SUFFIX,stat.funshion.net,REJECT
 HOST-SUFFIX,stat.glaze.ai,REJECT
 HOST-SUFFIX,stat.gomastercard.com.au,REJECT
@@ -35790,6 +35793,7 @@ HOST-SUFFIX,tidymitten.com,REJECT
 HOST-SUFFIX,tif.ionos.com,REJECT
 HOST-SUFFIX,tightpowder.com,REJECT
 HOST-SUFFIX,tiglck.technopolis.bg,REJECT
+HOST-SUFFIX,tiktok.tray.com.br,REJECT
 HOST-SUFFIX,tilanalytics.timesinternet.in,REJECT
 HOST-SUFFIX,tilt.bankofamerica.com,REJECT
 HOST-SUFFIX,tim.nextinpact.com,REJECT
