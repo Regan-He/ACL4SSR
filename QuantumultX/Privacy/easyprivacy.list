@@ -28331,6 +28331,7 @@ HOST-SUFFIX,serverracer.com,REJECT
 HOST-SUFFIX,service.athlon.com,REJECT
 HOST-SUFFIX,service.bechtle.com,REJECT
 HOST-SUFFIX,service.hcob-bank.de,REJECT
+HOST-SUFFIX,service.techzine.eu,REJECT
 HOST-SUFFIX,service.trustpid.com,REJECT
 HOST-SUFFIX,service.vrp.com,REJECT
 HOST-SUFFIX,serviceo.comcast.net,REJECT
