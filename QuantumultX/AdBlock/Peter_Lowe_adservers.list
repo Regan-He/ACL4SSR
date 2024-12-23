@@ -862,7 +862,6 @@ HOST-SUFFIX,affiliates.ultrahosting.com,REJECT
 HOST-SUFFIX,affiliatetracking.com,REJECT
 HOST-SUFFIX,affiliatetracking.net,REJECT
 HOST-SUFFIX,affiliatewindow.com,REJECT
-HOST-SUFFIX,affiliation-france.com,REJECT
 HOST-SUFFIX,afflnx.com,REJECT
 HOST-SUFFIX,afftracking.justanswer.com,REJECT
 HOST-SUFFIX,afraidlanguage.com,REJECT
@@ -1316,7 +1315,6 @@ HOST-SUFFIX,clickedyclick.com,REJECT
 HOST-SUFFIX,clickfuse.com,REJECT
 HOST-SUFFIX,clickhereforcellphones.com,REJECT
 HOST-SUFFIX,clicklink.jp,REJECT
-HOST-SUFFIX,clickmate.io,REJECT
 HOST-SUFFIX,clickngo.pro,REJECT
 HOST-SUFFIX,clickonometrics.pl,REJECT
 HOST-SUFFIX,clicks.deliveroo.co.uk,REJECT
@@ -2361,6 +2359,7 @@ HOST-SUFFIX,newsletter-link.com,REJECT
 HOST-SUFFIX,newstarads.com,REJECT
 HOST-SUFFIX,newt1.adultadworld.com,REJECT
 HOST-SUFFIX,newt1.adultworld.com,REJECT
+HOST-SUFFIX,nexac.com,REJECT
 HOST-SUFFIX,nexage.com,REJECT
 HOST-SUFFIX,ng3.ads.warnerbros.com,REJECT
 HOST-SUFFIX,nitroclicks.com,REJECT
@@ -3233,6 +3232,7 @@ HOST-SUFFIX,trackedlink.net,REJECT
 HOST-SUFFIX,trackedweb.net,REJECT
 HOST-SUFFIX,tracker-pm2.spilleren.com,REJECT
 HOST-SUFFIX,tracker.bannerflow.com,REJECT
+HOST-SUFFIX,tracker.cdnbye.com,REJECT
 HOST-SUFFIX,tracker.icerocket.com,REJECT
 HOST-SUFFIX,tracker.metricswave.com,REJECT
 HOST-SUFFIX,tracker.mmdlv.it,REJECT
@@ -3436,7 +3436,6 @@ HOST-SUFFIX,webstat.channel4.com,REJECT
 HOST-SUFFIX,webstat.com,REJECT
 HOST-SUFFIX,webstat.net,REJECT
 HOST-SUFFIX,webtrackerplus.com,REJECT
-HOST-SUFFIX,webtracky.com,REJECT
 HOST-SUFFIX,webtraffic.se,REJECT
 HOST-SUFFIX,webtraxx.de,REJECT
 HOST-SUFFIX,webxcdn.com,REJECT

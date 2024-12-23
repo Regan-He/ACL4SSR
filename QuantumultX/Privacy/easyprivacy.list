@@ -4801,6 +4801,7 @@ HOST-SUFFIX,afmvms.dealdash.com,REJECT
 HOST-SUFFIX,afoykb.ebook.de,REJECT
 HOST-SUFFIX,afpd.groundwidgets.com,REJECT
 HOST-SUFFIX,afraidlanguage.com,REJECT
+HOST-SUFFIX,afrdtech.com,REJECT
 HOST-SUFFIX,africa.edm.globalsources.com,REJECT
 HOST-SUFFIX,africa.promo.skf.com,REJECT
 HOST-SUFFIX,africafr.promo.skf.com,REJECT
@@ -7588,6 +7589,7 @@ HOST-SUFFIX,bluemarblepayroll.actonservice.com,REJECT
 HOST-SUFFIX,bluemountains.actonservice.com,REJECT
 HOST-SUFFIX,blueoceanpharma.actonservice.com,REJECT
 HOST-SUFFIX,blueoyster.click,REJECT
+HOST-SUFFIX,bluevinebooks.com,REJECT
 HOST-SUFFIX,blushingbeast.com,REJECT
 HOST-SUFFIX,blushingboundary.com,REJECT
 HOST-SUFFIX,blushingbread.com,REJECT
@@ -14764,6 +14766,7 @@ HOST-SUFFIX,grandfatherguitar.com,REJECT
 HOST-SUFFIX,grandiosefire.com,REJECT
 HOST-SUFFIX,grandioseguide.com,REJECT
 HOST-SUFFIX,grandmotherunit.com,REJECT
+HOST-SUFFIX,granlite.com,REJECT
 HOST-SUFFIX,grapeopinion.com,REJECT
 HOST-SUFFIX,grassrootsunwired.actonservice.com,REJECT
 HOST-SUFFIX,gravitygive.com,REJECT
@@ -21540,6 +21543,7 @@ HOST-SUFFIX,message.sonicwall.com,REJECT
 HOST-SUFFIX,messagenovice.com,REJECT
 HOST-SUFFIX,messages.blackhat.com,REJECT
 HOST-SUFFIX,messyoranges.com,REJECT
+HOST-SUFFIX,mesure-pro.engie.fr,REJECT
 HOST-SUFFIX,met.jasperforge.org,REJECT
 HOST-SUFFIX,met.sewell.com,REJECT
 HOST-SUFFIX,met.vgwort.de,REJECT
@@ -23131,6 +23135,7 @@ HOST-SUFFIX,mirec.ubmmexico.com,REJECT
 HOST-SUFFIX,mirvso.boggi.com,REJECT
 HOST-SUFFIX,miscreantmine.com,REJECT
 HOST-SUFFIX,miscreantmoon.com,REJECT
+HOST-SUFFIX,missionrewards.com,REJECT
 HOST-SUFFIX,missionrs.actonservice.com,REJECT
 HOST-SUFFIX,mistyhorizon.com,REJECT
 HOST-SUFFIX,mit.bhw.de,REJECT
@@ -23154,6 +23159,7 @@ HOST-SUFFIX,mittencattle.com,REJECT
 HOST-SUFFIX,mix-omniture.rbs.com,REJECT
 HOST-SUFFIX,mixedreading.com,REJECT
 HOST-SUFFIX,mixomniture.rbs.com,REJECT
+HOST-SUFFIX,mixpanel-proxy.coingecko.com,REJECT
 HOST-SUFFIX,mixpanel-proxy.ted.com,REJECT
 HOST-SUFFIX,mixxuo.sportys.gr,REJECT
 HOST-SUFFIX,mj-snowplow-static-js.s3.amazonaws.com,REJECT
@@ -23305,6 +23311,7 @@ HOST-SUFFIX,monitoring.iraiser.eu,REJECT
 HOST-SUFFIX,monorail-edge.shopifysvc.com,REJECT
 HOST-SUFFIX,monster.branch.rocks,REJECT
 HOST-SUFFIX,montelena.auction.co.kr,REJECT
+HOST-SUFFIX,monthlyhat.com,REJECT
 HOST-SUFFIX,montpalatin.handicap.fr,REJECT
 HOST-SUFFIX,monu.delivery,REJECT
 HOST-SUFFIX,moodlerooms.blackboard.com,REJECT
@@ -31842,6 +31849,7 @@ HOST-SUFFIX,snalytics.allianz-voyage.fr,REJECT
 HOST-SUFFIX,snalytics.allyz.com,REJECT
 HOST-SUFFIX,snalytics.travelinsurance.ca,REJECT
 HOST-SUFFIX,snappyreport.com,REJECT
+HOST-SUFFIX,snapsgate.com,REJECT
 HOST-SUFFIX,snapshotapp.progressive.com,REJECT
 HOST-SUFFIX,snbwyi.heine.at,REJECT
 HOST-SUFFIX,snd.freshstartnews.com,REJECT
@@ -35417,6 +35425,7 @@ HOST-SUFFIX,targetstore.actonservice.com,REJECT
 HOST-SUFFIX,targettur.www.svenskaspel.se,REJECT
 HOST-SUFFIX,tarttendency.com,REJECT
 HOST-SUFFIX,tas.bdoaustralia.bdo.com.au,REJECT
+HOST-SUFFIX,tasksimplify.com,REJECT
 HOST-SUFFIX,tasteeat.openapp.link,REJECT
 HOST-SUFFIX,tastefulsongs.com,REJECT
 HOST-SUFFIX,tastelesstoes.com,REJECT
@@ -39070,6 +39079,7 @@ HOST-SUFFIX,unknownidea.com,REJECT
 HOST-SUFFIX,unknowntray.com,REJECT
 HOST-SUFFIX,unl1zvy2zuyn.franchiseplus.nl,REJECT
 HOST-SUFFIX,unleash.livepix.gg,REJECT
+HOST-SUFFIX,unloadyourself.com,REJECT
 HOST-SUFFIX,unm.emol.com,REJECT
 HOST-SUFFIX,unsubscribe.datadelivers.com,REJECT
 HOST-SUFFIX,unsubscribe.e.silverfernfarms.com,REJECT
