@@ -110,7 +110,6 @@ HOST-SUFFIX,ad.exyws.org,REJECT
 HOST-SUFFIX,ad.grafika.cz,REJECT
 HOST-SUFFIX,ad.gt,REJECT
 HOST-SUFFIX,ad.hbv.de,REJECT
-HOST-SUFFIX,ad.hodomobile.com,REJECT
 HOST-SUFFIX,ad.hyena.cz,REJECT
 HOST-SUFFIX,ad.iinfo.cz,REJECT
 HOST-SUFFIX,ad.infoseek.com,REJECT
@@ -1037,7 +1036,6 @@ HOST-SUFFIX,bannergrabber.internet.gr,REJECT
 HOST-SUFFIX,bannerimage.com,REJECT
 HOST-SUFFIX,bannermall.com,REJECT
 HOST-SUFFIX,bannermanager.bnr.bg,REJECT
-HOST-SUFFIX,bannermarkt.nl,REJECT
 HOST-SUFFIX,bannerpower.com,REJECT
 HOST-SUFFIX,banners.adultfriendfinder.com,REJECT
 HOST-SUFFIX,banners.amigos.com,REJECT
@@ -1269,6 +1267,7 @@ HOST-SUFFIX,click.cartsguru.io,REJECT
 HOST-SUFFIX,click.cision.com,REJECT
 HOST-SUFFIX,click.classmates.com,REJECT
 HOST-SUFFIX,click.comm.rcibank.co.uk,REJECT
+HOST-SUFFIX,click.crm.ba.com,REJECT
 HOST-SUFFIX,click.digital.metaquestmail.com,REJECT
 HOST-SUFFIX,click.discord.com,REJECT
 HOST-SUFFIX,click.e.bbcmail.co.uk,REJECT
@@ -1721,7 +1720,6 @@ HOST-SUFFIX,freezingbuilding.com,REJECT
 HOST-SUFFIX,frequentflesh.com,REJECT
 HOST-SUFFIX,freshrelevance.com,REJECT
 HOST-SUFFIX,frightenedpotato.com,REJECT
-HOST-SUFFIX,frogator.com,REJECT
 HOST-SUFFIX,fronttoad.com,REJECT
 HOST-SUFFIX,frtyj.com,REJECT
 HOST-SUFFIX,frtyk.com,REJECT
@@ -2031,6 +2029,7 @@ HOST-SUFFIX,lakequincy.com,REJECT
 HOST-SUFFIX,lameletters.com,REJECT
 HOST-SUFFIX,larati.net,REJECT
 HOST-SUFFIX,largebrass.com,REJECT
+HOST-SUFFIX,laughcloth.com,REJECT
 HOST-SUFFIX,launchbit.com,REJECT
 HOST-SUFFIX,layer-ad.de,REJECT
 HOST-SUFFIX,layer-ads.de,REJECT
@@ -3200,6 +3199,7 @@ HOST-SUFFIX,topstats.com,REJECT
 HOST-SUFFIX,totemcash.com,REJECT
 HOST-SUFFIX,touchclarity.com,REJECT
 HOST-SUFFIX,tour.brazzers.com,REJECT
+HOST-SUFFIX,track-on.eu,REJECT
 HOST-SUFFIX,track-on.pl,REJECT
 HOST-SUFFIX,track.adform.net,REJECT
 HOST-SUFFIX,track.anchorfree.com,REJECT
@@ -3409,7 +3409,6 @@ HOST-SUFFIX,vungle.com,REJECT
 HOST-SUFFIX,w55c.net,REJECT
 HOST-SUFFIX,wa.and.co.uk,REJECT
 HOST-SUFFIX,waardex.com,REJECT
-HOST-SUFFIX,warlog.ru,REJECT
 HOST-SUFFIX,warmafterthought.com,REJECT
 HOST-SUFFIX,washbanana.com,REJECT
 HOST-SUFFIX,wateryvan.com,REJECT

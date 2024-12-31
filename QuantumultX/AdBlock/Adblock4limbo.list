@@ -359,6 +359,7 @@ HOST-SUFFIX,ggsfq.com,REJECT
 HOST-SUFFIX,gn01.top,REJECT
 HOST-SUFFIX,go.mnaspm.com,REJECT
 HOST-SUFFIX,go.myavlive.com,REJECT
+HOST-SUFFIX,go.xlvirdr.com,REJECT
 HOST-SUFFIX,googleadservices.com,REJECT
 HOST-SUFFIX,googleadsserving.cn,REJECT
 HOST-SUFFIX,googlesyndication.com,REJECT
@@ -445,6 +446,7 @@ HOST-SUFFIX,rads.msn.com,REJECT
 HOST-SUFFIX,realsrv.com,REJECT
 HOST-SUFFIX,referrer.disqus.com,REJECT
 HOST-SUFFIX,regulationprivilegescan.top,REJECT
+HOST-SUFFIX,rmhfrtnd.com,REJECT
 HOST-SUFFIX,run.haireig.com,REJECT
 HOST-SUFFIX,s.csyfe.com,REJECT
 HOST-SUFFIX,s10.histats.com,REJECT
@@ -460,6 +462,7 @@ HOST-SUFFIX,tcc.qscvli.com,REJECT
 HOST-SUFFIX,tfosrv.com,REJECT
 HOST-SUFFIX,thumb.fvs.io,REJECT
 HOST-SUFFIX,tj.orlandowaggons.com,REJECT
+HOST-SUFFIX,trackwilltrk.com,REJECT
 HOST-SUFFIX,trafficforce.com,REJECT
 HOST-SUFFIX,trafforsrv.com,REJECT
 HOST-SUFFIX,tskdfjksldk.sdhsgcj.com,REJECT
