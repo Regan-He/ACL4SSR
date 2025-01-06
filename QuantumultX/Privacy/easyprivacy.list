@@ -84,7 +84,6 @@ HOST-SUFFIX,2smt6mfgo.de,REJECT
 HOST-SUFFIX,2tty.overstappen.nl,REJECT
 HOST-SUFFIX,2yqcaqbfnv.nextgen.shareablee.com,REJECT
 HOST-SUFFIX,2znp09oa.com,REJECT
-HOST-SUFFIX,31daa5lnq.de,REJECT
 HOST-SUFFIX,3347.wolf-gordon.com,REJECT
 HOST-SUFFIX,3347.wolfgordon.com,REJECT
 HOST-SUFFIX,34.215.155.61,REJECT
@@ -8730,6 +8729,7 @@ HOST-SUFFIX,cmr.customer.americanexpress.de,REJECT
 HOST-SUFFIX,cmrcustomer.americanexpress.co.uk,REJECT
 HOST-SUFFIX,cmrcustomer.americanexpress.es,REJECT
 HOST-SUFFIX,cmrhvx.lojapegada.com.br,REJECT
+HOST-SUFFIX,cms-stats-view.vitrinabox.com,REJECT
 HOST-SUFFIX,cms.hardloopaanbiedingen.nl,REJECT
 HOST-SUFFIX,cmtmwn.ditano.com,REJECT
 HOST-SUFFIX,cmttvv.bonprix.se,REJECT
@@ -8857,6 +8857,7 @@ HOST-SUFFIX,collect2.allianz.ch,REJECT
 HOST-SUFFIX,collection.e-satisfaction.com,REJECT
 HOST-SUFFIX,collection.saga.co.uk,REJECT
 HOST-SUFFIX,collections.equifax.com,REJECT
+HOST-SUFFIX,collector-1.ex.co,REJECT
 HOST-SUFFIX,collector-api.99designs.com,REJECT
 HOST-SUFFIX,collector-api.frspecifics.com,REJECT
 HOST-SUFFIX,collector-direct.xhamster.com,REJECT
@@ -9248,6 +9249,7 @@ HOST-SUFFIX,content.booksplusapp.com,REJECT
 HOST-SUFFIX,content.box.net,REJECT
 HOST-SUFFIX,content.brain-storm-email.com,REJECT
 HOST-SUFFIX,content.cammackhealth.com,REJECT
+HOST-SUFFIX,content.canadiantire.ca,REJECT
 HOST-SUFFIX,content.cannon-dunphy.com,REJECT
 HOST-SUFFIX,content.ceriumnetworks.com,REJECT
 HOST-SUFFIX,content.commandc.com,REJECT
@@ -10705,7 +10707,6 @@ HOST-SUFFIX,delicateducks.com,REJECT
 HOST-SUFFIX,deliciousducks.com,REJECT
 HOST-SUFFIX,delightfulhour.com,REJECT
 HOST-SUFFIX,delikoko.openapp.link,REJECT
-HOST-SUFFIX,deliver.ptgncdn.com,REJECT
 HOST-SUFFIX,delivery.email-pepipost.branch.rocks,REJECT
 HOST-SUFFIX,delivery.lululemon.com,REJECT
 HOST-SUFFIX,delivery.marketing.boutiqaat.com,REJECT
@@ -15377,7 +15378,6 @@ HOST-SUFFIX,iconnode.com,REJECT
 HOST-SUFFIX,icslearn.actonsoftware.com,REJECT
 HOST-SUFFIX,ictrjw.barcastores.com,REJECT
 HOST-SUFFIX,id-ward.com,REJECT
-HOST-SUFFIX,id5-sync.com,REJECT
 HOST-SUFFIX,idbkfy.kango-roo.com,REJECT
 HOST-SUFFIX,iddu1vvb7sk8-a.akamaihd.net,REJECT
 HOST-SUFFIX,ideadevice.actonservice.com,REJECT
@@ -15385,6 +15385,7 @@ HOST-SUFFIX,ideas.nanawall.com,REJECT
 HOST-SUFFIX,identification.hotmart.com,REJECT
 HOST-SUFFIX,idg1.idgarages.com,REJECT
 HOST-SUFFIX,idgptg.esm-computer.de,REJECT
+HOST-SUFFIX,idhtm.bb.com.br,REJECT
 HOST-SUFFIX,idianw.warmteservice.nl,REJECT
 HOST-SUFFIX,idlqzb.puntoscolombia.com,REJECT
 HOST-SUFFIX,idm.api.autohome.com.cn,REJECT
@@ -16946,7 +16947,6 @@ HOST-SUFFIX,insights.squintopera.com,REJECT
 HOST-SUFFIX,insights.v3.decathlon.net,REJECT
 HOST-SUFFIX,insights.zinio.com,REJECT
 HOST-SUFFIX,insightseries.redbull.racing,REJECT
-HOST-SUFFIX,insigit.com,REJECT
 HOST-SUFFIX,insitez.blob.core.windows.net,REJECT
 HOST-SUFFIX,inspire.changehealthcare.com,REJECT
 HOST-SUFFIX,inspire.ubmfashion.com,REJECT
@@ -17236,7 +17236,6 @@ HOST-SUFFIX,jatpmv.megacolchoes.com.br,REJECT
 HOST-SUFFIX,javascriptcounter.appspot.com,REJECT
 HOST-SUFFIX,javs.actonservice.com,REJECT
 HOST-SUFFIX,javvso.newone-shop.com,REJECT
-HOST-SUFFIX,jazzyzest.cfd,REJECT
 HOST-SUFFIX,jbbljg.autoscout24.bg,REJECT
 HOST-SUFFIX,jbezdi.ilsole24ore.com,REJECT
 HOST-SUFFIX,jc917x3.adaptive.marketing,REJECT
@@ -19398,6 +19397,7 @@ HOST-SUFFIX,lyegyo.bluenile.com,REJECT
 HOST-SUFFIX,lyfnh.io,REJECT
 HOST-SUFFIX,lyfrir.purehockey.com,REJECT
 HOST-SUFFIX,lynjbq.sizeofficial.nl,REJECT
+HOST-SUFFIX,lynx.gruender.de,REJECT
 HOST-SUFFIX,lyonsdown.actonservice.com,REJECT
 HOST-SUFFIX,lyricshook.com,REJECT
 HOST-SUFFIX,lytics.findairpods.com,REJECT
@@ -23249,7 +23249,6 @@ HOST-SUFFIX,monster.branch.rocks,REJECT
 HOST-SUFFIX,montelena.auction.co.kr,REJECT
 HOST-SUFFIX,monthlyhat.com,REJECT
 HOST-SUFFIX,montpalatin.handicap.fr,REJECT
-HOST-SUFFIX,monu.delivery,REJECT
 HOST-SUFFIX,moodlerooms.blackboard.com,REJECT
 HOST-SUFFIX,moorshoes.com,REJECT
 HOST-SUFFIX,more.groups.be,REJECT
@@ -27362,6 +27361,7 @@ HOST-SUFFIX,sawap.equifax.com,REJECT
 HOST-SUFFIX,say.hello.navan.com,REJECT
 HOST-SUFFIX,say.hello.tripactions.com,REJECT
 HOST-SUFFIX,sayac.kapital.com.tr,REJECT
+HOST-SUFFIX,sayinnovation.com,REJECT
 HOST-SUFFIX,saysidewalk.com,REJECT
 HOST-SUFFIX,sb.mynewplace.com,REJECT
 HOST-SUFFIX,sbc-app-links.specialized.com,REJECT
@@ -31829,6 +31829,7 @@ HOST-SUFFIX,solar.sharpmarketing.eu,REJECT
 HOST-SUFFIX,solar.sunpower.com,REJECT
 HOST-SUFFIX,solar.sunpowercorp.com,REJECT
 HOST-SUFFIX,solarislabyrinth.com,REJECT
+HOST-SUFFIX,soleblinds.com,REJECT
 HOST-SUFFIX,solicitud.pacifico.com.pe,REJECT
 HOST-SUFFIX,solidscape.actonservice.com,REJECT
 HOST-SUFFIX,solmax.actonservice.com,REJECT
@@ -35662,7 +35663,6 @@ HOST-SUFFIX,thanks.hubspaces.jp,REJECT
 HOST-SUFFIX,thanks.olivesitter.com,REJECT
 HOST-SUFFIX,thanks.tsubaki-musicschool.com,REJECT
 HOST-SUFFIX,thaqyl.mediamarkt.nl,REJECT
-HOST-SUFFIX,thatmonkeybites3.com,REJECT
 HOST-SUFFIX,thebasiccompanies.actonservice.com,REJECT
 HOST-SUFFIX,thebdx.actonservice.com,REJECT
 HOST-SUFFIX,thecea.actonservice.com,REJECT
@@ -39247,7 +39247,6 @@ HOST-SUFFIX,vezsyr.bxblue.com.br,REJECT
 HOST-SUFFIX,vf.startpage.com,REJECT
 HOST-SUFFIX,vfd2dyn.vodafone.de,REJECT
 HOST-SUFFIX,vfghe.com,REJECT
-HOST-SUFFIX,vfgte.com,REJECT
 HOST-SUFFIX,vfmahn.slevomat.cz,REJECT
 HOST-SUFFIX,vfo.voyage-prive.co.uk,REJECT
 HOST-SUFFIX,vfo4.carrefour-banque.fr,REJECT

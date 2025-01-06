@@ -1128,6 +1128,7 @@ HOST-SUFFIX,blogcounter.de,REJECT
 HOST-SUFFIX,blogherads.com,REJECT
 HOST-SUFFIX,blogtoplist.se,REJECT
 HOST-SUFFIX,blogtopsites.com,REJECT
+HOST-SUFFIX,blueadvertise.com,REJECT
 HOST-SUFFIX,blueconic.com,REJECT
 HOST-SUFFIX,blueconic.net,REJECT
 HOST-SUFFIX,bluekai.com,REJECT
@@ -2311,7 +2312,6 @@ HOST-SUFFIX,mylead-tracking.tracknow.info,REJECT
 HOST-SUFFIX,mylead.global,REJECT
 HOST-SUFFIX,mylink-today.com,REJECT
 HOST-SUFFIX,mypagerank.net,REJECT
-HOST-SUFFIX,mypagerank.ru,REJECT
 HOST-SUFFIX,mypowermall.com,REJECT
 HOST-SUFFIX,mystat-in.net,REJECT
 HOST-SUFFIX,mystat.pl,REJECT
@@ -2473,7 +2473,6 @@ HOST-SUFFIX,pageranktop.com,REJECT
 HOST-SUFFIX,painstakingpickle.com,REJECT
 HOST-SUFFIX,paleleaf.com,REJECT
 HOST-SUFFIX,panatenlink.pl,REJECT
-HOST-SUFFIX,panickycurtain.com,REJECT
 HOST-SUFFIX,panickypancake.com,REJECT
 HOST-SUFFIX,panoramicplane.com,REJECT
 HOST-SUFFIX,parachutehome.sjv.io,REJECT
@@ -2946,7 +2945,6 @@ HOST-SUFFIX,sombersurprise.com,REJECT
 HOST-SUFFIX,somniture.stuff.co.nz,REJECT
 HOST-SUFFIX,somoaudience.com,REJECT
 HOST-SUFFIX,sonobi.com,REJECT
-HOST-SUFFIX,sordidsmile.com,REJECT
 HOST-SUFFIX,sortable.com,REJECT
 HOST-SUFFIX,sourcepoint.vice.com,REJECT
 HOST-SUFFIX,sovrn.com,REJECT
