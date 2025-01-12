@@ -1128,7 +1128,6 @@ HOST-SUFFIX,blogcounter.de,REJECT
 HOST-SUFFIX,blogherads.com,REJECT
 HOST-SUFFIX,blogtoplist.se,REJECT
 HOST-SUFFIX,blogtopsites.com,REJECT
-HOST-SUFFIX,blueadvertise.com,REJECT
 HOST-SUFFIX,blueconic.com,REJECT
 HOST-SUFFIX,blueconic.net,REJECT
 HOST-SUFFIX,bluekai.com,REJECT
@@ -1744,7 +1743,6 @@ HOST-SUFFIX,fxstyle.net,REJECT
 HOST-SUFFIX,g2.gumgum.com,REJECT
 HOST-SUFFIX,ga.clearbit.com,REJECT
 HOST-SUFFIX,gadsbee.com,REJECT
-HOST-SUFFIX,galaxien.com,REJECT
 HOST-SUFFIX,game-advertising-online.com,REJECT
 HOST-SUFFIX,gamesites100.net,REJECT
 HOST-SUFFIX,gamesites200.com,REJECT
@@ -1775,6 +1773,7 @@ HOST-SUFFIX,go-rank.de,REJECT
 HOST-SUFFIX,go-redirect.pl,REJECT
 HOST-SUFFIX,go.dhs.gov,REJECT
 HOST-SUFFIX,go.eu.sparkpostmail1.com,REJECT
+HOST-SUFFIX,go.first.org,REJECT
 HOST-SUFFIX,go.icann.org,REJECT
 HOST-SUFFIX,go.scmagazine.com,REJECT
 HOST-SUFFIX,go.usa.gov,REJECT
@@ -2050,7 +2049,6 @@ HOST-SUFFIX,lemnisk.co,REJECT
 HOST-SUFFIX,lever-analytics.com,REJECT
 HOST-SUFFIX,lfeeder.com,REJECT
 HOST-SUFFIX,lfstmedia.com,REJECT
-HOST-SUFFIX,lgad.cjpowercast.com.edgesuite.net,REJECT
 HOST-SUFFIX,lgsmartad.com,REJECT
 HOST-SUFFIX,li.alibris.com,REJECT
 HOST-SUFFIX,li.azstarnet.com,REJECT
@@ -2153,6 +2151,7 @@ HOST-SUFFIX,mail-ads.google.com,REJECT
 HOST-SUFFIX,maltiverse.lt.acemlnc.com,REJECT
 HOST-SUFFIX,manageadv.cblogs.eu,REJECT
 HOST-SUFFIX,mantisadnetwork.com,REJECT
+HOST-SUFFIX,mapcommand.com,REJECT
 HOST-SUFFIX,marinsm.com,REJECT
 HOST-SUFFIX,markedmeasure.com,REJECT
 HOST-SUFFIX,marketing.888.com,REJECT

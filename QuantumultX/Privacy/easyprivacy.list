@@ -8064,6 +8064,7 @@ HOST-SUFFIX,bzqxze.remixshop.com,REJECT
 HOST-SUFFIX,bzuaqh.roan.nl,REJECT
 HOST-SUFFIX,c-c-l.actonservice.com,REJECT
 HOST-SUFFIX,c-t.topya.com,REJECT
+HOST-SUFFIX,c.albss.com,REJECT
 HOST-SUFFIX,c.amazinglybrilliant.com.au,REJECT
 HOST-SUFFIX,c.aquaservice.com,REJECT
 HOST-SUFFIX,c.arstechnica.com,REJECT
@@ -8881,6 +8882,7 @@ HOST-SUFFIX,collector.pi.spectrum.net,REJECT
 HOST-SUFFIX,collector.quillbot.com,REJECT
 HOST-SUFFIX,collector.schibsted.io,REJECT
 HOST-SUFFIX,collector.sspinc.io,REJECT
+HOST-SUFFIX,collector.t-idr.com,REJECT
 HOST-SUFFIX,collector.taoxh.life,REJECT
 HOST-SUFFIX,collector.wawlabs.com,REJECT
 HOST-SUFFIX,collector.xhaccess.com,REJECT
@@ -11366,6 +11368,7 @@ HOST-SUFFIX,drawservant.com,REJECT
 HOST-SUFFIX,dreamycanyon.com,REJECT
 HOST-SUFFIX,dressexpansion.com,REJECT
 HOST-SUFFIX,drfdisvc.walmart.com,REJECT
+HOST-SUFFIX,driftingchef.com,REJECT
 HOST-SUFFIX,driftpizza.com,REJECT
 HOST-SUFFIX,dripappliance.com,REJECT
 HOST-SUFFIX,drive.carpoollogistics.com,REJECT
@@ -19611,6 +19614,7 @@ HOST-SUFFIX,majesticwaterscape.com,REJECT
 HOST-SUFFIX,majesticwilderness.com,REJECT
 HOST-SUFFIX,makbti.bandofboats.com,REJECT
 HOST-SUFFIX,makeshiftmine.com,REJECT
+HOST-SUFFIX,makesimpact.com,REJECT
 HOST-SUFFIX,maliciousmusic.com,REJECT
 HOST-SUFFIX,maling.dn.no,REJECT
 HOST-SUFFIX,mallioras.openapp.link,REJECT
@@ -19625,6 +19629,7 @@ HOST-SUFFIX,mantrafox.com,REJECT
 HOST-SUFFIX,manufacturing.autodeskcommunications.com,REJECT
 HOST-SUFFIX,map.rockwellautomation.com,REJECT
 HOST-SUFFIX,mapbasin.com,REJECT
+HOST-SUFFIX,mapcommand.com,REJECT
 HOST-SUFFIX,mapixl.com,REJECT
 HOST-SUFFIX,mapp.biryanibykilo.com,REJECT
 HOST-SUFFIX,mapp.ewm.co.uk,REJECT
@@ -23073,6 +23078,7 @@ HOST-SUFFIX,miscreantmine.com,REJECT
 HOST-SUFFIX,miscreantmoon.com,REJECT
 HOST-SUFFIX,missionrewards.com,REJECT
 HOST-SUFFIX,missionrs.actonservice.com,REJECT
+HOST-SUFFIX,mistervillas.com,REJECT
 HOST-SUFFIX,mistyhorizon.com,REJECT
 HOST-SUFFIX,mit.bhw.de,REJECT
 HOST-SUFFIX,mit.db.com,REJECT
@@ -24970,10 +24976,8 @@ HOST-SUFFIX,pinchsquirrel.com,REJECT
 HOST-SUFFIX,pine.clk.click,REJECT
 HOST-SUFFIX,pine.nervecentral.com,REJECT
 HOST-SUFFIX,ping.dozuki.com,REJECT
-HOST-SUFFIX,ping.fastsimon.com,REJECT
 HOST-SUFFIX,ping.hashnode.com,REJECT
 HOST-SUFFIX,ping.hungama.com,REJECT
-HOST-SUFFIX,ping.instantsearchplus.com,REJECT
 HOST-SUFFIX,ping.naturadapt.com,REJECT
 HOST-SUFFIX,ping.paidy.com,REJECT
 HOST-SUFFIX,ping.resoluteoil.com,REJECT
@@ -34129,6 +34133,7 @@ HOST-SUFFIX,stnt.sky.at,REJECT
 HOST-SUFFIX,stnt.sky.de,REJECT
 HOST-SUFFIX,stockingsleet.com,REJECT
 HOST-SUFFIX,stockingsneeze.com,REJECT
+HOST-SUFFIX,stocktheme.com,REJECT
 HOST-SUFFIX,stomachscience.com,REJECT
 HOST-SUFFIX,stonechin.com,REJECT
 HOST-SUFFIX,stopstomach.com,REJECT
