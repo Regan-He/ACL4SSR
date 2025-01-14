@@ -10459,6 +10459,7 @@ HOST-SUFFIX,data.tw-email.princess.com,REJECT
 HOST-SUFFIX,data.tw-guest.princess.com,REJECT
 HOST-SUFFIX,data.txn.puntoscolombia.com,REJECT
 HOST-SUFFIX,data.ubi.com,REJECT
+HOST-SUFFIX,data.ublock-browser.com,REJECT
 HOST-SUFFIX,data.uk-email.princess.com,REJECT
 HOST-SUFFIX,data.uk-guest.princess.com,REJECT
 HOST-SUFFIX,data.umfrage.aetkasmart.de,REJECT
@@ -22190,6 +22191,7 @@ HOST-SUFFIX,metrics.huffingtonpost.es,REJECT
 HOST-SUFFIX,metrics.huntington.com,REJECT
 HOST-SUFFIX,metrics.huntingtonsdiseasehcp.com,REJECT
 HOST-SUFFIX,metrics.hydraulicspneumatics.com,REJECT
+HOST-SUFFIX,metrics.hyperliquid.xyz,REJECT
 HOST-SUFFIX,metrics.hyundaiusa.com,REJECT
 HOST-SUFFIX,metrics.icloud.com,REJECT
 HOST-SUFFIX,metrics.iconfitness.com,REJECT
@@ -32274,6 +32276,7 @@ HOST-SUFFIX,springsnails.com,REJECT
 HOST-SUFFIX,sproutingbag.com,REJECT
 HOST-SUFFIX,sprtnd.com,REJECT
 HOST-SUFFIX,sprydelta.com,REJECT
+HOST-SUFFIX,sprysummit.com,REJECT
 HOST-SUFFIX,spscas.hitachi-solutions.co.jp,REJECT
 HOST-SUFFIX,spt.ahram.org.eg,REJECT
 HOST-SUFFIX,spuriousair.com,REJECT
