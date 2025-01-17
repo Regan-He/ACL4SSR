@@ -12819,6 +12819,7 @@ HOST-SUFFIX,event3.thermofisher.com,REJECT
 HOST-SUFFIX,event3.thermoscientific.com,REJECT
 HOST-SUFFIX,eventapi.libring.com,REJECT
 HOST-SUFFIX,eventbus.intuit.com,REJECT
+HOST-SUFFIX,eventcollector.mcf-prod.a.intuit.com,REJECT
 HOST-SUFFIX,eventexistence.com,REJECT
 HOST-SUFFIX,eventgateway.soundcloud.com,REJECT
 HOST-SUFFIX,eventlog.chatlead.com,REJECT

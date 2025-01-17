@@ -276,6 +276,7 @@ HOST-SUFFIX,a.adforcast.com,REJECT
 HOST-SUFFIX,a.bestcontentfood.top,REJECT
 HOST-SUFFIX,a.realsrv.com,REJECT
 HOST-SUFFIX,a.shukriya90.com,REJECT
+HOST-SUFFIX,ad-nex.com,REJECT
 HOST-SUFFIX,ad.cmvideo.cn,REJECT
 HOST-SUFFIX,ad.pornimg.xyz,REJECT
 HOST-SUFFIX,ad.sohu.com,REJECT
@@ -384,6 +385,7 @@ HOST-SUFFIX,iad-08.braze.com,REJECT
 HOST-SUFFIX,iad.appboy.com,REJECT
 HOST-SUFFIX,ig66.vip,REJECT
 HOST-SUFFIX,ig67.vip,REJECT
+HOST-SUFFIX,img.ad-nex.com,REJECT
 HOST-SUFFIX,img.hylmxing.com,REJECT
 HOST-SUFFIX,imgxxx.shunxincar.cn,REJECT
 HOST-SUFFIX,impactserving.com,REJECT
@@ -399,6 +401,7 @@ HOST-SUFFIX,jidukeji.com,REJECT
 HOST-SUFFIX,jknmthwd.xyz,REJECT
 HOST-SUFFIX,js.51toubu.com,REJECT
 HOST-SUFFIX,js.users.51.la,REJECT
+HOST-SUFFIX,js.waqool.com,REJECT
 HOST-SUFFIX,js.wpshsdk.com,REJECT
 HOST-SUFFIX,js.wpushsdk.com,REJECT
 HOST-SUFFIX,jspassport.ssl.qhimg.com,REJECT
@@ -480,6 +483,7 @@ HOST-SUFFIX,v3.fstats.xyz,REJECT
 HOST-SUFFIX,video.ktkjmp.com,REJECT
 HOST-SUFFIX,vjugz.com,REJECT
 HOST-SUFFIX,vntsm.com,REJECT
+HOST-SUFFIX,waqool.com,REJECT
 HOST-SUFFIX,webp2p.letv.com,REJECT
 HOST-SUFFIX,widgets.amung.us,REJECT
 HOST-SUFFIX,wine-api.net,REJECT

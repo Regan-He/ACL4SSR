@@ -71,7 +71,6 @@ HOST-SUFFIX,actonsoftware.com,REJECT
 HOST-SUFFIX,actualdeals.com,REJECT
 HOST-SUFFIX,actuallysheep.com,REJECT
 HOST-SUFFIX,actuallysnake.com,REJECT
-HOST-SUFFIX,actuallything.com,REJECT
 HOST-SUFFIX,acuityads.com,REJECT
 HOST-SUFFIX,acuityplatform.com,REJECT
 HOST-SUFFIX,ad-balancer.at,REJECT
@@ -925,6 +924,7 @@ HOST-SUFFIX,analytics.yahoo.com,REJECT
 HOST-SUFFIX,analyticsapi.happypancake.net,REJECT
 HOST-SUFFIX,ancientact.com,REJECT
 HOST-SUFFIX,androiddownload.net,REJECT
+HOST-SUFFIX,angossa.com,REJECT
 HOST-SUFFIX,aniview.com,REJECT
 HOST-SUFFIX,annonser.dagbladet.no,REJECT
 HOST-SUFFIX,annoyedairport.com,REJECT
@@ -1743,6 +1743,7 @@ HOST-SUFFIX,fxstyle.net,REJECT
 HOST-SUFFIX,g2.gumgum.com,REJECT
 HOST-SUFFIX,ga.clearbit.com,REJECT
 HOST-SUFFIX,gadsbee.com,REJECT
+HOST-SUFFIX,galaxien.com,REJECT
 HOST-SUFFIX,game-advertising-online.com,REJECT
 HOST-SUFFIX,gamesites100.net,REJECT
 HOST-SUFFIX,gamesites200.com,REJECT
@@ -1796,6 +1797,7 @@ HOST-SUFFIX,gotraffic.net,REJECT
 HOST-SUFFIX,gp.dejanews.com,REJECT
 HOST-SUFFIX,graizoah.com,REJECT
 HOST-SUFFIX,grandfatherguitar.com,REJECT
+HOST-SUFFIX,granlite.com,REJECT
 HOST-SUFFIX,grapeshot.co.uk,REJECT
 HOST-SUFFIX,greyinstrument.com,REJECT
 HOST-SUFFIX,greystripe.com,REJECT
@@ -2548,6 +2550,7 @@ HOST-SUFFIX,pointlesshour.com,REJECT
 HOST-SUFFIX,pointlessprofit.com,REJECT
 HOST-SUFFIX,pointroll.com,REJECT
 HOST-SUFFIX,pokkt.com,REJECT
+HOST-SUFFIX,polishedfolly.com,REJECT
 HOST-SUFFIX,popads.net,REJECT
 HOST-SUFFIX,popcash.net,REJECT
 HOST-SUFFIX,popmyads.com,REJECT
@@ -2973,6 +2976,7 @@ HOST-SUFFIX,spotx.tv,REJECT
 HOST-SUFFIX,spotxchange.com,REJECT
 HOST-SUFFIX,springbot.com,REJECT
 HOST-SUFFIX,springserve.com,REJECT
+HOST-SUFFIX,sprysummit.com,REJECT
 HOST-SUFFIX,spulse.net,REJECT
 HOST-SUFFIX,spylog.com,REJECT
 HOST-SUFFIX,spywarelabs.com,REJECT
@@ -3127,7 +3131,6 @@ HOST-SUFFIX,tealeaf.com,REJECT
 HOST-SUFFIX,tealium.cbsnews.com,REJECT
 HOST-SUFFIX,tealium.com,REJECT
 HOST-SUFFIX,tealiumiq.com,REJECT
-HOST-SUFFIX,tediousticket.com,REJECT
 HOST-SUFFIX,tedioustooth.com,REJECT
 HOST-SUFFIX,teenrevenue.com,REJECT
 HOST-SUFFIX,telaria.com,REJECT
@@ -3335,6 +3338,7 @@ HOST-SUFFIX,understoodocean.com,REJECT
 HOST-SUFFIX,undertone.com,REJECT
 HOST-SUFFIX,unidentifiedanalytics.web.app,REJECT
 HOST-SUFFIX,unknowntray.com,REJECT
+HOST-SUFFIX,unloadyourself.com,REJECT
 HOST-SUFFIX,unrulymedia.com,REJECT
 HOST-SUFFIX,untd.com,REJECT
 HOST-SUFFIX,untidyquestion.com,REJECT
