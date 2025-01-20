@@ -2,7 +2,6 @@ HOST,api.waqi.info,🚀 节点选择
 HOST,aqi.aqicn.org,🚀 节点选择
 HOST,assets-priconne-redive-us.akamaized.net,🚀 节点选择
 HOST,cloud.oracle.com,🚀 节点选择
-HOST,copilot.microsoft.com,🚀 节点选择
 HOST,cvws.icloud-content.com,🚀 节点选择
 HOST,location.microsoft.com,🚀 节点选择
 HOST,login.microsoftonline.com,🚀 节点选择
@@ -173,6 +172,7 @@ HOST-SUFFIX,abc.net.au,🚀 节点选择
 HOST-SUFFIX,abc.xyz,🚀 节点选择
 HOST-SUFFIX,abchinese.com,🚀 节点选择
 HOST-SUFFIX,abclite.net,🚀 节点选择
+HOST-SUFFIX,abebooks.co.uk,🚀 节点选择
 HOST-SUFFIX,abebooks.com,🚀 节点选择
 HOST-SUFFIX,ablwang.com,🚀 节点选择
 HOST-SUFFIX,about.me,🚀 节点选择
@@ -802,6 +802,7 @@ HOST-SUFFIX,carfax.com,🚀 节点选择
 HOST-SUFFIX,cari.com.my,🚀 节点选择
 HOST-SUFFIX,caribbeancom.com,🚀 节点选择
 HOST-SUFFIX,carmotorshow.com,🚀 节点选择
+HOST-SUFFIX,carousell.com.hk,🚀 节点选择
 HOST-SUFFIX,carrd.co,🚀 节点选择
 HOST-SUFFIX,carryzhou.com,🚀 节点选择
 HOST-SUFFIX,cartoonmovement.com,🚀 节点选择
@@ -882,6 +883,7 @@ HOST-SUFFIX,changeip.org,🚀 节点选择
 HOST-SUFFIX,changp.com,🚀 节点选择
 HOST-SUFFIX,changsa.net,🚀 节点选择
 HOST-SUFFIX,channelnewsasia.com,🚀 节点选择
+HOST-SUFFIX,chanworld.org,🚀 节点选择
 HOST-SUFFIX,chaoex.com,🚀 节点选择
 HOST-SUFFIX,chapm25.com,🚀 节点选择
 HOST-SUFFIX,chat.openai.com,🚀 节点选择
@@ -1110,6 +1112,7 @@ HOST-SUFFIX,coolder.com,🚀 节点选择
 HOST-SUFFIX,coolloud.org.tw,🚀 节点选择
 HOST-SUFFIX,coolncute.com,🚀 节点选择
 HOST-SUFFIX,coolstuffinc.com,🚀 节点选择
+HOST-SUFFIX,copilot.microsoft.com,🚀 节点选择
 HOST-SUFFIX,corumcollege.com,🚀 节点选择
 HOST-SUFFIX,cos-moe.com,🚀 节点选择
 HOST-SUFFIX,cosplayjav.pl,🚀 节点选择
@@ -1226,6 +1229,7 @@ HOST-SUFFIX,darktoy.net,🚀 节点选择
 HOST-SUFFIX,darpa.mil,🚀 节点选择
 HOST-SUFFIX,darrenliuwei.com,🚀 节点选择
 HOST-SUFFIX,dartlang.org,🚀 节点选择
+HOST-SUFFIX,dashlane.com,🚀 节点选择
 HOST-SUFFIX,dastrassi.org,🚀 节点选择
 HOST-SUFFIX,data-vocabulary.org,🚀 节点选择
 HOST-SUFFIX,data.flurry.com,🚀 节点选择
@@ -3934,6 +3938,7 @@ HOST-SUFFIX,poloniex.com,🚀 节点选择
 HOST-SUFFIX,polymer-project.org,🚀 节点选择
 HOST-SUFFIX,polymerhk.com,🚀 节点选择
 HOST-SUFFIX,poolin.com,🚀 节点选择
+HOST-SUFFIX,popai.pro,🚀 节点选择
 HOST-SUFFIX,popo.tw,🚀 节点选择
 HOST-SUFFIX,popvote.hk,🚀 节点选择
 HOST-SUFFIX,popxi.click,🚀 节点选择
@@ -5426,6 +5431,7 @@ HOST-SUFFIX,vovo2000.com,🚀 节点选择
 HOST-SUFFIX,vox-cdn.com,🚀 节点选择
 HOST-SUFFIX,voxer.com,🚀 节点选择
 HOST-SUFFIX,voy.com,🚀 节点选择
+HOST-SUFFIX,vpl.bibliocommons.com,🚀 节点选择
 HOST-SUFFIX,vpn.ac,🚀 节点选择
 HOST-SUFFIX,vpn4all.com,🚀 节点选择
 HOST-SUFFIX,vpnaccount.org,🚀 节点选择
