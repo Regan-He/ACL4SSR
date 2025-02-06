@@ -71,6 +71,7 @@ HOST-SUFFIX,actonsoftware.com,REJECT
 HOST-SUFFIX,actualdeals.com,REJECT
 HOST-SUFFIX,actuallysheep.com,REJECT
 HOST-SUFFIX,actuallysnake.com,REJECT
+HOST-SUFFIX,actuallything.com,REJECT
 HOST-SUFFIX,acuityads.com,REJECT
 HOST-SUFFIX,acuityplatform.com,REJECT
 HOST-SUFFIX,ad-balancer.at,REJECT
@@ -170,7 +171,6 @@ HOST-SUFFIX,adalliance.io,REJECT
 HOST-SUFFIX,adanging.blog,REJECT
 HOST-SUFFIX,adap.tv,REJECT
 HOST-SUFFIX,adapt.tv,REJECT
-HOST-SUFFIX,adaranth.com,REJECT
 HOST-SUFFIX,adbilty.me,REJECT
 HOST-SUFFIX,adblade.com,REJECT
 HOST-SUFFIX,adblade.org,REJECT
@@ -328,7 +328,6 @@ HOST-SUFFIX,adrotic.girlonthenet.com,REJECT
 HOST-SUFFIX,adrta.com,REJECT
 HOST-SUFFIX,ads-backend.chaincliq.com,REJECT
 HOST-SUFFIX,ads-bilek.com,REJECT
-HOST-SUFFIX,ads-click.com,REJECT
 HOST-SUFFIX,ads-dev.pinterest.com,REJECT
 HOST-SUFFIX,ads-game-187f4.firebaseapp.com,REJECT
 HOST-SUFFIX,ads-kesselhaus.com,REJECT
@@ -445,7 +444,6 @@ HOST-SUFFIX,ads.getlucky.com,REJECT
 HOST-SUFFIX,ads.gld.dk,REJECT
 HOST-SUFFIX,ads.gmodules.com,REJECT
 HOST-SUFFIX,ads.goyk.com,REJECT
-HOST-SUFFIX,ads.gplusmedia.com,REJECT
 HOST-SUFFIX,ads.gradfinder.com,REJECT
 HOST-SUFFIX,ads.grindinggears.com,REJECT
 HOST-SUFFIX,ads.gsm-exchange.com,REJECT
@@ -586,7 +584,6 @@ HOST-SUFFIX,ads.tripod.lycos.it,REJECT
 HOST-SUFFIX,ads.tripod.lycos.nl,REJECT
 HOST-SUFFIX,ads.tso.dennisnet.co.uk,REJECT
 HOST-SUFFIX,ads.twitter.com,REJECT
-HOST-SUFFIX,ads.twojatv.info,REJECT
 HOST-SUFFIX,ads.ultimate-guitar.com,REJECT
 HOST-SUFFIX,ads.uncrate.com,REJECT
 HOST-SUFFIX,ads.unison.bg,REJECT
@@ -975,7 +972,6 @@ HOST-SUFFIX,at-adserver.alltop.com,REJECT
 HOST-SUFFIX,at-o.net,REJECT
 HOST-SUFFIX,atdmt.com,REJECT
 HOST-SUFFIX,athena-ads.wikia.com,REJECT
-HOST-SUFFIX,ato.mx,REJECT
 HOST-SUFFIX,attractionbanana.com,REJECT
 HOST-SUFFIX,attribution.report,REJECT
 HOST-SUFFIX,atwola.com,REJECT
@@ -1036,6 +1032,7 @@ HOST-SUFFIX,bannergrabber.internet.gr,REJECT
 HOST-SUFFIX,bannerimage.com,REJECT
 HOST-SUFFIX,bannermall.com,REJECT
 HOST-SUFFIX,bannermanager.bnr.bg,REJECT
+HOST-SUFFIX,bannermarkt.nl,REJECT
 HOST-SUFFIX,bannerpower.com,REJECT
 HOST-SUFFIX,banners.adultfriendfinder.com,REJECT
 HOST-SUFFIX,banners.amigos.com,REJECT
@@ -1295,7 +1292,6 @@ HOST-SUFFIX,click.news.vans.com,REJECT
 HOST-SUFFIX,click.nl.npr.org,REJECT
 HOST-SUFFIX,click.nvgaming.nvidia.com,REJECT
 HOST-SUFFIX,click.redditmail.com,REJECT
-HOST-SUFFIX,click.twcwigs.com,REJECT
 HOST-SUFFIX,click.v.visionlab.es,REJECT
 HOST-SUFFIX,click2freemoney.com,REJECT
 HOST-SUFFIX,click360v2-ingest.azurewebsites.net,REJECT
@@ -1826,7 +1822,6 @@ HOST-SUFFIX,hb.afl.rakuten.co.jp,REJECT
 HOST-SUFFIX,hb.vntsm.com,REJECT
 HOST-SUFFIX,hbb.afl.rakuten.co.jp,REJECT
 HOST-SUFFIX,hbopenbid.pubmatic.com,REJECT
-HOST-SUFFIX,hdscout.com,REJECT
 HOST-SUFFIX,heap.com,REJECT
 HOST-SUFFIX,hearinglizards.com,REJECT
 HOST-SUFFIX,heimi-lwx.com,REJECT
@@ -2665,6 +2660,7 @@ HOST-SUFFIX,quirkysugar.com,REJECT
 HOST-SUFFIX,quisma.com,REJECT
 HOST-SUFFIX,quizzicalzephyr.com,REJECT
 HOST-SUFFIX,r.logrocket.io,REJECT
+HOST-SUFFIX,r.marketing.dubaisothebys.com,REJECT
 HOST-SUFFIX,r.msn.com,REJECT
 HOST-SUFFIX,r.scoota.co,REJECT
 HOST-SUFFIX,r.sibmail.havasit.com,REJECT
@@ -3131,6 +3127,7 @@ HOST-SUFFIX,tealeaf.com,REJECT
 HOST-SUFFIX,tealium.cbsnews.com,REJECT
 HOST-SUFFIX,tealium.com,REJECT
 HOST-SUFFIX,tealiumiq.com,REJECT
+HOST-SUFFIX,tediousticket.com,REJECT
 HOST-SUFFIX,tedioustooth.com,REJECT
 HOST-SUFFIX,teenrevenue.com,REJECT
 HOST-SUFFIX,telaria.com,REJECT
@@ -3187,7 +3184,6 @@ HOST-SUFFIX,top100-images.rambler.ru,REJECT
 HOST-SUFFIX,top100.mafia.ru,REJECT
 HOST-SUFFIX,top123.ro,REJECT
 HOST-SUFFIX,top20free.com,REJECT
-HOST-SUFFIX,topforall.com,REJECT
 HOST-SUFFIX,toplist.cz,REJECT
 HOST-SUFFIX,toplist.pornhost.com,REJECT
 HOST-SUFFIX,toplista.mw.hu,REJECT
