@@ -7208,6 +7208,7 @@ HOST-SUFFIX,b.miretirement.com,REJECT
 HOST-SUFFIX,b.mitrust.com,REJECT
 HOST-SUFFIX,b.miwebflex.com,REJECT
 HOST-SUFFIX,b.mynewplace.com,REJECT
+HOST-SUFFIX,b.nativendo.de,REJECT
 HOST-SUFFIX,b.parade.com,REJECT
 HOST-SUFFIX,b.pickme.lk,REJECT
 HOST-SUFFIX,b.prod1.youroffers.dominos.ca,REJECT
@@ -13111,6 +13112,7 @@ HOST-SUFFIX,fairfeeling.com,REJECT
 HOST-SUFFIX,fairiesbranch.com,REJECT
 HOST-SUFFIX,fairygaze.com,REJECT
 HOST-SUFFIX,fairytaleflame.com,REJECT
+HOST-SUFFIX,faithrowold.com,REJECT
 HOST-SUFFIX,fal2.carrefour-banque.fr,REJECT
 HOST-SUFFIX,fallaciousfifth.com,REJECT
 HOST-SUFFIX,falsefeet.com,REJECT

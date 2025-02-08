@@ -1,4 +1,3 @@
-HOST-SUFFIX,1-1ads.com,REJECT
 HOST-SUFFIX,101com.com,REJECT
 HOST-SUFFIX,180hits.de,REJECT
 HOST-SUFFIX,180searchassistant.com,REJECT
@@ -375,7 +374,6 @@ HOST-SUFFIX,ads.bluemountain.com,REJECT
 HOST-SUFFIX,ads.boerding.com,REJECT
 HOST-SUFFIX,ads.boylesports.com,REJECT
 HOST-SUFFIX,ads.brabys.com,REJECT
-HOST-SUFFIX,ads.bumq.com,REJECT
 HOST-SUFFIX,ads.canalblog.com,REJECT
 HOST-SUFFIX,ads.casinocity.com,REJECT
 HOST-SUFFIX,ads.casumoaffiliates.com,REJECT
@@ -486,7 +484,6 @@ HOST-SUFFIX,ads.livenation.com,REJECT
 HOST-SUFFIX,ads.lordlucky.com,REJECT
 HOST-SUFFIX,ads.ma7.tv,REJECT
 HOST-SUFFIX,ads.mail.bg,REJECT
-HOST-SUFFIX,ads.mariuana.it,REJECT
 HOST-SUFFIX,ads.massinfra.nl,REJECT
 HOST-SUFFIX,ads.mcafee.com,REJECT
 HOST-SUFFIX,ads.mediaodyssey.com,REJECT
@@ -584,6 +581,7 @@ HOST-SUFFIX,ads.tripod.lycos.it,REJECT
 HOST-SUFFIX,ads.tripod.lycos.nl,REJECT
 HOST-SUFFIX,ads.tso.dennisnet.co.uk,REJECT
 HOST-SUFFIX,ads.twitter.com,REJECT
+HOST-SUFFIX,ads.twojatv.info,REJECT
 HOST-SUFFIX,ads.ultimate-guitar.com,REJECT
 HOST-SUFFIX,ads.uncrate.com,REJECT
 HOST-SUFFIX,ads.unison.bg,REJECT
@@ -654,7 +652,6 @@ HOST-SUFFIX,adsby.bidtheatre.com,REJECT
 HOST-SUFFIX,adsbydelema.com,REJECT
 HOST-SUFFIX,adscale.de,REJECT
 HOST-SUFFIX,adscholar.com,REJECT
-HOST-SUFFIX,adscience.nl,REJECT
 HOST-SUFFIX,adsco.re,REJECT
 HOST-SUFFIX,adscpm.com,REJECT
 HOST-SUFFIX,adsdaq.com,REJECT
@@ -972,6 +969,7 @@ HOST-SUFFIX,at-adserver.alltop.com,REJECT
 HOST-SUFFIX,at-o.net,REJECT
 HOST-SUFFIX,atdmt.com,REJECT
 HOST-SUFFIX,athena-ads.wikia.com,REJECT
+HOST-SUFFIX,ato.mx,REJECT
 HOST-SUFFIX,attractionbanana.com,REJECT
 HOST-SUFFIX,attribution.report,REJECT
 HOST-SUFFIX,atwola.com,REJECT
@@ -1443,6 +1441,7 @@ HOST-SUFFIX,curtaincows.com,REJECT
 HOST-SUFFIX,cushiondrum.com,REJECT
 HOST-SUFFIX,customad.cnn.com,REJECT
 HOST-SUFFIX,customads.co,REJECT
+HOST-SUFFIX,customeriomail.com,REJECT
 HOST-SUFFIX,customers.kameleoon.com,REJECT
 HOST-SUFFIX,cutechin.com,REJECT
 HOST-SUFFIX,cxense.com,REJECT
@@ -1644,7 +1643,6 @@ HOST-SUFFIX,express-submit.de,REJECT
 HOST-SUFFIX,extractobservation.com,REJECT
 HOST-SUFFIX,extreme-dm.com,REJECT
 HOST-SUFFIX,extremetracking.com,REJECT
-HOST-SUFFIX,eyeblaster.com,REJECT
 HOST-SUFFIX,eyeota.net,REJECT
 HOST-SUFFIX,eyeviewads.com,REJECT
 HOST-SUFFIX,eyewonder.com,REJECT
@@ -1800,7 +1798,6 @@ HOST-SUFFIX,greystripe.com,REJECT
 HOST-SUFFIX,grouchybrothers.com,REJECT
 HOST-SUFFIX,groundtruth.com,REJECT
 HOST-SUFFIX,gscontxt.net,REJECT
-HOST-SUFFIX,gstaticx.com,REJECT
 HOST-SUFFIX,guardeddirection.com,REJECT
 HOST-SUFFIX,guardedschool.com,REJECT
 HOST-SUFFIX,gunggo.com,REJECT
@@ -2350,8 +2347,6 @@ HOST-SUFFIX,newnet.qsrch.com,REJECT
 HOST-SUFFIX,newnudecash.com,REJECT
 HOST-SUFFIX,newopenx.detik.com,REJECT
 HOST-SUFFIX,newsadsppush.com,REJECT
-HOST-SUFFIX,newsletter-link.com,REJECT
-HOST-SUFFIX,newstarads.com,REJECT
 HOST-SUFFIX,newt1.adultadworld.com,REJECT
 HOST-SUFFIX,newt1.adultworld.com,REJECT
 HOST-SUFFIX,nexac.com,REJECT
@@ -3374,7 +3369,6 @@ HOST-SUFFIX,vertamedia.com,REJECT
 HOST-SUFFIX,verticalmass.com,REJECT
 HOST-SUFFIX,vervewireless.com,REJECT
 HOST-SUFFIX,vgnp3trk.com,REJECT
-HOST-SUFFIX,vibrantmedia.com,REJECT
 HOST-SUFFIX,vibrantsundown.com,REJECT
 HOST-SUFFIX,vid.pubmatic.com,REJECT
 HOST-SUFFIX,vidcpm.com,REJECT
