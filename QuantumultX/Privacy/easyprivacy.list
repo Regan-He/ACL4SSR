@@ -7477,6 +7477,7 @@ HOST-SUFFIX,bi.irisdating.com,REJECT
 HOST-SUFFIX,bi.medscape.com,REJECT
 HOST-SUFFIX,biberukalap.com,REJECT
 HOST-SUFFIX,bibglj.timberland.fr,REJECT
+HOST-SUFFIX,bicp-analytics.postscript.io,REJECT
 HOST-SUFFIX,bidder.mediams.mb.softbank.jp,REJECT
 HOST-SUFFIX,bidgx.com,REJECT
 HOST-SUFFIX,bidswitch.net,REJECT
@@ -15400,6 +15401,7 @@ HOST-SUFFIX,iconnode.com,REJECT
 HOST-SUFFIX,icslearn.actonsoftware.com,REJECT
 HOST-SUFFIX,ictrjw.barcastores.com,REJECT
 HOST-SUFFIX,id-ward.com,REJECT
+HOST-SUFFIX,id.a-mx.com,REJECT
 HOST-SUFFIX,idbkfy.kango-roo.com,REJECT
 HOST-SUFFIX,iddu1vvb7sk8-a.akamaihd.net,REJECT
 HOST-SUFFIX,ideadevice.actonservice.com,REJECT
@@ -23267,7 +23269,6 @@ HOST-SUFFIX,money.clerkie.io,REJECT
 HOST-SUFFIX,monicaatron.com,REJECT
 HOST-SUFFIX,monitor-api.blackcrow.ai,REJECT
 HOST-SUFFIX,monitor-frontend-collector.a.bybit-aws.com,REJECT
-HOST-SUFFIX,monitor.azure.com,REJECT
 HOST-SUFFIX,monitor.channel4.com,REJECT
 HOST-SUFFIX,monitor.music.qq.com,REJECT
 HOST-SUFFIX,monitoring.iraiser.eu,REJECT

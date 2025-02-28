@@ -166,6 +166,7 @@ HOST-SUFFIX,adadvisor.net,REJECT
 HOST-SUFFIX,adalliance.io,REJECT
 HOST-SUFFIX,adanging.blog,REJECT
 HOST-SUFFIX,adap.tv,REJECT
+HOST-SUFFIX,adapt.tv,REJECT
 HOST-SUFFIX,adbilty.me,REJECT
 HOST-SUFFIX,adblade.com,REJECT
 HOST-SUFFIX,adblade.org,REJECT
@@ -362,6 +363,7 @@ HOST-SUFFIX,ads.betfair.com,REJECT
 HOST-SUFFIX,ads.bigchurch.com,REJECT
 HOST-SUFFIX,ads.bigfoot.com,REJECT
 HOST-SUFFIX,ads.bing.com,REJECT
+HOST-SUFFIX,ads.bittorrent.com,REJECT
 HOST-SUFFIX,ads.blog.com,REJECT
 HOST-SUFFIX,ads.bluemountain.com,REJECT
 HOST-SUFFIX,ads.boerding.com,REJECT
@@ -699,7 +701,6 @@ HOST-SUFFIX,adserver.sanomawsoy.fi,REJECT
 HOST-SUFFIX,adserver.sciflicks.com,REJECT
 HOST-SUFFIX,adserver.scr.sk,REJECT
 HOST-SUFFIX,adserver.smgfiles.com,REJECT
-HOST-SUFFIX,adserver.theonering.net,REJECT
 HOST-SUFFIX,adserver.trojaner-info.de,REJECT
 HOST-SUFFIX,adserver.tupolska.com,REJECT
 HOST-SUFFIX,adserver.twitpic.com,REJECT
@@ -961,7 +962,6 @@ HOST-SUFFIX,at-adserver.alltop.com,REJECT
 HOST-SUFFIX,at-o.net,REJECT
 HOST-SUFFIX,atdmt.com,REJECT
 HOST-SUFFIX,athena-ads.wikia.com,REJECT
-HOST-SUFFIX,ato.mx,REJECT
 HOST-SUFFIX,attractionbanana.com,REJECT
 HOST-SUFFIX,attribution.report,REJECT
 HOST-SUFFIX,atwola.com,REJECT
@@ -1723,6 +1723,7 @@ HOST-SUFFIX,getintent.com,REJECT
 HOST-SUFFIX,getmyads.com,REJECT
 HOST-SUFFIX,getxmlisi.com,REJECT
 HOST-SUFFIX,giddycoat.com,REJECT
+HOST-SUFFIX,glasscoyote.com,REJECT
 HOST-SUFFIX,glisteningsign.com,REJECT
 HOST-SUFFIX,globalismedia.com,REJECT
 HOST-SUFFIX,gloriousbeef.com,REJECT
@@ -1986,7 +1987,6 @@ HOST-SUFFIX,launchbit.com,REJECT
 HOST-SUFFIX,layer-ad.de,REJECT
 HOST-SUFFIX,layer-ads.de,REJECT
 HOST-SUFFIX,lbn.ru,REJECT
-HOST-SUFFIX,lead02.com,REJECT
 HOST-SUFFIX,leadboltads.net,REJECT
 HOST-SUFFIX,leadclick.com,REJECT
 HOST-SUFFIX,leadinfo.net,REJECT
@@ -2039,6 +2039,7 @@ HOST-SUFFIX,linkrain.com,REJECT
 HOST-SUFFIX,linkreferral.com,REJECT
 HOST-SUFFIX,links-ranking.de,REJECT
 HOST-SUFFIX,links.email.crunchbase.com,REJECT
+HOST-SUFFIX,links.housekeep.com,REJECT
 HOST-SUFFIX,links.prosservice.fr,REJECT
 HOST-SUFFIX,links.zoopla.co.uk,REJECT
 HOST-SUFFIX,linkstorms.com,REJECT
@@ -2344,6 +2345,7 @@ HOST-SUFFIX,offer.fyber.com,REJECT
 HOST-SUFFIX,offer.sponsorpay.com,REJECT
 HOST-SUFFIX,offerforge.com,REJECT
 HOST-SUFFIX,offermatica.com,REJECT
+HOST-SUFFIX,offshoregeology.com,REJECT
 HOST-SUFFIX,ogads-pa.googleapis.com,REJECT
 HOST-SUFFIX,oglasi.posjetnica.com,REJECT
 HOST-SUFFIX,ogury.com,REJECT
@@ -2569,9 +2571,7 @@ HOST-SUFFIX,puffypaste.com,REJECT
 HOST-SUFFIX,puffypull.com,REJECT
 HOST-SUFFIX,puffypurpose.com,REJECT
 HOST-SUFFIX,pureclarity.net,REJECT
-HOST-SUFFIX,pushame.com,REJECT
 HOST-SUFFIX,pushance.com,REJECT
-HOST-SUFFIX,pushazer.com,REJECT
 HOST-SUFFIX,pushengage.com,REJECT
 HOST-SUFFIX,pushno.com,REJECT
 HOST-SUFFIX,pushtrack.co,REJECT
@@ -3125,6 +3125,7 @@ HOST-SUFFIX,topstats.com,REJECT
 HOST-SUFFIX,totemcash.com,REJECT
 HOST-SUFFIX,touchclarity.com,REJECT
 HOST-SUFFIX,tour.brazzers.com,REJECT
+HOST-SUFFIX,tr.api.fanbyte.com,REJECT
 HOST-SUFFIX,track-eu.customer.io,REJECT
 HOST-SUFFIX,track-on.eu,REJECT
 HOST-SUFFIX,track-on.pl,REJECT
