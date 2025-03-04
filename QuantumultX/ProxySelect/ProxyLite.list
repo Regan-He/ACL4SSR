@@ -1,5 +1,4 @@
 HOST,addons.mozilla.org,🚀 节点选择
-HOST,amp-api.podcasts.apple.com,🚀 节点选择
 HOST,api.msn.com,🚀 节点选择
 HOST,api.waqi.info,🚀 节点选择
 HOST,aqi.aqicn.org,🚀 节点选择
@@ -8,25 +7,19 @@ HOST,assets1.xboxlive.com,🚀 节点选择
 HOST,assets2.xboxlive.com,🚀 节点选择
 HOST,az416426.vo.msecnd.net,🚀 节点选择
 HOST,az668014.vo.msecnd.net,🚀 节点选择
-HOST,beta.music.apple.com,🚀 节点选择
-HOST,books.apple.com,🚀 节点选择
 HOST,cdp.cloud.unity3d.com,🚀 节点选择
 HOST,clubhouse.pubnubapi.com,🚀 节点选择
 HOST,copilot.microsoft.com,🚀 节点选择
-HOST,disk.yandex.com,🚀 节点选择
 HOST,lab.skk.moe,🚀 节点选择
 HOST,location.microsoft.com,🚀 节点选择
 HOST,login.microsoftonline.com,🚀 节点选择
 HOST,ocsp.int-x3.letsencrypt.org,🚀 节点选择
-HOST,openaiapi-site.azureedge.net,🚀 节点选择
 HOST,search.yahoo.co.jp,🚀 节点选择
 HOST,self.events.data.microsoft.com,🚀 节点选择
-HOST,tv.apple.com,🚀 节点选择
 HOST,wego.here.com,🚀 节点选择
 HOST-KEYWORD,.pinterest.,🚀 节点选择
 HOST-KEYWORD,1e100,🚀 节点选择
 HOST-KEYWORD,abema,🚀 节点选择
-HOST-KEYWORD,appledaily,🚀 节点选择
 HOST-KEYWORD,avtb,🚀 节点选择
 HOST-KEYWORD,beetalk,🚀 节点选择
 HOST-KEYWORD,dlercloud,🚀 节点选择
@@ -34,13 +27,11 @@ HOST-KEYWORD,dropbox,🚀 节点选择
 HOST-KEYWORD,facebook,🚀 节点选择
 HOST-KEYWORD,fbcdn,🚀 节点选择
 HOST-KEYWORD,instagram,🚀 节点选择
-HOST-KEYWORD,musical.ly,🚀 节点选择
 HOST-KEYWORD,paypal,🚀 节点选择
 HOST-KEYWORD,porn,🚀 节点选择
 HOST-KEYWORD,sci-hub,🚀 节点选择
 HOST-KEYWORD,spotify,🚀 节点选择
 HOST-KEYWORD,telegram,🚀 节点选择
-HOST-KEYWORD,tiktok,🚀 节点选择
 HOST-KEYWORD,ttvnw,🚀 节点选择
 HOST-KEYWORD,twitter,🚀 节点选择
 HOST-KEYWORD,uk-live,🚀 节点选择
@@ -87,6 +78,7 @@ HOST-SUFFIX,apache.org,🚀 节点选择
 HOST-SUFFIX,api.amplitude.com,🚀 节点选择
 HOST-SUFFIX,api.mixpanel.com,🚀 节点选择
 HOST-SUFFIX,api.termius.com,🚀 节点选择
+HOST-SUFFIX,api.tiktokv.com,🚀 节点选择
 HOST-SUFFIX,apk-dl.com,🚀 节点选择
 HOST-SUFFIX,apkmirror.com,🚀 节点选择
 HOST-SUFFIX,apkpure.com,🚀 节点选择
@@ -159,7 +151,6 @@ HOST-SUFFIX,btlibrary.me,🚀 节点选择
 HOST-SUFFIX,bullguard.com,🚀 节点选择
 HOST-SUFFIX,buzzsprout.com,🚀 节点选择
 HOST-SUFFIX,bybit.com,🚀 节点选择
-HOST-SUFFIX,byteoversea.com,🚀 节点选择
 HOST-SUFFIX,c-span.org,🚀 节点选择
 HOST-SUFFIX,cachefly.net,🚀 节点选择
 HOST-SUFFIX,castbox.fm,🚀 节点选择
@@ -194,6 +185,7 @@ HOST-SUFFIX,coingecko.com,🚀 节点选择
 HOST-SUFFIX,coinmarketcap.com,🚀 节点选择
 HOST-SUFFIX,coinone.co.kr,🚀 节点选择
 HOST-SUFFIX,comodoca.com,🚀 节点选择
+HOST-SUFFIX,compose-spec.io,🚀 节点选择
 HOST-SUFFIX,conoha.jp,🚀 节点选择
 HOST-SUFFIX,content.office.net,🚀 节点选择
 HOST-SUFFIX,coursehero.com,🚀 节点选择
@@ -234,6 +226,7 @@ HOST-SUFFIX,dmm.co.jp,🚀 节点选择
 HOST-SUFFIX,dnsimple.com,🚀 节点选择
 HOST-SUFFIX,docker.com,🚀 节点选择
 HOST-SUFFIX,docker.io,🚀 节点选择
+HOST-SUFFIX,dockerhub.com,🚀 节点选择
 HOST-SUFFIX,doub.io,🚀 节点选择
 HOST-SUFFIX,dowjones.com,🚀 节点选择
 HOST-SUFFIX,dribbble.com,🚀 节点选择
@@ -337,8 +330,6 @@ HOST-SUFFIX,hulu.com,🚀 节点选择
 HOST-SUFFIX,humblebundle.com,🚀 节点选择
 HOST-SUFFIX,huobi.com,🚀 节点选择
 HOST-SUFFIX,i-cable.com,🚀 节点选择
-HOST-SUFFIX,ibytedtos.com,🚀 节点选择
-HOST-SUFFIX,ibyteimg.com,🚀 节点选择
 HOST-SUFFIX,icntv.xyz,🚀 节点选择
 HOST-SUFFIX,icoco.com,🚀 节点选择
 HOST-SUFFIX,icons8.com,🚀 节点选择
@@ -362,12 +353,12 @@ HOST-SUFFIX,io.io,🚀 节点选择
 HOST-SUFFIX,ip.sb,🚀 节点选择
 HOST-SUFFIX,ipaddress.com,🚀 节点选择
 HOST-SUFFIX,ipn.li,🚀 节点选择
-HOST-SUFFIX,ipstatp.com,🚀 节点选择
 HOST-SUFFIX,is.gd,🚀 节点选择
 HOST-SUFFIX,ishowsapp.com,🚀 节点选择
 HOST-SUFFIX,issuu.com,🚀 节点选择
 HOST-SUFFIX,istockphoto.com,🚀 节点选择
 HOST-SUFFIX,itgonglun.com,🚀 节点选择
+HOST-SUFFIX,iwara.tv,🚀 节点选择
 HOST-SUFFIX,ixquick.com,🚀 节点选择
 HOST-SUFFIX,j.mp,🚀 节点选择
 HOST-SUFFIX,javbus.com,🚀 节点选择
@@ -441,7 +432,6 @@ HOST-SUFFIX,moon.fm,🚀 节点选择
 HOST-SUFFIX,moves-export.com,🚀 节点选择
 HOST-SUFFIX,mp3buscador.com,🚀 节点选择
 HOST-SUFFIX,mubi.com,🚀 节点选择
-HOST-SUFFIX,muscdn.com,🚀 节点选择
 HOST-SUFFIX,mvnrepository.com,🚀 节点选择
 HOST-SUFFIX,mycnnews.com,🚀 节点选择
 HOST-SUFFIX,myfontastic.com,🚀 节点选择
@@ -538,6 +528,7 @@ HOST-SUFFIX,popo.tw,🚀 节点选择
 HOST-SUFFIX,potato.im,🚀 节点选择
 HOST-SUFFIX,prism-break.org,🚀 节点选择
 HOST-SUFFIX,privoxy.org,🚀 节点选择
+HOST-SUFFIX,proton.me,🚀 节点选择
 HOST-SUFFIX,proxfree.com,🚀 节点选择
 HOST-SUFFIX,proxifier.com,🚀 节点选择
 HOST-SUFFIX,pscp.tv,🚀 节点选择
@@ -586,7 +577,6 @@ HOST-SUFFIX,scmp.com,🚀 节点选择
 HOST-SUFFIX,scribd.com,🚀 节点选择
 HOST-SUFFIX,search.com,🚀 节点选择
 HOST-SUFFIX,sexinsex.net,🚀 节点选择
-HOST-SUFFIX,sgpstatp.com,🚀 节点选择
 HOST-SUFFIX,shadowsocks.org,🚀 节点选择
 HOST-SUFFIX,shadowverse.jp,🚀 节点选择
 HOST-SUFFIX,shutterstock.com,🚀 节点选择
@@ -602,7 +592,6 @@ HOST-SUFFIX,slideshare.net,🚀 节点选择
 HOST-SUFFIX,smartdnsproxy.com,🚀 节点选择
 HOST-SUFFIX,smartmailcloud.com,🚀 节点选择
 HOST-SUFFIX,smh.com.au,🚀 节点选择
-HOST-SUFFIX,smoot.apple.com,🚀 节点选择
 HOST-SUFFIX,snapchat.com,🚀 节点选择
 HOST-SUFFIX,sndcdn.com,🚀 节点选择
 HOST-SUFFIX,sockslist.net,🚀 节点选择
@@ -686,7 +675,6 @@ HOST-SUFFIX,thepiratebay.org,🚀 节点选择
 HOST-SUFFIX,thetvdb.com,🚀 节点选择
 HOST-SUFFIX,theverge.com,🚀 节点选择
 HOST-SUFFIX,thewgo.org,🚀 节点选择
-HOST-SUFFIX,tik-tokapi.com,🚀 节点选择
 HOST-SUFFIX,time.com,🚀 节点选择
 HOST-SUFFIX,timeinc.net,🚀 节点选择
 HOST-SUFFIX,tinder.com,🚀 节点选择
@@ -844,6 +832,7 @@ HOST-SUFFIX,wsj.com,🚀 节点选择
 HOST-SUFFIX,wsj.net,🚀 节点选择
 HOST-SUFFIX,wwitv.com,🚀 节点选择
 HOST-SUFFIX,x.co,🚀 节点选择
+HOST-SUFFIX,x.com,🚀 节点选择
 HOST-SUFFIX,xanga.com,🚀 节点选择
 HOST-SUFFIX,xclient.info,🚀 节点选择
 HOST-SUFFIX,xda-developers.com,🚀 节点选择
@@ -858,6 +847,7 @@ HOST-SUFFIX,xvideos.com,🚀 节点选择
 HOST-SUFFIX,yadi.sk,🚀 节点选择
 HOST-SUFFIX,yahoo.com,🚀 节点选择
 HOST-SUFFIX,yahooapis.com,🚀 节点选择
+HOST-SUFFIX,yandex.com,🚀 节点选择
 HOST-SUFFIX,yandex.ru,🚀 节点选择
 HOST-SUFFIX,yasni.co.uk,🚀 节点选择
 HOST-SUFFIX,yastatic.net,🚀 节点选择
@@ -918,8 +908,6 @@ IP-CIDR,74.119.76.0/22,🚀 节点选择,no-resolve
 IP-CIDR,74.125.0.0/16,🚀 节点选择,no-resolve
 IP-CIDR,75.126.0.0/16,🚀 节点选择,no-resolve
 IP-CIDR,91.105.192.0/23,🚀 节点选择,no-resolve
-IP-CIDR,101.32.96.0/20,🚀 节点选择,no-resolve
-IP-CIDR,101.32.118.0/23,🚀 节点选择,no-resolve
 IP-CIDR,103.2.28.0/22,🚀 节点选择,no-resolve
 IP-CIDR,103.4.96.0/22,🚀 节点选择,no-resolve
 IP-CIDR,103.27.148.0/22,🚀 节点选择,no-resolve
@@ -941,7 +929,6 @@ IP-CIDR,125.6.149.0/24,🚀 节点选择,no-resolve
 IP-CIDR,125.6.190.0/24,🚀 节点选择,no-resolve
 IP-CIDR,125.209.208.0/20,🚀 节点选择,no-resolve
 IP-CIDR,129.134.0.0/17,🚀 节点选择,no-resolve
-IP-CIDR,129.226.0.0/16,🚀 节点选择,no-resolve
 IP-CIDR,147.92.128.0/17,🚀 节点选择,no-resolve
 IP-CIDR,157.240.0.0/17,🚀 节点选择,no-resolve
 IP-CIDR,158.85.5.192/27,🚀 节点选择,no-resolve

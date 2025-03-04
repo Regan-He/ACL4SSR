@@ -26,14 +26,14 @@ class CaseSensitiveConfigParser(ConfigParser):
 
 
 class Convert2QX:
-    MY_REPO_PREFIX = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Regan-He/ACL4SSR/main"
+    MY_REPO_PREFIX = "https://ghfast.top/https://raw.githubusercontent.com/Regan-He/ACL4SSR/main"
     NO_RESOLVE = "NO-RESOLVE"
     KNOWN_FORCE_POLICY = ["DIRECT", "REJECT"]
     KNOWN_THIRD_PARTY_POLICY_NAME = [
         "TIKTOK",
         "YOUTUBE",
         # Apple Services
-        "APPLETV",
+        "AppleProxy",
         # ChatGPT
         "OPENAI",
         # Microsoft Services
