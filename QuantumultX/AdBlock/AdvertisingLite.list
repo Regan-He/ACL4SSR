@@ -1631,6 +1631,7 @@ HOST,ads.cc,🆎 AdBlock
 HOST,ads.ccstock.cn,🆎 AdBlock
 HOST,ads.cdn.rovio.com,🆎 AdBlock
 HOST,ads.ce.cn,🆎 AdBlock
+HOST,ads.cup.com.cn,🆎 AdBlock
 HOST,ads.cyberctm.com,🆎 AdBlock
 HOST,ads.data.pplive.com,🆎 AdBlock
 HOST,ads.dixcom.com,🆎 AdBlock
@@ -2476,6 +2477,7 @@ HOST,ampush.io,🆎 AdBlock
 HOST,ampxchange.com,🆎 AdBlock
 HOST,amrfscxvdvfvpa.com,🆎 AdBlock
 HOST,amrnhiqy.com,🆎 AdBlock
+HOST,amsweb-cdn-gz-1258344696.file.myqcloud.com,🆎 AdBlock
 HOST,amtracking01.com,🆎 AdBlock
 HOST,amunx.de,🆎 AdBlock
 HOST,amxdt.com,🆎 AdBlock
@@ -6362,7 +6364,6 @@ HOST,dnn506yrbagrg.cloudfront.net,🆎 AdBlock
 HOST,dnpehliwdvjkp.com,🆎 AdBlock
 HOST,dnrywryy.com,🆎 AdBlock
 HOST,dns.jd.com,🆎 AdBlock
-HOST,dns.m.sm.cn,🆎 AdBlock
 HOST,dns.ximalaya.com,🆎 AdBlock
 HOST,dnset.com,🆎 AdBlock
 HOST,dntrax.com,🆎 AdBlock
@@ -9173,7 +9174,6 @@ HOST,hbnqcbfgsjfa.com,🆎 AdBlock
 HOST,hbsimg.com,🆎 AdBlock
 HOST,hbtzzlcxfijk.com,🆎 AdBlock
 HOST,hbyinzhibao.cn,🆎 AdBlock
-HOST,hc-ssp.sm.cn,🆎 AdBlock
 HOST,hcatboilyxs.com,🆎 AdBlock
 HOST,hccwwz.cn,🆎 AdBlock
 HOST,hceykfajyioqkz.com,🆎 AdBlock
@@ -14750,7 +14750,6 @@ HOST,orbitfour47.com,🆎 AdBlock
 HOST,orbowlada.strefa.pl,🆎 AdBlock
 HOST,orcapia.com,🆎 AdBlock
 HOST,ordbtltlcmqv.com,🆎 AdBlock
-HOST,order.sm.cn,🆎 AdBlock
 HOST,ordermc.com,🆎 AdBlock
 HOST,ordingly.com,🆎 AdBlock
 HOST,ordssuspicuousc.info,🆎 AdBlock
@@ -21058,7 +21057,6 @@ HOST,victor.connectcloud.ch,🆎 AdBlock
 HOST,vid123.net,🆎 AdBlock
 HOST,vidcoin.com,🆎 AdBlock
 HOST,vidcpm.com,🆎 AdBlock
-HOST,video-ad.sm.cn,🆎 AdBlock
 HOST,video-loader.com,🆎 AdBlock
 HOST,video-people.com,🆎 AdBlock
 HOST,video-stats.video.google.com,🆎 AdBlock
@@ -21461,6 +21459,7 @@ HOST,wainveredspar.info,🆎 AdBlock
 HOST,wakamoment.tk,🆎 AdBlock
 HOST,wakogzmgjqucs.com,🆎 AdBlock
 HOST,walibao.com,🆎 AdBlock
+HOST,wallpaper-1258344696.file.myqcloud.com,🆎 AdBlock
 HOST,wallstrads.com,🆎 AdBlock
 HOST,walmeric.com,🆎 AdBlock
 HOST,walprater.com,🆎 AdBlock
@@ -21922,7 +21921,6 @@ HOST,woeqspvhjs.com,🆎 AdBlock
 HOST,wofan.net,🆎 AdBlock
 HOST,woghqyjpiwddme.com,🆎 AdBlock
 HOST,wojiacanting.info,🆎 AdBlock
-HOST,wolong-dsp.sm.cn,🆎 AdBlock
 HOST,wolopcqjzajiht.com,🆎 AdBlock
 HOST,wolqstldvfkuhp.com,🆎 AdBlock
 HOST,womanear.com,🆎 AdBlock
@@ -22759,6 +22757,7 @@ HOST,xrpcbukuwdvkc.com,🆎 AdBlock
 HOST,xrsfwclojycu.com,🆎 AdBlock
 HOST,xruuohzpxmmw.com,🆎 AdBlock
 HOST,xrvyetdriwzp.com,🆎 AdBlock
+HOST,xs.gdt.qq.com,🆎 AdBlock
 HOST,xs.mochiads.com,🆎 AdBlock
 HOST,xs.searchacg.org,🆎 AdBlock
 HOST,xsapp.cdn.bcebos.com,🆎 AdBlock
@@ -23369,7 +23368,6 @@ HOST,zcjrjnxgukfcy.com,🆎 AdBlock
 HOST,zcjxeitlmnuq.com,🆎 AdBlock
 HOST,zckpaeifoq.com,🆎 AdBlock
 HOST,zckphynp.com,🆎 AdBlock
-HOST,zconfig.alibabausercontent.com,🆎 AdBlock
 HOST,zcoup.com,🆎 AdBlock
 HOST,zcovfcongwmn.com,🆎 AdBlock
 HOST,zcrfefgrg.com,🆎 AdBlock
@@ -25121,6 +25119,7 @@ HOST-SUFFIX,acuityplatform.com,🆎 AdBlock
 HOST-SUFFIX,acv5e.cn,🆎 AdBlock
 HOST-SUFFIX,acwgf.com,🆎 AdBlock
 HOST-SUFFIX,acxiom-online.com,🆎 AdBlock
+HOST-SUFFIX,acz.youku.com,🆎 AdBlock
 HOST-SUFFIX,ad-analysis.pconline.com.cn,🆎 AdBlock
 HOST-SUFFIX,ad-android.51wnl.com,🆎 AdBlock
 HOST-SUFFIX,ad-api.cnblogs.com,🆎 AdBlock
@@ -25708,6 +25707,8 @@ HOST-SUFFIX,adwetec.com,🆎 AdBlock
 HOST-SUFFIX,adwhirl.com,🆎 AdBlock
 HOST-SUFFIX,adwo.com,🆎 AdBlock
 HOST-SUFFIX,adx-api.hupu.com,🆎 AdBlock
+HOST-SUFFIX,adx-core.youku.com,🆎 AdBlock
+HOST-SUFFIX,adx-open-service.youku.com,🆎 AdBlock
 HOST-SUFFIX,adx-static.ksosoft.com,🆎 AdBlock
 HOST-SUFFIX,adx.adxglobal.com,🆎 AdBlock
 HOST-SUFFIX,adx.chip.de,🆎 AdBlock
@@ -26706,6 +26707,7 @@ HOST-SUFFIX,bfdcdn.com,🆎 AdBlock
 HOST-SUFFIX,bfgg365.com,🆎 AdBlock
 HOST-SUFFIX,bfshan.cn,🆎 AdBlock
 HOST-SUFFIX,bgcse.cn,🆎 AdBlock
+HOST-SUFFIX,bgg.baidu.com,🆎 AdBlock
 HOST-SUFFIX,bgj216.cn,🆎 AdBlock
 HOST-SUFFIX,bglog.bitauto.com,🆎 AdBlock
 HOST-SUFFIX,bgrndi.com,🆎 AdBlock
@@ -27068,6 +27070,7 @@ HOST-SUFFIX,cachenotice.cp11.ott.cibntv.net,🆎 AdBlock
 HOST-SUFFIX,cachesit.com,🆎 AdBlock
 HOST-SUFFIX,cad.chosun.com,🆎 AdBlock
 HOST-SUFFIX,cad.donga.com,🆎 AdBlock
+HOST-SUFFIX,cad.youku.com,🆎 AdBlock
 HOST-SUFFIX,cadreon.s3.amazonaws.com,🆎 AdBlock
 HOST-SUFFIX,cadsecz.com,🆎 AdBlock
 HOST-SUFFIX,cadsips.com,🆎 AdBlock
@@ -30402,7 +30405,6 @@ HOST-SUFFIX,image.hh010.com,🆎 AdBlock
 HOST-SUFFIX,image.hj217.com,🆎 AdBlock
 HOST-SUFFIX,image.p4p.sogou.com,🆎 AdBlock
 HOST-SUFFIX,image.qj175.com,🆎 AdBlock
-HOST-SUFFIX,image.zzd.sm.cn,🆎 AdBlock
 HOST-SUFFIX,imagelx.yidianzixun.com,🆎 AdBlock
 HOST-SUFFIX,imageplus.baidu.cn,🆎 AdBlock
 HOST-SUFFIX,imageplus.baidu.com,🆎 AdBlock
@@ -31892,7 +31894,6 @@ HOST-SUFFIX,m.tcksbz888.com,🆎 AdBlock
 HOST-SUFFIX,m.tiantianedu.net,🆎 AdBlock
 HOST-SUFFIX,m.tuopp.com,🆎 AdBlock
 HOST-SUFFIX,m.uc123.com,🆎 AdBlock
-HOST-SUFFIX,m.uczzd.cn,🆎 AdBlock
 HOST-SUFFIX,m.ueram.com,🆎 AdBlock
 HOST-SUFFIX,m.vaxyz.com,🆎 AdBlock
 HOST-SUFFIX,m.verpt.com,🆎 AdBlock
@@ -32018,6 +32019,7 @@ HOST-SUFFIX,maxoi.cn,🆎 AdBlock
 HOST-SUFFIX,maxwebsearch.com,🆎 AdBlock
 HOST-SUFFIX,maxwellsery.com,🆎 AdBlock
 HOST-SUFFIX,maysunmedia.com,🆎 AdBlock
+HOST-SUFFIX,mazu.m.qq.com,🆎 AdBlock
 HOST-SUFFIX,mb.gulongbbs.com,🆎 AdBlock
 HOST-SUFFIX,mb.hockeybuzz.com,🆎 AdBlock
 HOST-SUFFIX,mb.zam.com,🆎 AdBlock
@@ -33135,6 +33137,7 @@ HOST-SUFFIX,partner.permutive.app,🆎 AdBlock
 HOST-SUFFIX,partner.premiumdomains.com,🆎 AdBlock
 HOST-SUFFIX,partner.premiumhosts.com,🆎 AdBlock
 HOST-SUFFIX,partner.toutiao.com,🆎 AdBlock
+HOST-SUFFIX,partner.uc.cn,🆎 AdBlock
 HOST-SUFFIX,partner.worldoftanks.com,🆎 AdBlock
 HOST-SUFFIX,partners.badongo.com,🆎 AdBlock
 HOST-SUFFIX,partners.fshealth.com,🆎 AdBlock
@@ -33873,6 +33876,7 @@ HOST-SUFFIX,raeqqe.cn,🆎 AdBlock
 HOST-SUFFIX,rainfinemalawi.com,🆎 AdBlock
 HOST-SUFFIX,ralozorwyn.pw,🆎 AdBlock
 HOST-SUFFIX,rand.com.ru,🆎 AdBlock
+HOST-SUFFIX,ranfenghd.com,🆎 AdBlock
 HOST-SUFFIX,rangeblessedness.men,🆎 AdBlock
 HOST-SUFFIX,rank.hit.china.com,🆎 AdBlock
 HOST-SUFFIX,rannabio.com,🆎 AdBlock
@@ -34018,6 +34022,7 @@ HOST-SUFFIX,rgvqcsxqge.com,🆎 AdBlock
 HOST-SUFFIX,rh.code.jjyx.com,🆎 AdBlock
 HOST-SUFFIX,rh.qq.com,🆎 AdBlock
 HOST-SUFFIX,rh1hilm7j0ae.com,🆎 AdBlock
+HOST-SUFFIX,rhdc-acs.youku.com,🆎 AdBlock
 HOST-SUFFIX,rheaddelainlyco.info,🆎 AdBlock
 HOST-SUFFIX,rhgyg.com,🆎 AdBlock
 HOST-SUFFIX,riahungardedig.info,🆎 AdBlock
@@ -34603,6 +34608,7 @@ HOST-SUFFIX,sitetoway.com,🆎 AdBlock
 HOST-SUFFIX,sixgen.cn,🆎 AdBlock
 HOST-SUFFIX,sj1.3987.com,🆎 AdBlock
 HOST-SUFFIX,sjaidu.com,🆎 AdBlock
+HOST-SUFFIX,sjarvis.taobao.com,🆎 AdBlock
 HOST-SUFFIX,sjbaiduadv1.redou.com,🆎 AdBlock
 HOST-SUFFIX,sjczsc.com,🆎 AdBlock
 HOST-SUFFIX,sjgnskf.com,🆎 AdBlock
@@ -34628,6 +34634,7 @@ HOST-SUFFIX,slvtx.com,🆎 AdBlock
 HOST-SUFFIX,slygzsc.cn,🆎 AdBlock
 HOST-SUFFIX,slzs.52xiyou.com,🆎 AdBlock
 HOST-SUFFIX,sm.0.0.0.0.cn,🆎 AdBlock
+HOST-SUFFIX,sm.cn,🆎 AdBlock
 HOST-SUFFIX,sm.toutiao.com,🆎 AdBlock
 HOST-SUFFIX,sm077.com,🆎 AdBlock
 HOST-SUFFIX,sm1.todgo.com,🆎 AdBlock
@@ -34658,6 +34665,7 @@ HOST-SUFFIX,snapmobileasia.net,🆎 AdBlock
 HOST-SUFFIX,snnd.co,🆎 AdBlock
 HOST-SUFFIX,snnnyy.com,🆎 AdBlock
 HOST-SUFFIX,snow001.com,🆎 AdBlock
+HOST-SUFFIX,snowflake.qq.com,🆎 AdBlock
 HOST-SUFFIX,so9l.com,🆎 AdBlock
 HOST-SUFFIX,soagrist.net,🆎 AdBlock
 HOST-SUFFIX,soarfi.cn,🆎 AdBlock
@@ -35954,6 +35962,7 @@ HOST-SUFFIX,ub1.job592.com,🆎 AdBlock
 HOST-SUFFIX,ubaii.com,🆎 AdBlock
 HOST-SUFFIX,ubalh.com,🆎 AdBlock
 HOST-SUFFIX,uberads.com,🆎 AdBlock
+HOST-SUFFIX,ubixioe.com,🆎 AdBlock
 HOST-SUFFIX,ubm.fangtoo.com,🆎 AdBlock
 HOST-SUFFIX,ubt.berlingskemedia.net,🆎 AdBlock
 HOST-SUFFIX,uc.haoyunyuan.cc,🆎 AdBlock
@@ -35983,6 +35992,7 @@ HOST-SUFFIX,ucus.ucweb.com,🆎 AdBlock
 HOST-SUFFIX,ucvqmvg.cn,🆎 AdBlock
 HOST-SUFFIX,ucxgg.com,🆎 AdBlock
 HOST-SUFFIX,ucxxii.com,🆎 AdBlock
+HOST-SUFFIX,uczzd.cn,🆎 AdBlock
 HOST-SUFFIX,uczzd.com,🆎 AdBlock
 HOST-SUFFIX,uczzd.com.cn,🆎 AdBlock
 HOST-SUFFIX,uczzd.net,🆎 AdBlock
@@ -37589,6 +37599,7 @@ HOST-SUFFIX,zcand.com,🆎 AdBlock
 HOST-SUFFIX,zcaod.com,🆎 AdBlock
 HOST-SUFFIX,zcdor.com,🆎 AdBlock
 HOST-SUFFIX,zcdsp.com,🆎 AdBlock
+HOST-SUFFIX,zconfig.alibabausercontent.com,🆎 AdBlock
 HOST-SUFFIX,zcpap.cn,🆎 AdBlock
 HOST-SUFFIX,zcpnq.cn,🆎 AdBlock
 HOST-SUFFIX,zcrtd.com,🆎 AdBlock
@@ -37934,6 +37945,7 @@ IP-CIDR,120.132.57.41/32,🆎 AdBlock
 IP-CIDR,120.132.63.203/32,🆎 AdBlock
 IP-CIDR,120.197.89.239/32,🆎 AdBlock
 IP-CIDR,120.198.116.0/24,🆎 AdBlock
+IP-CIDR,120.222.240.171/32,🆎 AdBlock
 IP-CIDR,120.240.95.37/32,🆎 AdBlock
 IP-CIDR,121.15.207.243/32,🆎 AdBlock
 IP-CIDR,121.43.75.169/32,🆎 AdBlock
@@ -38024,4 +38036,5 @@ IP-CIDR,223.87.182.11/32,🆎 AdBlock
 IP-CIDR,223.87.182.52/32,🆎 AdBlock
 IP-CIDR,223.87.182.101/32,🆎 AdBlock
 IP-CIDR,223.87.182.102/32,🆎 AdBlock
+IP-CIDR,223.111.27.248/32,🆎 AdBlock
 IP6-CIDR,2402:db40:5100:1011::5/128,🆎 AdBlock
