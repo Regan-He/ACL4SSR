@@ -383,6 +383,7 @@ HOST-SUFFIX,iad-05.braze.com,REJECT
 HOST-SUFFIX,iad-06.braze.com,REJECT
 HOST-SUFFIX,iad-08.braze.com,REJECT
 HOST-SUFFIX,iad.appboy.com,REJECT
+HOST-SUFFIX,iadsdk.apple.com,REJECT
 HOST-SUFFIX,ig66.vip,REJECT
 HOST-SUFFIX,ig67.vip,REJECT
 HOST-SUFFIX,img.ad-nex.com,REJECT
