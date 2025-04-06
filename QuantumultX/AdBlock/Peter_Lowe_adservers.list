@@ -6,7 +6,6 @@ HOST-SUFFIX,2020mustang.com,REJECT
 HOST-SUFFIX,207.net,REJECT
 HOST-SUFFIX,247media.com,REJECT
 HOST-SUFFIX,24log.com,REJECT
-HOST-SUFFIX,24pm-affiliation.com,REJECT
 HOST-SUFFIX,2linkpath.com,REJECT
 HOST-SUFFIX,2mdn.net,REJECT
 HOST-SUFFIX,2o7.net,REJECT
@@ -136,6 +135,7 @@ HOST-SUFFIX,ad.technoratimedia.com,REJECT
 HOST-SUFFIX,ad.tv2.no,REJECT
 HOST-SUFFIX,ad.universcine.com,REJECT
 HOST-SUFFIX,ad.usatoday.com,REJECT
+HOST-SUFFIX,ad.virtual-nights.com,REJECT
 HOST-SUFFIX,ad.wavu.hu,REJECT
 HOST-SUFFIX,ad.weatherbug.com,REJECT
 HOST-SUFFIX,ad.wsod.com,REJECT
@@ -581,6 +581,7 @@ HOST-SUFFIX,ads.uxs.at,REJECT
 HOST-SUFFIX,ads.v-lazer.com,REJECT
 HOST-SUFFIX,ads.verticalresponse.com,REJECT
 HOST-SUFFIX,ads.vgchartz.com,REJECT
+HOST-SUFFIX,ads.virtual-nights.com,REJECT
 HOST-SUFFIX,ads.virtuopolitan.com,REJECT
 HOST-SUFFIX,ads.vnumedia.com,REJECT
 HOST-SUFFIX,ads.walkiberia.com,REJECT
@@ -607,6 +608,7 @@ HOST-SUFFIX,ads1-adnow.com,REJECT
 HOST-SUFFIX,ads1.mediacapital.pt,REJECT
 HOST-SUFFIX,ads1.msn.com,REJECT
 HOST-SUFFIX,ads1.rne.com,REJECT
+HOST-SUFFIX,ads1.virtual-nights.com,REJECT
 HOST-SUFFIX,ads10.speedbit.com,REJECT
 HOST-SUFFIX,ads180.com,REJECT
 HOST-SUFFIX,ads2.brazzers.com,REJECT
@@ -616,6 +618,7 @@ HOST-SUFFIX,ads2.gamecity.net,REJECT
 HOST-SUFFIX,ads2.hsoub.com,REJECT
 HOST-SUFFIX,ads2.net-communities.co.uk,REJECT
 HOST-SUFFIX,ads2.rne.com,REJECT
+HOST-SUFFIX,ads2.virtual-nights.com,REJECT
 HOST-SUFFIX,ads2.webdrive.no,REJECT
 HOST-SUFFIX,ads2.xnet.cz,REJECT
 HOST-SUFFIX,ads2004.treiberupdate.de,REJECT
@@ -623,8 +626,11 @@ HOST-SUFFIX,ads24h.net,REJECT
 HOST-SUFFIX,ads3-adnow.com,REJECT
 HOST-SUFFIX,ads3.contentabc.com,REJECT
 HOST-SUFFIX,ads3.gamecity.net,REJECT
+HOST-SUFFIX,ads3.virtual-nights.com,REJECT
 HOST-SUFFIX,ads4.gamecity.net,REJECT
+HOST-SUFFIX,ads4.virtual-nights.com,REJECT
 HOST-SUFFIX,ads4homes.com,REJECT
+HOST-SUFFIX,ads5.virtual-nights.com,REJECT
 HOST-SUFFIX,ads6.gamecity.net,REJECT
 HOST-SUFFIX,ads7.gamecity.net,REJECT
 HOST-SUFFIX,adsafeprotected.com,REJECT
@@ -976,7 +982,6 @@ HOST-SUFFIX,awzbijw.com,REJECT
 HOST-SUFFIX,axonix.com,REJECT
 HOST-SUFFIX,ay.delivery,REJECT
 HOST-SUFFIX,ayads.co,REJECT
-HOST-SUFFIX,aztracking.net,REJECT
 HOST-SUFFIX,b-s.tercept.com,REJECT
 HOST-SUFFIX,b.videoamp.com,REJECT
 HOST-SUFFIX,b3.videoamp.com,REJECT
@@ -1278,7 +1283,6 @@ HOST-SUFFIX,clickdensity.com,REJECT
 HOST-SUFFIX,clickedyclick.com,REJECT
 HOST-SUFFIX,clickfuse.com,REJECT
 HOST-SUFFIX,clickhereforcellphones.com,REJECT
-HOST-SUFFIX,clicklink.jp,REJECT
 HOST-SUFFIX,clickngo.pro,REJECT
 HOST-SUFFIX,clickonometrics.pl,REJECT
 HOST-SUFFIX,clicks.deliveroo.co.uk,REJECT
@@ -1954,7 +1958,6 @@ HOST-SUFFIX,kissmetrics.com,REJECT
 HOST-SUFFIX,klclick.com,REJECT
 HOST-SUFFIX,klclick1.com,REJECT
 HOST-SUFFIX,kliks.nl,REJECT
-HOST-SUFFIX,klsdee.com,REJECT
 HOST-SUFFIX,knitstamp.com,REJECT
 HOST-SUFFIX,knorex.com,REJECT
 HOST-SUFFIX,knottyswing.com,REJECT
@@ -1977,6 +1980,7 @@ HOST-SUFFIX,launchbit.com,REJECT
 HOST-SUFFIX,layer-ad.de,REJECT
 HOST-SUFFIX,layer-ads.de,REJECT
 HOST-SUFFIX,lbn.ru,REJECT
+HOST-SUFFIX,lead02.com,REJECT
 HOST-SUFFIX,leadboltads.net,REJECT
 HOST-SUFFIX,leadclick.com,REJECT
 HOST-SUFFIX,leadinfo.net,REJECT
@@ -2016,6 +2020,7 @@ HOST-SUFFIX,lightstep.medium.systems,REJECT
 HOST-SUFFIX,lijit.com,REJECT
 HOST-SUFFIX,link-booster.de,REJECT
 HOST-SUFFIX,link.axios.com,REJECT
+HOST-SUFFIX,link.email.davidlloydclubs.co.uk,REJECT
 HOST-SUFFIX,link.email.usmagazine.com,REJECT
 HOST-SUFFIX,link.go.chase,REJECT
 HOST-SUFFIX,link.sbstck.com,REJECT
@@ -2762,6 +2767,7 @@ HOST-SUFFIX,scratch2cash.com,REJECT
 HOST-SUFFIX,screechingfurniture.com,REJECT
 HOST-SUFFIX,screechingstocking.com,REJECT
 HOST-SUFFIX,screechingstove.com,REJECT
+HOST-SUFFIX,scripte-monster.de,REJECT
 HOST-SUFFIX,scrubswim.com,REJECT
 HOST-SUFFIX,sdkfjxjertertry.com,REJECT
 HOST-SUFFIX,seadform.net,REJECT
@@ -3133,7 +3139,6 @@ HOST-SUFFIX,track.pubmatic.com,REJECT
 HOST-SUFFIX,track.segmetrics.io,REJECT
 HOST-SUFFIX,track.software-codes.com,REJECT
 HOST-SUFFIX,track.spe.schoolmessenger.com,REJECT
-HOST-SUFFIX,track.themaccleanup.info,REJECT
 HOST-SUFFIX,track.ultravpn.com,REJECT
 HOST-SUFFIX,track.unear.net,REJECT
 HOST-SUFFIX,track.vcdc.com,REJECT
@@ -3279,7 +3284,6 @@ HOST-SUFFIX,veille-referencement.com,REJECT
 HOST-SUFFIX,velismedia.com,REJECT
 HOST-SUFFIX,venetrigni.com,REJECT
 HOST-SUFFIX,vengefulgrass.com,REJECT
-HOST-SUFFIX,ventivmedia.com,REJECT
 HOST-SUFFIX,venturead.com,REJECT
 HOST-SUFFIX,vericlick.com,REJECT
 HOST-SUFFIX,vertamedia.com,REJECT
