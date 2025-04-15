@@ -1,7 +1,17 @@
+HOST,auth.wosms.cn,🎯 全球直连
+HOST,config.cmpassport.com,🎯 全球直连
 HOST,csgo.wmsj.cn,🎯 全球直连
 HOST,dl.steam.clngaa.com,🎯 全球直连
 HOST,dl.steam.ksyna.com,🎯 全球直连
 HOST,dota2.wmsj.cn,🎯 全球直连
+HOST,enrichgw.10010.com,🎯 全球直连
+HOST,hmrz.wo.cn,🎯 全球直连
+HOST,id.mail.wo.cn,🎯 全球直连
+HOST,log.cmpassport.com,🎯 全球直连
+HOST,log1.cmpassport.com,🎯 全球直连
+HOST,mdn.open.wo.cn,🎯 全球直连
+HOST,nishub1.10010.com,🎯 全球直连
+HOST,opencloud.wostore.cn,🎯 全球直连
 HOST,st.dl.bscstorage.net,🎯 全球直连
 HOST,st.dl.eccdnx.com,🎯 全球直连
 HOST,st.dl.pinyuncloud.com,🎯 全球直连
@@ -10,6 +20,7 @@ HOST,steampowered.com.8686c.com,🎯 全球直连
 HOST,steamstatic.com.8686c.com,🎯 全球直连
 HOST,wmsjsteam.com,🎯 全球直连
 HOST,xz.pphimalayanrt.com,🎯 全球直连
+HOST,ye.dun.163yun.com,🎯 全球直连
 HOST-KEYWORD,360buy,🎯 全球直连
 HOST-KEYWORD,alicdn,🎯 全球直连
 HOST-KEYWORD,alimama,🎯 全球直连
@@ -96,6 +107,7 @@ HOST-SUFFIX,amap.com,🎯 全球直连
 HOST-SUFFIX,amemv.com,🎯 全球直连
 HOST-SUFFIX,appsimg.com,🎯 全球直连
 HOST-SUFFIX,appvipshop.com,🎯 全球直连
+HOST-SUFFIX,auth.wo.cn,🎯 全球直连
 HOST-SUFFIX,autonavi.com,🎯 全球直连
 HOST-SUFFIX,b23.tv,🎯 全球直连
 HOST-SUFFIX,babytree.com,🎯 全球直连
@@ -161,6 +173,7 @@ HOST-SUFFIX,clouddn.com,🎯 全球直连
 HOST-SUFFIX,cloudxns.net,🎯 全球直连
 HOST-SUFFIX,cm.steampowered.com,🎯 全球直连
 HOST-SUFFIX,cmbchina.com,🎯 全球直连
+HOST-SUFFIX,cmpassport.com,🎯 全球直连
 HOST-SUFFIX,cn,🎯 全球直连
 HOST-SUFFIX,cn163.net,🎯 全球直连
 HOST-SUFFIX,cnblogs.com,🎯 全球直连
@@ -192,6 +205,7 @@ HOST-SUFFIX,douyinstatic.com,🎯 全球直连
 HOST-SUFFIX,douyinvod.com,🎯 全球直连
 HOST-SUFFIX,douyu.com,🎯 全球直连
 HOST-SUFFIX,douyu.tv,🎯 全球直连
+HOST-SUFFIX,douyucdn.cn,🎯 全球直连
 HOST-SUFFIX,douyuscdn.com,🎯 全球直连
 HOST-SUFFIX,douyutv.com,🎯 全球直连
 HOST-SUFFIX,dpfile.com,🎯 全球直连
@@ -264,6 +278,7 @@ HOST-SUFFIX,huya.com,🎯 全球直连
 HOST-SUFFIX,hwccpc.com,🎯 全球直连
 HOST-SUFFIX,ibytedapm.com,🎯 全球直连
 HOST-SUFFIX,iciba.com,🎯 全球直连
+HOST-SUFFIX,id6.me,🎯 全球直连
 HOST-SUFFIX,idqqimg.com,🎯 全球直连
 HOST-SUFFIX,iesdouyin.com,🎯 全球直连
 HOST-SUFFIX,ifeng.com,🎯 全球直连
@@ -352,6 +367,7 @@ HOST-SUFFIX,migucloud.com,🎯 全球直连
 HOST-SUFFIX,miguvideo.com,🎯 全球直连
 HOST-SUFFIX,miui.com,🎯 全球直连
 HOST-SUFFIX,mmstat.com,🎯 全球直连
+HOST-SUFFIX,mob.com,🎯 全球直连
 HOST-SUFFIX,mobike.com,🎯 全球直连
 HOST-SUFFIX,mogu.com,🎯 全球直连
 HOST-SUFFIX,mogucdn.com,🎯 全球直连
@@ -373,6 +389,7 @@ HOST-SUFFIX,nuomi.com,🎯 全球直连
 HOST-SUFFIX,onedns.net,🎯 全球直连
 HOST-SUFFIX,oneplus.com,🎯 全球直连
 HOST-SUFFIX,onlinedown.net,🎯 全球直连
+HOST-SUFFIX,open.e.189.cn,🎯 全球直连
 HOST-SUFFIX,oppo.com,🎯 全球直连
 HOST-SUFFIX,oppoer.me,🎯 全球直连
 HOST-SUFFIX,oppomobile.com,🎯 全球直连
