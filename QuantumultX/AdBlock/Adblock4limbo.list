@@ -416,7 +416,6 @@ HOST-SUFFIX,log.hunantv.com,REJECT
 HOST-SUFFIX,magsrv.com,REJECT
 HOST-SUFFIX,maphuahin.com,REJECT
 HOST-SUFFIX,maxwellsery.com,REJECT
-HOST-SUFFIX,mc.yandex.ru,REJECT
 HOST-SUFFIX,mc7clurd09pla4nrtat7ion.com,REJECT
 HOST-SUFFIX,media.aso1.net,REJECT
 HOST-SUFFIX,media.dalysv.com,REJECT
@@ -503,6 +502,5 @@ HOST-SUFFIX,xn--3bs795g.zone,REJECT
 HOST-SUFFIX,xn--qrq171dxpq.com,REJECT
 HOST-SUFFIX,xn--xhq9mt12cf5v.xn--io0a7i,REJECT
 HOST-SUFFIX,xxxjmp.com,REJECT
-HOST-SUFFIX,yandex.ru,REJECT
 HOST-SUFFIX,youradexchange.com,REJECT
 HOST-SUFFIX,zprofuqkssny.com,REJECT

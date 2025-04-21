@@ -109,7 +109,6 @@ HOST-SUFFIX,ad.hyena.cz,REJECT
 HOST-SUFFIX,ad.iinfo.cz,REJECT
 HOST-SUFFIX,ad.infoseek.com,REJECT
 HOST-SUFFIX,ad.intl.xiaomi.com,REJECT
-HOST-SUFFIX,ad.jacotei.com.br,REJECT
 HOST-SUFFIX,ad.jetsoftware.com,REJECT
 HOST-SUFFIX,ad.keenspace.com,REJECT
 HOST-SUFFIX,ad.lgappstv.com,REJECT
@@ -174,7 +173,6 @@ HOST-SUFFIX,adbooth.net,REJECT
 HOST-SUFFIX,adbot.com,REJECT
 HOST-SUFFIX,adbrite.com,REJECT
 HOST-SUFFIX,adbroker.de,REJECT
-HOST-SUFFIX,adbunker.com,REJECT
 HOST-SUFFIX,adbutler.com,REJECT
 HOST-SUFFIX,adbuyer3.lycos.com,REJECT
 HOST-SUFFIX,adcampo.com,REJECT
@@ -275,6 +273,7 @@ HOST-SUFFIX,admeridianads.com,REJECT
 HOST-SUFFIX,admex.com,REJECT
 HOST-SUFFIX,admidadsp.com,REJECT
 HOST-SUFFIX,adminder.com,REJECT
+HOST-SUFFIX,adminshop.com,REJECT
 HOST-SUFFIX,admix.in,REJECT
 HOST-SUFFIX,admixer.net,REJECT
 HOST-SUFFIX,admized.com,REJECT
@@ -388,7 +387,6 @@ HOST-SUFFIX,ads.dailycamera.com,REJECT
 HOST-SUFFIX,ads.deltha.hu,REJECT
 HOST-SUFFIX,ads.dennisnet.co.uk,REJECT
 HOST-SUFFIX,ads.desmoinesregister.com,REJECT
-HOST-SUFFIX,ads.detelefoongids.nl,REJECT
 HOST-SUFFIX,ads.deviantart.com,REJECT
 HOST-SUFFIX,ads.devmates.com,REJECT
 HOST-SUFFIX,ads.digital-digest.com,REJECT
@@ -1200,7 +1198,6 @@ HOST-SUFFIX,cdn.onesignal.com,REJECT
 HOST-SUFFIX,cdn.scarabresearch.com,REJECT
 HOST-SUFFIX,cdn.segment.com,REJECT
 HOST-SUFFIX,cdnondemand.org,REJECT
-HOST-SUFFIX,ceciliavenus.com,REJECT
 HOST-SUFFIX,cedato.com,REJECT
 HOST-SUFFIX,celtra.com,REJECT
 HOST-SUFFIX,centerpointmedia.com,REJECT
@@ -1532,6 +1529,7 @@ HOST-SUFFIX,email-link.adtidy.org,REJECT
 HOST-SUFFIX,email-links.crowdfireapp.com,REJECT
 HOST-SUFFIX,email-open.adtidy.net,REJECT
 HOST-SUFFIX,email-open.adtidy.org,REJECT
+HOST-SUFFIX,email-trk.ihg-businessedge.com,REJECT
 HOST-SUFFIX,email.mg1.substack.com,REJECT
 HOST-SUFFIX,emailer.stockbit.com,REJECT
 HOST-SUFFIX,emaillinks.soundiiz.com,REJECT
@@ -1699,7 +1697,6 @@ HOST-SUFFIX,fxstyle.net,REJECT
 HOST-SUFFIX,g2.gumgum.com,REJECT
 HOST-SUFFIX,ga.clearbit.com,REJECT
 HOST-SUFFIX,gadsbee.com,REJECT
-HOST-SUFFIX,galaxien.com,REJECT
 HOST-SUFFIX,game-advertising-online.com,REJECT
 HOST-SUFFIX,gamesites100.net,REJECT
 HOST-SUFFIX,gamesites200.com,REJECT
@@ -1780,7 +1777,6 @@ HOST-SUFFIX,hb.vntsm.com,REJECT
 HOST-SUFFIX,hbb.afl.rakuten.co.jp,REJECT
 HOST-SUFFIX,hbopenbid.pubmatic.com,REJECT
 HOST-SUFFIX,heap.com,REJECT
-HOST-SUFFIX,heimi-lwx.com,REJECT
 HOST-SUFFIX,hellobar.com,REJECT
 HOST-SUFFIX,helpcollar.com,REJECT
 HOST-SUFFIX,hentaicounter.com,REJECT
@@ -1968,7 +1964,6 @@ HOST-SUFFIX,kost.tv,REJECT
 HOST-SUFFIX,kpu.samsungelectronics.com,REJECT
 HOST-SUFFIX,krxd.net,REJECT
 HOST-SUFFIX,ktu.sv2.biz,REJECT
-HOST-SUFFIX,kubient.com,REJECT
 HOST-SUFFIX,l1.britannica.com,REJECT
 HOST-SUFFIX,l6b587txj1.com,REJECT
 HOST-SUFFIX,lakequincy.com,REJECT
@@ -2121,7 +2116,6 @@ HOST-SUFFIX,matomo.activate.cz,REJECT
 HOST-SUFFIX,matomo.crossiety.app,REJECT
 HOST-SUFFIX,mautic.com,REJECT
 HOST-SUFFIX,max.i12.de,REJECT
-HOST-SUFFIX,maximiser.net,REJECT
 HOST-SUFFIX,maxonclick.com,REJECT
 HOST-SUFFIX,mbs.megaroticlive.com,REJECT
 HOST-SUFFIX,mcdlks.com,REJECT
@@ -2412,7 +2406,6 @@ HOST-SUFFIX,pagerank-ranking.de,REJECT
 HOST-SUFFIX,pageranktop.com,REJECT
 HOST-SUFFIX,painstakingpickle.com,REJECT
 HOST-SUFFIX,paleleaf.com,REJECT
-HOST-SUFFIX,panatenlink.pl,REJECT
 HOST-SUFFIX,panickypancake.com,REJECT
 HOST-SUFFIX,panoramicplane.com,REJECT
 HOST-SUFFIX,parachutehome.sjv.io,REJECT
@@ -3098,6 +3091,7 @@ HOST-SUFFIX,tm.br.de,REJECT
 HOST-SUFFIX,tnkexchange.com,REJECT
 HOST-SUFFIX,tns-counter.ru,REJECT
 HOST-SUFFIX,to-go1.eu,REJECT
+HOST-SUFFIX,top-casting-termine.de,REJECT
 HOST-SUFFIX,top-site-list.com,REJECT
 HOST-SUFFIX,top.list.ru,REJECT
 HOST-SUFFIX,top.mail.ru,REJECT
@@ -3153,7 +3147,6 @@ HOST-SUFFIX,tracker.icerocket.com,REJECT
 HOST-SUFFIX,tracker.metricswave.com,REJECT
 HOST-SUFFIX,tracker.mmdlv.it,REJECT
 HOST-SUFFIX,tracker.samplicio.us,REJECT
-HOST-SUFFIX,tracking.42-01pr5-osm-secure.co.uk,REJECT
 HOST-SUFFIX,tracking.epicgames.com,REJECT
 HOST-SUFFIX,tracking.hyros.com,REJECT
 HOST-SUFFIX,tracking.ibxlink.com,REJECT
@@ -3287,7 +3280,6 @@ HOST-SUFFIX,vengefulgrass.com,REJECT
 HOST-SUFFIX,venturead.com,REJECT
 HOST-SUFFIX,vericlick.com,REJECT
 HOST-SUFFIX,vertamedia.com,REJECT
-HOST-SUFFIX,verticalmass.com,REJECT
 HOST-SUFFIX,vervewireless.com,REJECT
 HOST-SUFFIX,vgnp3trk.com,REJECT
 HOST-SUFFIX,vibrantsundown.com,REJECT
