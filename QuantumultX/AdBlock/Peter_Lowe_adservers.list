@@ -897,7 +897,6 @@ HOST-SUFFIX,analytics.pointdrive.linkedin.com,REJECT
 HOST-SUFFIX,analytics.poolshool.com,REJECT
 HOST-SUFFIX,analytics.posttv.com,REJECT
 HOST-SUFFIX,analytics.santander.co.uk,REJECT
-HOST-SUFFIX,analytics.shorte.st,REJECT
 HOST-SUFFIX,analytics.swiggy.com,REJECT
 HOST-SUFFIX,analytics.tiktok.com,REJECT
 HOST-SUFFIX,analytics.xelondigital.com,REJECT
@@ -1198,6 +1197,7 @@ HOST-SUFFIX,cdn.onesignal.com,REJECT
 HOST-SUFFIX,cdn.scarabresearch.com,REJECT
 HOST-SUFFIX,cdn.segment.com,REJECT
 HOST-SUFFIX,cdnondemand.org,REJECT
+HOST-SUFFIX,ceciliavenus.com,REJECT
 HOST-SUFFIX,cedato.com,REJECT
 HOST-SUFFIX,celtra.com,REJECT
 HOST-SUFFIX,centerpointmedia.com,REJECT
@@ -1331,7 +1331,6 @@ HOST-SUFFIX,commissionmonster.com,REJECT
 HOST-SUFFIX,communications.melitaltd.com,REJECT
 HOST-SUFFIX,compactbanner.com,REJECT
 HOST-SUFFIX,comparereaction.com,REJECT
-HOST-SUFFIX,compiledoctor.com,REJECT
 HOST-SUFFIX,comprabanner.it,REJECT
 HOST-SUFFIX,conditionchange.com,REJECT
 HOST-SUFFIX,conductrics.com,REJECT
@@ -1432,7 +1431,6 @@ HOST-SUFFIX,dancemistake.com,REJECT
 HOST-SUFFIX,dapper.net,REJECT
 HOST-SUFFIX,data.namesakeoscilloscopemarquis.com,REJECT
 HOST-SUFFIX,datenow.link,REJECT
-HOST-SUFFIX,daughterstone.com,REJECT
 HOST-SUFFIX,dc-storm.com,REJECT
 HOST-SUFFIX,de17a.com,REJECT
 HOST-SUFFIX,deal-on.eu,REJECT
@@ -1697,6 +1695,7 @@ HOST-SUFFIX,fxstyle.net,REJECT
 HOST-SUFFIX,g2.gumgum.com,REJECT
 HOST-SUFFIX,ga.clearbit.com,REJECT
 HOST-SUFFIX,gadsbee.com,REJECT
+HOST-SUFFIX,galaxien.com,REJECT
 HOST-SUFFIX,game-advertising-online.com,REJECT
 HOST-SUFFIX,gamesites100.net,REJECT
 HOST-SUFFIX,gamesites200.com,REJECT
@@ -1915,7 +1914,6 @@ HOST-SUFFIX,ipstack.com,REJECT
 HOST-SUFFIX,irchan.com,REJECT
 HOST-SUFFIX,ireklama.cz,REJECT
 HOST-SUFFIX,is-tracking-pixel-api-prod.appspot.com,REJECT
-HOST-SUFFIX,itop.cz,REJECT
 HOST-SUFFIX,its-that-easy.com,REJECT
 HOST-SUFFIX,ivwbox.de,REJECT
 HOST-SUFFIX,ivykiosk.com,REJECT
@@ -2116,6 +2114,7 @@ HOST-SUFFIX,matomo.activate.cz,REJECT
 HOST-SUFFIX,matomo.crossiety.app,REJECT
 HOST-SUFFIX,mautic.com,REJECT
 HOST-SUFFIX,max.i12.de,REJECT
+HOST-SUFFIX,maximiser.net,REJECT
 HOST-SUFFIX,maxonclick.com,REJECT
 HOST-SUFFIX,mbs.megaroticlive.com,REJECT
 HOST-SUFFIX,mcdlks.com,REJECT
@@ -3352,7 +3351,6 @@ HOST-SUFFIX,whispa.com,REJECT
 HOST-SUFFIX,whisperingcascade.com,REJECT
 HOST-SUFFIX,whisperingcrib.com,REJECT
 HOST-SUFFIX,whisperingsummit.com,REJECT
-HOST-SUFFIX,whoisonline.net,REJECT
 HOST-SUFFIX,wickedreports.com,REJECT
 HOST-SUFFIX,widespace.com,REJECT
 HOST-SUFFIX,widget.educationdynamics.com,REJECT
