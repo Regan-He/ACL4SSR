@@ -6,7 +6,13 @@ HOST,alt5-mtalk.google.com,📢 谷歌服务
 HOST,alt6-mtalk.google.com,📢 谷歌服务
 HOST,alt7-mtalk.google.com,📢 谷歌服务
 HOST,alt8-mtalk.google.com,📢 谷歌服务
+HOST,android.apis.google.com,📢 谷歌服务
+HOST,device-provisioning.googleapis.com,📢 谷歌服务
+HOST,firebaseinstallations.googleapis.com,📢 谷歌服务
+HOST,mtalk-dev.google.com,📢 谷歌服务
+HOST,mtalk-staging.google.com,📢 谷歌服务
 HOST,mtalk.google.com,📢 谷歌服务
+HOST,mtalk4.google.com,📢 谷歌服务
 IP-CIDR,64.233.177.188/32,📢 谷歌服务,no-resolve
 IP-CIDR,64.233.186.188/32,📢 谷歌服务,no-resolve
 IP-CIDR,64.233.187.188/32,📢 谷歌服务,no-resolve
