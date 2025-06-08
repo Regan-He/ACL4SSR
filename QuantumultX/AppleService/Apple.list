@@ -9,15 +9,11 @@ HOST,devstreaming-cdn.apple.com,🍎 苹果服务
 HOST,docs-assets.developer.apple.com,🍎 苹果服务
 HOST,gspe1-ssl.ls.apple.com,🍎 苹果服务
 HOST,hls-svod.itunes.apple.com,🍎 苹果服务
-HOST,hls.itunes.apple.com,🍎 苹果服务
 HOST,itunes.apple.com,🍎 苹果服务
 HOST,js-cdn.music.apple.com,🍎 苹果服务
 HOST,lookup-api.apple.com,🍎 苹果服务
-HOST,mask-api.fe.apple-dns.net,🍎 苹果服务
 HOST,mask-api.icloud.com,🍎 苹果服务
 HOST,mask-h2.icloud.com,🍎 苹果服务
-HOST,mask-t.apple-dns.net,🍎 苹果服务
-HOST,mask.apple-dns.net,🍎 苹果服务
 HOST,mask.icloud.com,🍎 苹果服务
 HOST,news-assets.apple.com,🍎 苹果服务
 HOST,news-client.apple.com,🍎 苹果服务
