@@ -5522,6 +5522,7 @@ HOST-SUFFIX,analytics.thehartford.com,REJECT
 HOST-SUFFIX,analytics.theinstitutes.org,REJECT
 HOST-SUFFIX,analytics.themarketiq.com,REJECT
 HOST-SUFFIX,analytics.threedeepmarketing.com,REJECT
+HOST-SUFFIX,analytics.ticimax.cloud,REJECT
 HOST-SUFFIX,analytics.ticinolibero.ch,REJECT
 HOST-SUFFIX,analytics.tiktok.com,REJECT
 HOST-SUFFIX,analytics.tio.ch,REJECT
@@ -16888,6 +16889,7 @@ HOST-SUFFIX,insights.jackporter.com,REJECT
 HOST-SUFFIX,insights.journey.world,REJECT
 HOST-SUFFIX,insights.labcorp.com,REJECT
 HOST-SUFFIX,insights.morrismohawk.ca,REJECT
+HOST-SUFFIX,insights.mtv.a2d.tv,REJECT
 HOST-SUFFIX,insights.networks.global.fujitsu.com,REJECT
 HOST-SUFFIX,insights.nexansdatacenter.com,REJECT
 HOST-SUFFIX,insights.nowitmatters.com,REJECT
@@ -24924,7 +24926,6 @@ HOST-SUFFIX,pgs.centreforaviation.com,REJECT
 HOST-SUFFIX,pgs.corporatetravelcommunity.com,REJECT
 HOST-SUFFIX,pgs.farmprogress.com,REJECT
 HOST-SUFFIX,pgt1.voyage-prive.es,REJECT
-HOST-SUFFIX,ph.thenextweb.com,REJECT
 HOST-SUFFIX,phadia.thermo.com,REJECT
 HOST-SUFFIX,phadia.thermofisher.com,REJECT
 HOST-SUFFIX,phbnix.rocelec.com,REJECT
@@ -26554,6 +26555,10 @@ HOST-SUFFIX,rsaard.en-tea.com,REJECT
 HOST-SUFFIX,rsc.lepoint.fr,REJECT
 HOST-SUFFIX,rsinqg.homelux.hu,REJECT
 HOST-SUFFIX,rsotku.mitsui-shopping-park.com,REJECT
+HOST-SUFFIX,rsra-ph.cdn-fileserver.com,REJECT
+HOST-SUFFIX,rsra.cdn-fileserver.com,REJECT
+HOST-SUFFIX,rsras-ph.cdn-fileserver.com,REJECT
+HOST-SUFFIX,rsras.cdn-fileserver.com,REJECT
 HOST-SUFFIX,rstat.rockmostbet.com,REJECT
 HOST-SUFFIX,rsuevw.unicef.or.jp,REJECT
 HOST-SUFFIX,rsv.dankore.jp,REJECT
@@ -32276,6 +32281,7 @@ HOST-SUFFIX,squirrel.cividi.ch,REJECT
 HOST-SUFFIX,squirrel.malaynahocker.com,REJECT
 HOST-SUFFIX,squishybears.com,REJECT
 HOST-SUFFIX,sr59t7wbx5.claricelin.com,REJECT
+HOST-SUFFIX,sra-px.cdn-fileserver.com,REJECT
 HOST-SUFFIX,src.freshmarketer.in,REJECT
 HOST-SUFFIX,srd1-pdx.net.jumia.ci,REJECT
 HOST-SUFFIX,srepdata.12newsnow.com,REJECT
@@ -32666,7 +32672,6 @@ HOST-SUFFIX,sstat.outrigger.com,REJECT
 HOST-SUFFIX,sstat.spreadex.com,REJECT
 HOST-SUFFIX,sstatistikk.telenor.no,REJECT
 HOST-SUFFIX,sstats.aavacations.com,REJECT
-HOST-SUFFIX,sstats.adobe.com,REJECT
 HOST-SUFFIX,sstats.adultswim.com,REJECT
 HOST-SUFFIX,sstats.afco.com,REJECT
 HOST-SUFFIX,sstats.airfarewatchdog.co.uk,REJECT
@@ -38974,7 +38979,9 @@ HOST-SUFFIX,ulutlv.esprit.fr,REJECT
 HOST-SUFFIX,um.contentstudio.io,REJECT
 HOST-SUFFIX,umami.aigenerations.net,REJECT
 HOST-SUFFIX,umami.askrella.de,REJECT
+HOST-SUFFIX,umami.flixer.su,REJECT
 HOST-SUFFIX,umami.heroku.uk,REJECT
+HOST-SUFFIX,umami.spencerdevs.xyz,REJECT
 HOST-SUFFIX,umami.vidfast.pro,REJECT
 HOST-SUFFIX,umami.wakarimasen.moe,REJECT
 HOST-SUFFIX,umazvs.raybiotech.com,REJECT
@@ -41585,6 +41592,7 @@ HOST-SUFFIX,yourporsche.nabooda-auto.com,REJECT
 HOST-SUFFIX,yourporscheimg.nabooda-auto.com,REJECT
 HOST-SUFFIX,yoursolution.electrified.averydennison.com,REJECT
 HOST-SUFFIX,yoursolution.tapes.averydennison.com,REJECT
+HOST-SUFFIX,youseasky.com,REJECT
 HOST-SUFFIX,yoxeha.afloral.com,REJECT
 HOST-SUFFIX,ypbfjo.paulsmith.co.jp,REJECT
 HOST-SUFFIX,ypcdbw.drive2.com,REJECT

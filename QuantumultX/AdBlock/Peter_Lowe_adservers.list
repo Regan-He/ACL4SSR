@@ -1428,7 +1428,6 @@ HOST-SUFFIX,data.namesakeoscilloscopemarquis.com,REJECT
 HOST-SUFFIX,datenow.link,REJECT
 HOST-SUFFIX,dc-storm.com,REJECT
 HOST-SUFFIX,de17a.com,REJECT
-HOST-SUFFIX,deal-on.eu,REJECT
 HOST-SUFFIX,dealdotcom.com,REJECT
 HOST-SUFFIX,decenterads.com,REJECT
 HOST-SUFFIX,decisivebase.com,REJECT
@@ -1528,6 +1527,7 @@ HOST-SUFFIX,emebo.io,REJECT
 HOST-SUFFIX,emerse.com,REJECT
 HOST-SUFFIX,emetriq.de,REJECT
 HOST-SUFFIX,emjcd.com,REJECT
+HOST-SUFFIX,eml.blackduck.com,REJECT
 HOST-SUFFIX,emltrk.com,REJECT
 HOST-SUFFIX,emodoinc.com,REJECT
 HOST-SUFFIX,emptyescort.com,REJECT
@@ -1913,6 +1913,7 @@ HOST-SUFFIX,iyfbodn.com,REJECT
 HOST-SUFFIX,iyfnzgb.com,REJECT
 HOST-SUFFIX,j93557g.com,REJECT
 HOST-SUFFIX,jads.co,REJECT
+HOST-SUFFIX,jauchuwa.net,REJECT
 HOST-SUFFIX,jcount.com,REJECT
 HOST-SUFFIX,jdoqocy.com,REJECT
 HOST-SUFFIX,jinkads.de,REJECT
@@ -2032,6 +2033,7 @@ HOST-SUFFIX,live.trmzum.com,REJECT
 HOST-SUFFIX,liveadexchanger.com,REJECT
 HOST-SUFFIX,liveintent.com,REJECT
 HOST-SUFFIX,livelylaugh.com,REJECT
+HOST-SUFFIX,livelyreward.com,REJECT
 HOST-SUFFIX,liverail.com,REJECT
 HOST-SUFFIX,livingsleet.com,REJECT
 HOST-SUFFIX,lizardslaugh.com,REJECT
@@ -2056,7 +2058,6 @@ HOST-SUFFIX,look.opskln.com,REJECT
 HOST-SUFFIX,look.ufinkln.com,REJECT
 HOST-SUFFIX,loopme.com,REJECT
 HOST-SUFFIX,loudlunch.com,REJECT
-HOST-SUFFIX,lowest-price.eu,REJECT
 HOST-SUFFIX,lucidmedia.com,REJECT
 HOST-SUFFIX,luckyorange.com,REJECT
 HOST-SUFFIX,ludicrousarch.com,REJECT
@@ -2524,7 +2525,6 @@ HOST-SUFFIX,prpops.com,REJECT
 HOST-SUFFIX,prsitecheck.com,REJECT
 HOST-SUFFIX,prufenzo.xyz,REJECT
 HOST-SUFFIX,pstmrk.it,REJECT
-HOST-SUFFIX,ptoushoa.com,REJECT
 HOST-SUFFIX,pub.chez.com,REJECT
 HOST-SUFFIX,pub.club-internet.fr,REJECT
 HOST-SUFFIX,pub.hardware.fr,REJECT
@@ -2654,7 +2654,6 @@ HOST-SUFFIX,revcontent.com,REJECT
 HOST-SUFFIX,reveal.clearbit.com,REJECT
 HOST-SUFFIX,revenuedirect.com,REJECT
 HOST-SUFFIX,revenuehits.com,REJECT
-HOST-SUFFIX,revive.dubcnm.com,REJECT
 HOST-SUFFIX,revive.haskovo.net,REJECT
 HOST-SUFFIX,revive.netriota.hu,REJECT
 HOST-SUFFIX,revive.plays.bg,REJECT
@@ -2991,7 +2990,6 @@ HOST-SUFFIX,tagcommander.com,REJECT
 HOST-SUFFIX,tagger.opecloud.com,REJECT
 HOST-SUFFIX,tags.tiqcdn.com,REJECT
 HOST-SUFFIX,tagtoo.com,REJECT
-HOST-SUFFIX,tagular.com,REJECT
 HOST-SUFFIX,tailsweep.com,REJECT
 HOST-SUFFIX,tailsweep.se,REJECT
 HOST-SUFFIX,takethatad.com,REJECT
@@ -3086,7 +3084,6 @@ HOST-SUFFIX,touchclarity.com,REJECT
 HOST-SUFFIX,tour.brazzers.com,REJECT
 HOST-SUFFIX,tr.api.fanbyte.com,REJECT
 HOST-SUFFIX,track-eu.customer.io,REJECT
-HOST-SUFFIX,track-on.eu,REJECT
 HOST-SUFFIX,track-on.pl,REJECT
 HOST-SUFFIX,track.adform.net,REJECT
 HOST-SUFFIX,track.anchorfree.com,REJECT
