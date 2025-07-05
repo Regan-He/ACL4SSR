@@ -639,7 +639,6 @@ HOST-SUFFIX,adsby.bidtheatre.com,REJECT
 HOST-SUFFIX,adsbydelema.com,REJECT
 HOST-SUFFIX,adscale.de,REJECT
 HOST-SUFFIX,adscholar.com,REJECT
-HOST-SUFFIX,adscience.nl,REJECT
 HOST-SUFFIX,adsco.re,REJECT
 HOST-SUFFIX,adscpm.com,REJECT
 HOST-SUFFIX,adsdaq.com,REJECT
@@ -1624,7 +1623,6 @@ HOST-SUFFIX,feedmob.com,REJECT
 HOST-SUFFIX,fimserve.com,REJECT
 HOST-SUFFIX,findcommerce.com,REJECT
 HOST-SUFFIX,findyourcasino.com,REJECT
-HOST-SUFFIX,fingahvf.top,REJECT
 HOST-SUFFIX,fireads.online,REJECT
 HOST-SUFFIX,fireads.org,REJECT
 HOST-SUFFIX,fireworkadservices.com,REJECT
@@ -2219,6 +2217,7 @@ HOST-SUFFIX,mtrcs.samba.tv,REJECT
 HOST-SUFFIX,mtree.com,REJECT
 HOST-SUFFIX,munchkin.marketo.net,REJECT
 HOST-SUFFIX,mundanenail.com,REJECT
+HOST-SUFFIX,mundanepollution.com,REJECT
 HOST-SUFFIX,musiccounter.ru,REJECT
 HOST-SUFFIX,muteknife.com,REJECT
 HOST-SUFFIX,muwmedia.com,REJECT
@@ -3084,7 +3083,6 @@ HOST-SUFFIX,touchclarity.com,REJECT
 HOST-SUFFIX,tour.brazzers.com,REJECT
 HOST-SUFFIX,tr.api.fanbyte.com,REJECT
 HOST-SUFFIX,track-eu.customer.io,REJECT
-HOST-SUFFIX,track-on.pl,REJECT
 HOST-SUFFIX,track.adform.net,REJECT
 HOST-SUFFIX,track.anchorfree.com,REJECT
 HOST-SUFFIX,track.canva.com,REJECT

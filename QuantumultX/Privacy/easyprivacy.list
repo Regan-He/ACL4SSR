@@ -5317,6 +5317,7 @@ HOST-SUFFIX,analytics.kellyservices.com,REJECT
 HOST-SUFFIX,analytics.kerns.co,REJECT
 HOST-SUFFIX,analytics.kkb.com.tr,REJECT
 HOST-SUFFIX,analytics.klickly.com,REJECT
+HOST-SUFFIX,analytics.komiku.org,REJECT
 HOST-SUFFIX,analytics.kongregate.io,REJECT
 HOST-SUFFIX,analytics.laregione.ch,REJECT
 HOST-SUFFIX,analytics.lasegunda.ecn.cl,REJECT
@@ -5652,7 +5653,6 @@ HOST-SUFFIX,analyticsssl.forcepoint.com,REJECT
 HOST-SUFFIX,analyzecorona.com,REJECT
 HOST-SUFFIX,analyzer.fc2.com,REJECT
 HOST-SUFFIX,analyzer2.fc2.com,REJECT
-HOST-SUFFIX,analyzer51.fc2.com,REJECT
 HOST-SUFFIX,anapp.adobe.com,REJECT
 HOST-SUFFIX,ancientact.com,REJECT
 HOST-SUFFIX,andlache.com,REJECT
@@ -11696,6 +11696,7 @@ HOST-SUFFIX,ecn-analytics-nssl.emc.com,REJECT
 HOST-SUFFIX,ecn-analytics.emc.com,REJECT
 HOST-SUFFIX,ecn-ldr.de,REJECT
 HOST-SUFFIX,ecomm.events,REJECT
+HOST-SUFFIX,ecommerce-events.adscale.com,REJECT
 HOST-SUFFIX,ecommstats.s3.amazonaws.com,REJECT
 HOST-SUFFIX,econnect.actonservice.com,REJECT
 HOST-SUFFIX,economicadvantage.midamerican.com,REJECT
@@ -13760,6 +13761,7 @@ HOST-SUFFIX,generalprose.com,REJECT
 HOST-SUFFIX,generateoffice.com,REJECT
 HOST-SUFFIX,genesis.malwarebytes.com,REJECT
 HOST-SUFFIX,gentian-frd.hjapi.com,REJECT
+HOST-SUFFIX,geo.bdg.com,REJECT
 HOST-SUFFIX,geo.brobible.com,REJECT
 HOST-SUFFIX,geo.emol.cl,REJECT
 HOST-SUFFIX,geo.ertya.com,REJECT
@@ -16947,6 +16949,7 @@ HOST-SUFFIX,interedgemarketing.actonservice.com,REJECT
 HOST-SUFFIX,interest.truvenhealth.com,REJECT
 HOST-SUFFIX,internal-analytics.odoo.com,REJECT
 HOST-SUFFIX,internal-e.posthog.com,REJECT
+HOST-SUFFIX,internal-t.posthog.com,REJECT
 HOST-SUFFIX,internal.hcltech.com,REJECT
 HOST-SUFFIX,internalcomms.dbschenker.com,REJECT
 HOST-SUFFIX,internalcomms.hubinternational.com,REJECT
@@ -17652,6 +17655,7 @@ HOST-SUFFIX,kpcyic.sportisimo.cz,REJECT
 HOST-SUFFIX,kpfvaq.schuhe.de,REJECT
 HOST-SUFFIX,kqchxa.denizbutik.com,REJECT
 HOST-SUFFIX,kqdqrj.traktorpool.de,REJECT
+HOST-SUFFIX,kqefj.clearstem.com,REJECT
 HOST-SUFFIX,kqhckf.outfits24.de,REJECT
 HOST-SUFFIX,kqkcoq.vidaxl.fr,REJECT
 HOST-SUFFIX,kqkydl.postel-deluxe.ru,REJECT
@@ -19118,6 +19122,7 @@ HOST-SUFFIX,logs.51cto.com,REJECT
 HOST-SUFFIX,logs.adplay.ru,REJECT
 HOST-SUFFIX,logs.animaapp.com,REJECT
 HOST-SUFFIX,logs.chatboost-cv.algoage.co.jp,REJECT
+HOST-SUFFIX,logs.dynamicauth.com,REJECT
 HOST-SUFFIX,logs.hotstar.com,REJECT
 HOST-SUFFIX,logs.mezmo.com,REJECT
 HOST-SUFFIX,logs.naukri.com,REJECT
@@ -34227,6 +34232,7 @@ HOST-SUFFIX,stupidscene.com,REJECT
 HOST-SUFFIX,stupidsnake.com,REJECT
 HOST-SUFFIX,sturdysnail.com,REJECT
 HOST-SUFFIX,sturton-lation.com,REJECT
+HOST-SUFFIX,stw.extrem-down.zone,REJECT
 HOST-SUFFIX,styles.hautelook.com,REJECT
 HOST-SUFFIX,stylishbuds.com,REJECT
 HOST-SUFFIX,su1.les-suites.ca,REJECT
