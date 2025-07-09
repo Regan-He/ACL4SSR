@@ -19082,6 +19082,7 @@ HOST-SUFFIX,log.targetpush.co.kr,REJECT
 HOST-SUFFIX,log.tossinvest.com,REJECT
 HOST-SUFFIX,log.ttbc-hcm.gov.vn,REJECT
 HOST-SUFFIX,log.webnovel.com,REJECT
+HOST-SUFFIX,log.willie.nl,REJECT
 HOST-SUFFIX,log.worldsoft-cms.info,REJECT
 HOST-SUFFIX,log.zdnet.co.kr,REJECT
 HOST-SUFFIX,log.zongheng.com,REJECT
@@ -23988,6 +23989,7 @@ HOST-SUFFIX,obqclg.dadway-onlineshop.com,REJECT
 HOST-SUFFIX,obqvss.debameubelen.be,REJECT
 HOST-SUFFIX,obrazy.dlabiznesu.pracuj.pl,REJECT
 HOST-SUFFIX,obrqts.hudforeclosed.com,REJECT
+HOST-SUFFIX,obs.jollyoutdoorjogger.com,REJECT
 HOST-SUFFIX,obs.system1onesource.com,REJECT
 HOST-SUFFIX,obscenesidewalk.com,REJECT
 HOST-SUFFIX,observe-nexus.pointandplace.com,REJECT
@@ -24975,6 +24977,7 @@ HOST-SUFFIX,pincourse.com,REJECT
 HOST-SUFFIX,pine.clk.click,REJECT
 HOST-SUFFIX,pine.nervecentral.com,REJECT
 HOST-SUFFIX,ping.dozuki.com,REJECT
+HOST-SUFFIX,ping.fastsimon.com,REJECT
 HOST-SUFFIX,ping.hashnode.com,REJECT
 HOST-SUFFIX,ping.hungama.com,REJECT
 HOST-SUFFIX,ping.naturadapt.com,REJECT
@@ -24991,6 +24994,7 @@ HOST-SUFFIX,pint-dev-branch.airship.com,REJECT
 HOST-SUFFIX,pionmj.companyshop24.de,REJECT
 HOST-SUFFIX,pipe-collect.ebu.io,REJECT
 HOST-SUFFIX,pipedream.wistia.com,REJECT
+HOST-SUFFIX,pipeline.nachtkastje.nl,REJECT
 HOST-SUFFIX,pipelinepub.actonservice.com,REJECT
 HOST-SUFFIX,piper.amocrm.ru,REJECT
 HOST-SUFFIX,pippio.com,REJECT
@@ -26507,6 +26511,7 @@ HOST-SUFFIX,rockagainst.com,REJECT
 HOST-SUFFIX,rockpebbles.com,REJECT
 HOST-SUFFIX,rockstarwriter.com,REJECT
 HOST-SUFFIX,roedwy.imidapeptide.com,REJECT
+HOST-SUFFIX,roibest-report-sdk.qiliangjia.com,REJECT
 HOST-SUFFIX,roinjg.mkluzkoviny.cz,REJECT
 HOST-SUFFIX,roiscs.actonservice.com,REJECT
 HOST-SUFFIX,rollbar.actonservice.com,REJECT
@@ -28464,6 +28469,7 @@ HOST-SUFFIX,sharelink.oppvenuz.com,REJECT
 HOST-SUFFIX,sharen.oyorooms.com,REJECT
 HOST-SUFFIX,sharing.kptncook.com,REJECT
 HOST-SUFFIX,sharkskids.com,REJECT
+HOST-SUFFIX,shdid.me,REJECT
 HOST-SUFFIX,sheeta.nrj-play.fr,REJECT
 HOST-SUFFIX,sheideal.com,REJECT
 HOST-SUFFIX,shelbypublishing.actonservice.com,REJECT
@@ -33969,6 +33975,7 @@ HOST-SUFFIX,stats.vdsnow.ru,REJECT
 HOST-SUFFIX,stats.vican.me,REJECT
 HOST-SUFFIX,stats.vidbinge.com,REJECT
 HOST-SUFFIX,stats.viddler.com,REJECT
+HOST-SUFFIX,stats.videasy.net,REJECT
 HOST-SUFFIX,stats.vidyome.com,REJECT
 HOST-SUFFIX,stats.visions.ch,REJECT
 HOST-SUFFIX,stats.vk-portal.net,REJECT
