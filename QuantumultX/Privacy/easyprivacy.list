@@ -5042,6 +5042,7 @@ HOST-SUFFIX,analysis.aws.locondo.jp,REJECT
 HOST-SUFFIX,analysis.fi,REJECT
 HOST-SUFFIX,analysis.prod.joyfru.jiji.com,REJECT
 HOST-SUFFIX,analyt.ir,REJECT
+HOST-SUFFIX,analytic-client.blitzmightyparty.com,REJECT
 HOST-SUFFIX,analytic-client.chickgoddess.com,REJECT
 HOST-SUFFIX,analytic-client.panowars.com,REJECT
 HOST-SUFFIX,analytic.alabama.aaa.com,REJECT
@@ -5277,6 +5278,7 @@ HOST-SUFFIX,analytics.greenmountainenergy.com,REJECT
 HOST-SUFFIX,analytics.groupe-seb.com,REJECT
 HOST-SUFFIX,analytics.growthphysics.com,REJECT
 HOST-SUFFIX,analytics.gtechgroup.it,REJECT
+HOST-SUFFIX,analytics.gtflixtv.com,REJECT
 HOST-SUFFIX,analytics.gvim.mobi,REJECT
 HOST-SUFFIX,analytics.hambleden-capital.com,REJECT
 HOST-SUFFIX,analytics.hardrock.com,REJECT
@@ -5661,6 +5663,7 @@ HOST-SUFFIX,anesthesiaos.actonservice.com,REJECT
 HOST-SUFFIX,anet.abphotos.link,REJECT
 HOST-SUFFIX,angebote.plex.com,REJECT
 HOST-SUFFIX,anijjm.winkelstraat.nl,REJECT
+HOST-SUFFIX,animalcoder.com,REJECT
 HOST-SUFFIX,animaux.oworld.fr,REJECT
 HOST-SUFFIX,anl.footlocker.com,REJECT
 HOST-SUFFIX,anmeldung.promatis.ch,REJECT
@@ -8494,6 +8497,7 @@ HOST-SUFFIX,claruscommerce.actonservice.com,REJECT
 HOST-SUFFIX,classicnotebook.com,REJECT
 HOST-SUFFIX,classroominc.actonservice.com,REJECT
 HOST-SUFFIX,claynelsonlifebalance.actonservice.com,REJECT
+HOST-SUFFIX,clb.yahoo.co.jp,REJECT
 HOST-SUFFIX,clck.dzen.ru,REJECT
 HOST-SUFFIX,clcktrax.com,REJECT
 HOST-SUFFIX,cleanhaircut.com,REJECT
@@ -9656,6 +9660,8 @@ HOST-SUFFIX,customercare.aircycle.com,REJECT
 HOST-SUFFIX,customerexperience.verintsystemsinc.com,REJECT
 HOST-SUFFIX,customerrelations.theinstitutes.org,REJECT
 HOST-SUFFIX,customers-capitalbank-jo-877029.p06.elqsandbox.com,REJECT
+HOST-SUFFIX,customers.edgetag.io,REJECT
+HOST-SUFFIX,customers.xray-superpixel.com,REJECT
 HOST-SUFFIX,customersucceed.nanophase.com,REJECT
 HOST-SUFFIX,customfingerprints.bablosoft.com,REJECT
 HOST-SUFFIX,customize.titanfactorydirect.com,REJECT
@@ -10597,6 +10603,7 @@ HOST-SUFFIX,dd.bellesdemeures.com,REJECT
 HOST-SUFFIX,dd.betano.com,REJECT
 HOST-SUFFIX,dd.control4.com,REJECT
 HOST-SUFFIX,dd.g2.com,REJECT
+HOST-SUFFIX,dd.garena.com,REJECT
 HOST-SUFFIX,dd.leboncoin.fr,REJECT
 HOST-SUFFIX,dd.nytimes.com,REJECT
 HOST-SUFFIX,dd.seloger-bureaux-commerces.com,REJECT
@@ -12957,6 +12964,7 @@ HOST-SUFFIX,experienceplatform.avaya.com,REJECT
 HOST-SUFFIX,experiences.cibc.com,REJECT
 HOST-SUFFIX,experiences.simplii.com,REJECT
 HOST-SUFFIX,experiencia.coopecaja.fi.cr,REJECT
+HOST-SUFFIX,experiments.parsely.com,REJECT
 HOST-SUFFIX,experiments.sparanoid.net,REJECT
 HOST-SUFFIX,expertise.logarithmicsolutions.com,REJECT
 HOST-SUFFIX,experts.actonservice.com,REJECT
@@ -13063,6 +13071,8 @@ HOST-SUFFIX,faithrowold.com,REJECT
 HOST-SUFFIX,fakexa-post.mno.link,REJECT
 HOST-SUFFIX,fal2.carrefour-banque.fr,REJECT
 HOST-SUFFIX,fallaciousfifth.com,REJECT
+HOST-SUFFIX,fallback.attntags.com,REJECT
+HOST-SUFFIX,fallback.emtag.net,REJECT
 HOST-SUFFIX,falseframe.com,REJECT
 HOST-SUFFIX,falsesight.com,REJECT
 HOST-SUFFIX,familiarrod.com,REJECT
@@ -17998,6 +18008,7 @@ HOST-SUFFIX,lemonpi.io,REJECT
 HOST-SUFFIX,lemonsandjoy.com,REJECT
 HOST-SUFFIX,lenpmh.francoisesaget.com,REJECT
 HOST-SUFFIX,leo1.leon-de-bruxelles.fr,REJECT
+HOST-SUFFIX,lessonsnetwork.com,REJECT
 HOST-SUFFIX,let1.devialet.com,REJECT
 HOST-SUFFIX,lets-dev.irl.com,REJECT
 HOST-SUFFIX,lets.go.haymarketmedicalnetwork.com,REJECT
@@ -24903,6 +24914,7 @@ HOST-SUFFIX,perceivequarter.com,REJECT
 HOST-SUFFIX,perf-events.cloud.unity3d.com,REJECT
 HOST-SUFFIX,perf.hsforms.com,REJECT
 HOST-SUFFIX,perf.mouser.com,REJECT
+HOST-SUFFIX,perfectfetch.com,REJECT
 HOST-SUFFIX,performance-logger.minted.com,REJECT
 HOST-SUFFIX,performanceplay.co.kr,REJECT
 HOST-SUFFIX,performantcorp.actonservice.com,REJECT
@@ -25450,6 +25462,7 @@ HOST-SUFFIX,premiumapp.byjus.com,REJECT
 HOST-SUFFIX,prenesi-mojm.mercator.si,REJECT
 HOST-SUFFIX,prepareplanes.com,REJECT
 HOST-SUFFIX,presetrabbits.com,REJECT
+HOST-SUFFIX,presscoder.com,REJECT
 HOST-SUFFIX,prettylearning.com,REJECT
 HOST-SUFFIX,preview.fi-institutional.com.au,REJECT
 HOST-SUFFIX,previousplayground.com,REJECT
@@ -26605,6 +26618,7 @@ HOST-SUFFIX,rtxlni.doclasse.com,REJECT
 HOST-SUFFIX,rtxpx-a.akamaihd.net,REJECT
 HOST-SUFFIX,ru-go.experian.com,REJECT
 HOST-SUFFIX,ru-ru.siemensplmevents.com,REJECT
+HOST-SUFFIX,rudder-tracking.rudderstack.com,REJECT
 HOST-SUFFIX,rugttt.robinson.com,REJECT
 HOST-SUFFIX,ruhpbn.zhigaojixie.com,REJECT
 HOST-SUFFIX,rum-ingress-coralogix.com,REJECT
@@ -27119,6 +27133,7 @@ HOST-SUFFIX,sales.texturacorp.com,REJECT
 HOST-SUFFIX,sales.virtualpbx.com,REJECT
 HOST-SUFFIX,salesandmarketing.aitcfis.com,REJECT
 HOST-SUFFIX,saleslists.inform.equifax.com,REJECT
+HOST-SUFFIX,salmonfin.com,REJECT
 HOST-SUFFIX,salsacartel.com,REJECT
 HOST-SUFFIX,salto.freeto.jp,REJECT
 HOST-SUFFIX,saltsabar.openapp.link,REJECT
@@ -28632,6 +28647,7 @@ HOST-SUFFIX,skcrtxr.com,REJECT
 HOST-SUFFIX,sketchpals.com,REJECT
 HOST-SUFFIX,skf.actonservice.com,REJECT
 HOST-SUFFIX,ski1.skiset.com,REJECT
+HOST-SUFFIX,skilledview.com,REJECT
 HOST-SUFFIX,skillfuldrop.com,REJECT
 HOST-SUFFIX,skillshouse.actonservice.com,REJECT
 HOST-SUFFIX,skillsresults.com,REJECT
@@ -33561,6 +33577,7 @@ HOST-SUFFIX,stats.ipmgroup.be,REJECT
 HOST-SUFFIX,stats.isabelsommerfeld.com,REJECT
 HOST-SUFFIX,stats.iscc-system.org,REJECT
 HOST-SUFFIX,stats.isthispoisonivy.website,REJECT
+HOST-SUFFIX,stats.itc.ua,REJECT
 HOST-SUFFIX,stats.itsol.it,REJECT
 HOST-SUFFIX,stats.itweb.co.za,REJECT
 HOST-SUFFIX,stats.ivs.rocks,REJECT
@@ -34639,6 +34656,7 @@ HOST-SUFFIX,t.91syun.com,REJECT
 HOST-SUFFIX,t.9gag.com,REJECT
 HOST-SUFFIX,t.a3cloud.net,REJECT
 HOST-SUFFIX,t.actemra.com,REJECT
+HOST-SUFFIX,t.adclr.jp,REJECT
 HOST-SUFFIX,t.adlpo.com,REJECT
 HOST-SUFFIX,t.adx.opera.com,REJECT
 HOST-SUFFIX,t.afry.com,REJECT
@@ -35672,6 +35690,7 @@ HOST-SUFFIX,thefontzone.com,REJECT
 HOST-SUFFIX,thejavalane.com,REJECT
 HOST-SUFFIX,theme.echovisuals.com,REJECT
 HOST-SUFFIX,themepicker.com,REJECT
+HOST-SUFFIX,thepowerstones.com,REJECT
 HOST-SUFFIX,thequickbooksteam.intuit.ca,REJECT
 HOST-SUFFIX,therapeuticcars.com,REJECT
 HOST-SUFFIX,theroot.black.news,REJECT
@@ -36083,6 +36102,7 @@ HOST-SUFFIX,tqtedm.kosmetik.at,REJECT
 HOST-SUFFIX,tqvacq.intrend.it,REJECT
 HOST-SUFFIX,tqxpnv.bauhaus.info,REJECT
 HOST-SUFFIX,tr-business.vodafone.com,REJECT
+HOST-SUFFIX,tr-experiments.parsely.com,REJECT
 HOST-SUFFIX,tr-ms.bosch-home.com,REJECT
 HOST-SUFFIX,tr-ms.profilo.com,REJECT
 HOST-SUFFIX,tr-ms.siemens-home.bsh-group.com,REJECT
@@ -38129,6 +38149,7 @@ HOST-SUFFIX,tracking.umms.org,REJECT
 HOST-SUFFIX,tracking.unisabana.edu.co,REJECT
 HOST-SUFFIX,tracking.univtec.com,REJECT
 HOST-SUFFIX,tracking.unrealengine.com,REJECT
+HOST-SUFFIX,tracking.upfluence.co,REJECT
 HOST-SUFFIX,tracking.usj.es,REJECT
 HOST-SUFFIX,tracking.utas.edu.au,REJECT
 HOST-SUFFIX,tracking.ventingdirect.com,REJECT
@@ -40024,6 +40045,7 @@ HOST-SUFFIX,wats.gogoinflight.com,REJECT
 HOST-SUFFIX,watson.microsoft.com,REJECT
 HOST-SUFFIX,wave.getonthewave.com,REJECT
 HOST-SUFFIX,waveinverter.com,REJECT
+HOST-SUFFIX,wavesmachine.com,REJECT
 HOST-SUFFIX,wavrlh.cedok.cz,REJECT
 HOST-SUFFIX,wavzlt.michaelstars.com,REJECT
 HOST-SUFFIX,waxsirens.com,REJECT
