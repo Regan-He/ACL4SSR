@@ -1,11 +1,11 @@
 {
     "QuantumultX/AdBlock/Adblock4limbo.list": "695e055b3fc6bc1c13edf45a484c17e3663220188271a868fe6a014c1e21c161",
-    "QuantumultX/AdBlock/Advertising.list": "4001f1fc1cdf617a4d891d94b13643c9435582229989fbf8c1ad1ef9d088c36e",
+    "QuantumultX/AdBlock/Advertising.list": "a5be15969954b7ad7554d99c6234bb6cbe44bc63a27a79a1a0f218915768ad01",
     "QuantumultX/AdBlock/AdvertisingLite.list": "329d0260e74fd78a1903a4f0bc2daca936f22f016b8f07734aa8975dfff25c7a",
     "QuantumultX/AdBlock/AdvertisingMiTV.list": "ae78edd52f462a50ff97bf9719420dda0438b6e4964bc4b07ea39611ae3e7387",
     "QuantumultX/AdBlock/BanEasyList.list": "6fe951c03e68cf835f04fe2dd7dd9953edd230a42a676fbc8608f0022b5824eb",
     "QuantumultX/AdBlock/BanEasyListChina.list": "9386c1d9b5a9fc14895b4cd78e76f51c48c7ccb7906d21c5b8310ebfda965538",
-    "QuantumultX/AdBlock/Cat-AdRules.conf": "0b1b35528919a527f979bd5b1043d26c7045f9103d96f65511bfe0d0e0f5e1fe",
+    "QuantumultX/AdBlock/Cat-AdRules.conf": "02ab29b7218997b4593f5a44d487edac03dfd0d2382edc44b974cbde29cda2e9",
     "QuantumultX/AdBlock/Peter_Lowe_adservers.list": "c189130f88a68be7d2f152d97bf11f7e319c73f9c962ce3402a32047fb259fbf",
     "QuantumultX/AdBlock/easylist.list": "cc87092330ab34549f3de6c5741260746e5fcf4d6dd46fb67e3d322456e732e9",
     "QuantumultX/AdBlock/easylistchina.list": "ff14a370f76830981565f61f4d163bdca08d5fe5e75cfa775aa79bfa968c003f",
@@ -35,12 +35,12 @@
     "QuantumultX/MsService/Teams.list": "798202ddb4c44c7d3661fa7c304646e58d9296e2678e39a5ea575a2c79f50a3f",
     "QuantumultX/OpenAI/OpenAI.list": "6ec16f5da986a15c62e80192f5b445dcdaf88607987923120761c1388eeb243d",
     "QuantumultX/Privacy/BanEasyPrivacy.list": "d6cc4ea582bb1411f4db08be5d84ab8f6c2283cf15c2e5783415df3318f3bd72",
-    "QuantumultX/Privacy/PrivateTracker.list": "3845d4b9e777458c9b4be92cfcbb26da7224acf07d3245f22a33995f125cb05a",
+    "QuantumultX/Privacy/PrivateTracker.list": "af80db4812ade309b2e2a728e104abd50fc61d036638d4e896662daff6d0e7f2",
     "QuantumultX/Privacy/easyprivacy.list": "711100a24b6e9377106d0f3b6d0c773e247c924d1e822fa3f25618acd97b8853",
     "QuantumultX/ProgramAD/BanProgramAD.list": "61628f4e5efe65a080b342654002b08b24ee27fcf07817657768a4c4452b4d9d",
-    "QuantumultX/ProxySelect/ProxyGFW.list": "a1d4287a9e0b0ba88c1cf70d21e58fdf650963f68e2ffde681994c096cd199d7",
+    "QuantumultX/ProxySelect/ProxyGFW.list": "d468a4e6f5f06345c689535880cbb91fbea4d5ca5f4a0bcef9f9aaf33ac94bf9",
     "QuantumultX/ProxySelect/ProxyLite.list": "f5a54f59f73f461f7f119d42275a93a6fdd829de7b764ff88f3687c125d2fabf",
     "QuantumultX/Spotify/Spotify.list": "0832138646a9425340a62743e0a1f847f681b571b1d28d07372a97dd6fd46efd",
     "QuantumultX/Telegram/Telegram.list": "522df7c4f3fd49fb6ccb1b327f975c0a302286bd1f7fb573395314b98f029a0d",
-    "QuantumultX/TikTok/TikTok": "2f8d2fdd96ac9eef2c3da25ca1190a92201dc17ca4ce90e42984d9dcb7788c55"
+    "QuantumultX/TikTok/TikTok": "5ff349cade1769aaa157e2879974e353b1dffdba7852333eb6578d865b344340"
 }
