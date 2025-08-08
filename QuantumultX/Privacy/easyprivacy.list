@@ -4931,6 +4931,7 @@ HOST-SUFFIX,allergy.thermofisher.com,REJECT
 HOST-SUFFIX,alliantdata.actonservice.com,REJECT
 HOST-SUFFIX,alliedfundingcorp.actonservice.com,REJECT
 HOST-SUFFIX,allinsurance.allinsure.ca,REJECT
+HOST-SUFFIX,alloutdubstep.com,REJECT
 HOST-SUFFIX,allreach.actonservice.com,REJECT
 HOST-SUFFIX,allrisks.actonservice.com,REJECT
 HOST-SUFFIX,allstarfg.actonservice.com,REJECT
@@ -7553,6 +7554,7 @@ HOST-SUFFIX,blisscalendar.com,REJECT
 HOST-SUFFIX,blissfulcrescendo.com,REJECT
 HOST-SUFFIX,blissfullagoon.com,REJECT
 HOST-SUFFIX,blitz-analytics-batch-server.blitz.gg,REJECT
+HOST-SUFFIX,blitzcampaigns.com,REJECT
 HOST-SUFFIX,blmjbp.casamundo.pl,REJECT
 HOST-SUFFIX,blockchain.actonservice.com,REJECT
 HOST-SUFFIX,blockdial.com,REJECT
@@ -8871,6 +8873,7 @@ HOST-SUFFIX,collector.githubapp.com,REJECT
 HOST-SUFFIX,collector.hippodromeonline.com,REJECT
 HOST-SUFFIX,collector.mazeberry.com,REJECT
 HOST-SUFFIX,collector.megaxh.com,REJECT
+HOST-SUFFIX,collector.net-logger.com,REJECT
 HOST-SUFFIX,collector.pi.spectrum.net,REJECT
 HOST-SUFFIX,collector.quillbot.com,REJECT
 HOST-SUFFIX,collector.schibsted.io,REJECT
@@ -12624,6 +12627,7 @@ HOST-SUFFIX,ermiph.petermanningnyc.com,REJECT
 HOST-SUFFIX,eroar.lionsclubs.org,REJECT
 HOST-SUFFIX,erp.qwic.nl,REJECT
 HOST-SUFFIX,err.ifengcloud.ifeng.com,REJECT
+HOST-SUFFIX,error-analytics-production.shopifysvc.com,REJECT
 HOST-SUFFIX,error-analytics-sessions-production.shopifysvc.com,REJECT
 HOST-SUFFIX,error-collector.ted.com,REJECT
 HOST-SUFFIX,error.videonow.ru,REJECT
@@ -13719,7 +13723,6 @@ HOST-SUFFIX,g990421676.co,REJECT
 HOST-SUFFIX,g993dvyzae.branch.salesfloor.net,REJECT
 HOST-SUFFIX,ga-beacon.appspot.com,REJECT
 HOST-SUFFIX,ga-tracker-dot-detmir-bonus.appspot.com,REJECT
-HOST-SUFFIX,ga.finam.ru,REJECT
 HOST-SUFFIX,ga.groc.press,REJECT
 HOST-SUFFIX,ga.nsimg.net,REJECT
 HOST-SUFFIX,ga.webdigi.co.uk,REJECT
@@ -13776,6 +13779,7 @@ HOST-SUFFIX,gdsngr.chainreactioncycles.com,REJECT
 HOST-SUFFIX,gdt.qq.com,REJECT
 HOST-SUFFIX,gea-exchange-03.net.jumia.ug,REJECT
 HOST-SUFFIX,gear.echovisuals.com,REJECT
+HOST-SUFFIX,gearbubbles.com,REJECT
 HOST-SUFFIX,gecfnc.foresight.jp,REJECT
 HOST-SUFFIX,gedozw.autoscout24.cz,REJECT
 HOST-SUFFIX,geekbackyard.com,REJECT
@@ -14979,6 +14983,7 @@ HOST-SUFFIX,hello.steadyapp.com,REJECT
 HOST-SUFFIX,hello.trailblazers.com,REJECT
 HOST-SUFFIX,hello.wellocution.com,REJECT
 HOST-SUFFIX,hellogain.actonservice.com,REJECT
+HOST-SUFFIX,hellounbox.com,REJECT
 HOST-SUFFIX,helpcollar.com,REJECT
 HOST-SUFFIX,helpdesk.thinkhdi.com,REJECT
 HOST-SUFFIX,helpflame.com,REJECT
@@ -24659,6 +24664,7 @@ HOST-SUFFIX,p.placed.com,REJECT
 HOST-SUFFIX,p.pmu.fr,REJECT
 HOST-SUFFIX,p.ryanhalliday.com,REJECT
 HOST-SUFFIX,p.skimresources.com,REJECT
+HOST-SUFFIX,p.spotidownloader.com,REJECT
 HOST-SUFFIX,p.tencentmind.com,REJECT
 HOST-SUFFIX,p.tryretool.com,REJECT
 HOST-SUFFIX,p.typekit.net,REJECT
@@ -35551,6 +35557,7 @@ HOST-SUFFIX,telemetry.moveworks.com,REJECT
 HOST-SUFFIX,telemetry.navispherecarrier.com,REJECT
 HOST-SUFFIX,telemetry.owenscorning.com,REJECT
 HOST-SUFFIX,telemetry.phenixrts.com,REJECT
+HOST-SUFFIX,telemetry.proton.me,REJECT
 HOST-SUFFIX,telemetry.reembed.com,REJECT
 HOST-SUFFIX,telemetry.ruthschris.com,REJECT
 HOST-SUFFIX,telemetry.sdk.inmobi.com,REJECT
@@ -35713,6 +35720,7 @@ HOST-SUFFIX,thecea.actonservice.com,REJECT
 HOST-SUFFIX,thefishstops.com,REJECT
 HOST-SUFFIX,thefontzone.com,REJECT
 HOST-SUFFIX,thejavalane.com,REJECT
+HOST-SUFFIX,themangotea.com,REJECT
 HOST-SUFFIX,theme.echovisuals.com,REJECT
 HOST-SUFFIX,themepicker.com,REJECT
 HOST-SUFFIX,thepowerstones.com,REJECT
@@ -36041,6 +36049,7 @@ HOST-SUFFIX,todayintheword.moodybible.org,REJECT
 HOST-SUFFIX,toeopa.doutornature.com,REJECT
 HOST-SUFFIX,tofupancake.com,REJECT
 HOST-SUFFIX,tofusquirrel.com,REJECT
+HOST-SUFFIX,tomatobarrel.com,REJECT
 HOST-SUFFIX,tommys.openapp.link,REJECT
 HOST-SUFFIX,tongji-res.meizu.com,REJECT
 HOST-SUFFIX,tongji.mafengwo.cn,REJECT
@@ -37508,6 +37517,7 @@ HOST-SUFFIX,tracker-dot-optimeeze.appspot.com,REJECT
 HOST-SUFFIX,tracker-rec.smart-bdash.com,REJECT
 HOST-SUFFIX,tracker-server.high-cdn.com,REJECT
 HOST-SUFFIX,tracker-v4.gamedock.io,REJECT
+HOST-SUFFIX,tracker.3dissue.com,REJECT
 HOST-SUFFIX,tracker.520call.me,REJECT
 HOST-SUFFIX,tracker.adbinead.com,REJECT
 HOST-SUFFIX,tracker.affiliate.iqbroker.com,REJECT

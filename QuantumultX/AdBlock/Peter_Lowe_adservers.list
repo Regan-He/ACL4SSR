@@ -1,5 +1,4 @@
 HOST-SUFFIX,101com.com,REJECT
-HOST-SUFFIX,180hits.de,REJECT
 HOST-SUFFIX,180searchassistant.com,REJECT
 HOST-SUFFIX,1rx.io,REJECT
 HOST-SUFFIX,2020mustang.com,REJECT
@@ -603,7 +602,6 @@ HOST-SUFFIX,ads.yumenetworks.com,REJECT
 HOST-SUFFIX,ads1-adnow.com,REJECT
 HOST-SUFFIX,ads1.mediacapital.pt,REJECT
 HOST-SUFFIX,ads1.msn.com,REJECT
-HOST-SUFFIX,ads1.rne.com,REJECT
 HOST-SUFFIX,ads1.virtual-nights.com,REJECT
 HOST-SUFFIX,ads10.speedbit.com,REJECT
 HOST-SUFFIX,ads180.com,REJECT
@@ -612,7 +610,6 @@ HOST-SUFFIX,ads2.contentabc.com,REJECT
 HOST-SUFFIX,ads2.femmefab.nl,REJECT
 HOST-SUFFIX,ads2.gamecity.net,REJECT
 HOST-SUFFIX,ads2.hsoub.com,REJECT
-HOST-SUFFIX,ads2.rne.com,REJECT
 HOST-SUFFIX,ads2.virtual-nights.com,REJECT
 HOST-SUFFIX,ads2.webdrive.no,REJECT
 HOST-SUFFIX,ads2.xnet.cz,REJECT
@@ -1425,7 +1422,6 @@ HOST-SUFFIX,dacdn.vwo.com,REJECT
 HOST-SUFFIX,dakic-ia-300.com,REJECT
 HOST-SUFFIX,damageddistance.com,REJECT
 HOST-SUFFIX,damdoor.com,REJECT
-HOST-SUFFIX,dancemistake.com,REJECT
 HOST-SUFFIX,dapper.net,REJECT
 HOST-SUFFIX,data.namesakeoscilloscopemarquis.com,REJECT
 HOST-SUFFIX,datenow.link,REJECT
@@ -1436,7 +1432,6 @@ HOST-SUFFIX,decenterads.com,REJECT
 HOST-SUFFIX,decisivebase.com,REJECT
 HOST-SUFFIX,decisivedrawer.com,REJECT
 HOST-SUFFIX,decknetwork.net,REJECT
-HOST-SUFFIX,decoycreation.com,REJECT
 HOST-SUFFIX,deepintent.com,REJECT
 HOST-SUFFIX,delicatecascade.com,REJECT
 HOST-SUFFIX,deloo.de,REJECT
@@ -1621,7 +1616,6 @@ HOST-SUFFIX,fastly-insights.com,REJECT
 HOST-SUFFIX,faultycanvas.com,REJECT
 HOST-SUFFIX,fave.co,REJECT
 HOST-SUFFIX,fc.webmasterpro.de,REJECT
-HOST-SUFFIX,feathr.co,REJECT
 HOST-SUFFIX,feedbackresearch.com,REJECT
 HOST-SUFFIX,feedjit.com,REJECT
 HOST-SUFFIX,feedmob.com,REJECT
@@ -2467,6 +2461,7 @@ HOST-SUFFIX,pointlessprofit.com,REJECT
 HOST-SUFFIX,pointroll.com,REJECT
 HOST-SUFFIX,pokkt.com,REJECT
 HOST-SUFFIX,polishedfolly.com,REJECT
+HOST-SUFFIX,polo.feathr.co,REJECT
 HOST-SUFFIX,popads.net,REJECT
 HOST-SUFFIX,popcash.net,REJECT
 HOST-SUFFIX,popmyads.com,REJECT
@@ -3044,6 +3039,7 @@ HOST-SUFFIX,the-ozone-project.com,REJECT
 HOST-SUFFIX,theadex.com,REJECT
 HOST-SUFFIX,theadhost.com,REJECT
 HOST-SUFFIX,thebugs.ws,REJECT
+HOST-SUFFIX,themangotea.com,REJECT
 HOST-SUFFIX,themoneytizer.com,REJECT
 HOST-SUFFIX,therapistla.com,REJECT
 HOST-SUFFIX,thinkitten.com,REJECT
@@ -3259,6 +3255,7 @@ HOST-SUFFIX,ventivmedia.com,REJECT
 HOST-SUFFIX,venturead.com,REJECT
 HOST-SUFFIX,vericlick.com,REJECT
 HOST-SUFFIX,vertamedia.com,REJECT
+HOST-SUFFIX,verticalmass.com,REJECT
 HOST-SUFFIX,vervewireless.com,REJECT
 HOST-SUFFIX,vgnp3trk.com,REJECT
 HOST-SUFFIX,vibrantsundown.com,REJECT
