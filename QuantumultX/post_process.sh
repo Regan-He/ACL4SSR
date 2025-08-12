@@ -76,6 +76,35 @@ function remove_duplicate_ipcidr() {
     done
 }
 
+function remove_unneeded_apple_proxy() {
+    echo "Start processing apple tag ..."
+    while read -r file; do
+        sed -i '/apple/d' "${file}"
+    done < <(
+        grep -l -r apple "${SCRIPT_DIR}"/ProxySelect
+    )
+
+    while read -r file; do
+        sed -i '/\.apple\.com/d' "${file}"
+    done < <(
+        grep -l -rE '\.apple\.com' "${SCRIPT_DIR}"/AdBlock
+    )
+    echo "Done."
+}
+
+function remove_unneeded_blbili_proxy() {
+    echo "Start processing for bilibili ..."
+    # bilivideo
+    while read -r file; do
+        sed -ri '/bilivide.*([Rr][Ee][Jj][Ee][Cc][Tt]|[Aa][Dd][Bb][Ll][Oo][Cc][Kk])/d' "${file}"
+    done < <(
+        grep -l -ri -E "bilivide.*\..*,(REJECT|.*ADBLOCK)" "${SCRIPT_DIR}"/AdBlock
+    )
+    echo "Done."
+}
+
 process_tag_level_mapping
 get_duplicate_ipcidr
 remove_duplicate_ipcidr
+remove_unneeded_apple_proxy
+remove_unneeded_blbili_proxy

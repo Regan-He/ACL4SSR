@@ -1,16 +1,19 @@
 HOST,lf16-effectcdn.byteeffecttos-g.com,🎹 TikTok
 HOST,lf16-pkgcdn.pitaya-clientai.com,🎹 TikTok
 HOST,p16-tiktokcdn-com.akamaized.net,🎹 TikTok
+HOST,trae-api-sg.mchost.guru,🎹 TikTok
 HOST-KEYWORD,musical.ly,🎹 TikTok
 HOST-KEYWORD,tiktok,🎹 TikTok
 HOST-SUFFIX,bytedapm.com,🎹 TikTok
 HOST-SUFFIX,bytegecko-i18n.com,🎹 TikTok
+HOST-SUFFIX,byteintlapi.com,🎹 TikTok
 HOST-SUFFIX,byteoversea.com,🎹 TikTok
 HOST-SUFFIX,capcut.com,🎹 TikTok
 HOST-SUFFIX,ibytedtos.com,🎹 TikTok
 HOST-SUFFIX,ibyteimg.com,🎹 TikTok
 HOST-SUFFIX,ipstatp.com,🎹 TikTok
 HOST-SUFFIX,isnssdk.com,🎹 TikTok
+HOST-SUFFIX,marscode.com,🎹 TikTok
 HOST-SUFFIX,muscdn.com,🎹 TikTok
 HOST-SUFFIX,musical.ly,🎹 TikTok
 HOST-SUFFIX,sgpstatp.com,🎹 TikTok
@@ -24,4 +27,6 @@ HOST-SUFFIX,tiktokd.org,🎹 TikTok
 HOST-SUFFIX,tiktokmusic.app,🎹 TikTok
 HOST-SUFFIX,tiktokv.com,🎹 TikTok
 HOST-SUFFIX,tiktokv.us,🎹 TikTok
+HOST-SUFFIX,trae.ai,🎹 TikTok
+HOST-SUFFIX,ttwebview.com,🎹 TikTok
 USER-AGENT,TikTok*,🎹 TikTok

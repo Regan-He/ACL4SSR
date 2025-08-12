@@ -124,9 +124,9 @@ function send_finish_notify() {
 
 function update_remote_rules() {
     CONVERT2QX_SCRIPT="${SCRIPT_DIR}/Convert2QX.py"
-    CIDR_PROCESS_SCRIPT="${SCRIPT_DIR}/QuantumultX/CIDR-Process.sh"
+    POST_PROCESS_SCRIPT="${SCRIPT_DIR}/QuantumultX/post_process.sh"
 
-    for required_script in ${CONVERT2QX_SCRIPT} ${CIDR_PROCESS_SCRIPT}; do
+    for required_script in ${CONVERT2QX_SCRIPT} ${POST_PROCESS_SCRIPT}; do
         if ! [ -f "${required_script}" ]; then
             ERROR_MESSAGE="文件${required_script}不存在!"
             echo >&2 "${ERROR_MESSAGE}"
@@ -146,7 +146,7 @@ function update_remote_rules() {
         return 0
     fi
     # 只有在规则文件发生变更的时候，才做CIDR处理
-    if ! bash "${CIDR_PROCESS_SCRIPT}"; then
+    if ! bash "${POST_PROCESS_SCRIPT}"; then
         ERROR_MESSAGE="处理IP-CIDR失败!"
         echo >&2 "${ERROR_MESSAGE}"
         return 1
@@ -206,7 +206,8 @@ function upload_to_github() {
 }
 
 {
-    do_update_rule && {
+    git pull &&
+        do_update_rule && {
         upload_to_github
     }
 } || {
