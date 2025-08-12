@@ -41,7 +41,8 @@ function remove_duplicate_ipcidr() {
         local -A TO_DELETE_RECORD
 
         while read -r tag; do
-            TO_DELETE_RECORD["${TAG_LEVEL_MAPPING["${tag}"]}"]="${cidr}"
+            tag_level="${TAG_LEVEL_MAPPING[${tag}]}"
+            TO_DELETE_RECORD["$tag_level"]="${cidr}"
         done < <(
             grep -rnE "^IP-CIDR,${cidr}," | cut -d',' -f 3 | sort -u
         )
