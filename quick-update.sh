@@ -122,6 +122,16 @@ function send_finish_notify() {
     send_robot_notify report_text message_color patulous_content patulous_color
 }
 
+function git_clean_local() {
+    echo "Delete all untracked files." &&
+        git clean -fdx
+    echo "Discard all uncommitted changes." &&
+        git restore -- *
+    echo "Pull the latest code from upstream." &&
+        git pull
+    echo "Preparation is complete."
+}
+
 function update_remote_rules() {
     CONVERT2QX_SCRIPT="${SCRIPT_DIR}/Convert2QX.py"
     POST_PROCESS_SCRIPT="${SCRIPT_DIR}/QuantumultX/post_process.sh"
@@ -206,8 +216,8 @@ function upload_to_github() {
 }
 
 {
-    git pull &&
-        do_update_rule && {
+    git_clean_local
+    do_update_rule && {
         upload_to_github
     }
 } || {
