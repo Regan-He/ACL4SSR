@@ -5046,6 +5046,7 @@ HOST-SUFFIX,analyse.hinemos.info,REJECT
 HOST-SUFFIX,analysis.aws.locondo.jp,REJECT
 HOST-SUFFIX,analysis.fi,REJECT
 HOST-SUFFIX,analysis.prod.joyfru.jiji.com,REJECT
+HOST-SUFFIX,analysis.sooplive.co.kr,REJECT
 HOST-SUFFIX,analyt.ir,REJECT
 HOST-SUFFIX,analytic-client.blitzmightyparty.com,REJECT
 HOST-SUFFIX,analytic-client.chickgoddess.com,REJECT
@@ -5592,6 +5593,7 @@ HOST-SUFFIX,analytics.viture.dev,REJECT
 HOST-SUFFIX,analytics.vixcloud.co,REJECT
 HOST-SUFFIX,analytics.vortexscans.com,REJECT
 HOST-SUFFIX,analytics.warnertv.fr,REJECT
+HOST-SUFFIX,analytics.wask.co,REJECT
 HOST-SUFFIX,analytics.wavebox.io,REJECT
 HOST-SUFFIX,analytics.wayland.app,REJECT
 HOST-SUFFIX,analytics.webgains.io,REJECT
@@ -6315,6 +6317,7 @@ HOST-SUFFIX,app.online.microfocus.com,REJECT
 HOST-SUFFIX,app.onyx.fit,REJECT
 HOST-SUFFIX,app.onyxcharge.com,REJECT
 HOST-SUFFIX,app.openfolio.com,REJECT
+HOST-SUFFIX,app.optibase.io,REJECT
 HOST-SUFFIX,app.optus.com.au,REJECT
 HOST-SUFFIX,app.osubeavers.com,REJECT
 HOST-SUFFIX,app.ouicsport.fr,REJECT
@@ -8895,6 +8898,7 @@ HOST-SUFFIX,collector.xhamster.desi,REJECT
 HOST-SUFFIX,collector.xhamster2.com,REJECT
 HOST-SUFFIX,collector.xhamster3.com,REJECT
 HOST-SUFFIX,collector.xhamsterporno.mx,REJECT
+HOST-SUFFIX,collector1.sooplive.co.kr,REJECT
 HOST-SUFFIX,collector2c.zhihuishu.com,REJECT
 HOST-SUFFIX,collector5.zipy.ai,REJECT
 HOST-SUFFIX,college.business.oregonstate.edu,REJECT
@@ -23390,6 +23394,7 @@ HOST-SUFFIX,mteme7li1d6r.vertexmarketingagency.com,REJECT
 HOST-SUFFIX,mtest.fontself.com,REJECT
 HOST-SUFFIX,mtg.macpaw.com,REJECT
 HOST-SUFFIX,mtkure.gazin.com.br,REJECT
+HOST-SUFFIX,mtm.bondagevalley.cc,REJECT
 HOST-SUFFIX,mtoxtg.tezenis.com,REJECT
 HOST-SUFFIX,mtr.fluor.com,REJECT
 HOST-SUFFIX,mtrace.qq.com,REJECT
