@@ -5494,6 +5494,7 @@ HOST-SUFFIX,analytics.runpath.com,REJECT
 HOST-SUFFIX,analytics.salesanalytics.io,REJECT
 HOST-SUFFIX,analytics.samsungknox.com,REJECT
 HOST-SUFFIX,analytics.sanoma.fi,REJECT
+HOST-SUFFIX,analytics.sayprimer.com,REJECT
 HOST-SUFFIX,analytics.scorpion.co,REJECT
 HOST-SUFFIX,analytics.seagate.com,REJECT
 HOST-SUFFIX,analytics.shareaholic.com,REJECT
@@ -7468,6 +7469,7 @@ HOST-SUFFIX,bft5.destinia.fr,REJECT
 HOST-SUFFIX,bfvlgp.appstory.co.kr,REJECT
 HOST-SUFFIX,bfzikn.l-wine.ru,REJECT
 HOST-SUFFIX,bg-go.experian.com,REJECT
+HOST-SUFFIX,bgalytics.com,REJECT
 HOST-SUFFIX,bgaycm.exvital-shop.de,REJECT
 HOST-SUFFIX,bgevqy.moschino.com,REJECT
 HOST-SUFFIX,bgfmvc.amandalindroth.com,REJECT
@@ -23920,6 +23922,7 @@ HOST-SUFFIX,now.myfashionevents.com,REJECT
 HOST-SUFFIX,now.peek-cloppenburg.de,REJECT
 HOST-SUFFIX,now.tana.fi,REJECT
 HOST-SUFFIX,now.wealthmanagement.com,REJECT
+HOST-SUFFIX,nowaymail.com,REJECT
 HOST-SUFFIX,nparallel.actonservice.com,REJECT
 HOST-SUFFIX,npczil.maxandco.com,REJECT
 HOST-SUFFIX,npfopn.mix.tokyo,REJECT
@@ -24050,6 +24053,7 @@ HOST-SUFFIX,o.j2.com,REJECT
 HOST-SUFFIX,o.j2global.com,REJECT
 HOST-SUFFIX,o.macworld.co.uk,REJECT
 HOST-SUFFIX,o.medallia.com,REJECT
+HOST-SUFFIX,o.momently.info,REJECT
 HOST-SUFFIX,o.myomnicard.in,REJECT
 HOST-SUFFIX,o.opentable.co.uk,REJECT
 HOST-SUFFIX,o.opentable.com,REJECT
@@ -24710,6 +24714,7 @@ HOST-SUFFIX,ozvlyz.justmusic.de,REJECT
 HOST-SUFFIX,p.aty.sohu.com,REJECT
 HOST-SUFFIX,p.cab.ua,REJECT
 HOST-SUFFIX,p.classroombookings.com,REJECT
+HOST-SUFFIX,p.codio.com,REJECT
 HOST-SUFFIX,p.cquotient.com,REJECT
 HOST-SUFFIX,p.data.cctv.com,REJECT
 HOST-SUFFIX,p.ejs.dev,REJECT
@@ -25551,6 +25556,7 @@ HOST-SUFFIX,prenesi-mojm.mercator.si,REJECT
 HOST-SUFFIX,prepareplanes.com,REJECT
 HOST-SUFFIX,presetrabbits.com,REJECT
 HOST-SUFFIX,presscoder.com,REJECT
+HOST-SUFFIX,prettyeasycafe.com,REJECT
 HOST-SUFFIX,prettylearning.com,REJECT
 HOST-SUFFIX,preview.fi-institutional.com.au,REJECT
 HOST-SUFFIX,previousplayground.com,REJECT
@@ -39876,7 +39882,6 @@ HOST-SUFFIX,video.bzfd.it,REJECT
 HOST-SUFFIX,video.funnelbox.com,REJECT
 HOST-SUFFIX,video.verintsystemsinc.com,REJECT
 HOST-SUFFIX,video.vitcord.com,REJECT
-HOST-SUFFIX,videocdnmetrika.com,REJECT
 HOST-SUFFIX,videoevents.outbrain.com,REJECT
 HOST-SUFFIX,videoplayerhub.com,REJECT
 HOST-SUFFIX,videos.adp.ca,REJECT

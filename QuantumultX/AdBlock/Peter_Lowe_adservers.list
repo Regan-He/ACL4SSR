@@ -391,7 +391,6 @@ HOST-SUFFIX,ads.devmates.com,REJECT
 HOST-SUFFIX,ads.digital-digest.com,REJECT
 HOST-SUFFIX,ads.digitalmedianet.com,REJECT
 HOST-SUFFIX,ads.digitalpoint.com,REJECT
-HOST-SUFFIX,ads.directionsmag.com,REJECT
 HOST-SUFFIX,ads.doit.com.cn,REJECT
 HOST-SUFFIX,ads.domeus.com,REJECT
 HOST-SUFFIX,ads.dtpnetwork.biz,REJECT
@@ -711,6 +710,7 @@ HOST-SUFFIX,adsfac.eu,REJECT
 HOST-SUFFIX,adsfac.net,REJECT
 HOST-SUFFIX,adsfac.us,REJECT
 HOST-SUFFIX,adsfeed.brabys.com,REJECT
+HOST-SUFFIX,adsflowprime.top,REJECT
 HOST-SUFFIX,adshrink.it,REJECT
 HOST-SUFFIX,adside.com,REJECT
 HOST-SUFFIX,adsiduous.com,REJECT
@@ -810,7 +810,6 @@ HOST-SUFFIX,adxpansion.com,REJECT
 HOST-SUFFIX,adxpose.com,REJECT
 HOST-SUFFIX,adyoulike.com,REJECT
 HOST-SUFFIX,adz.rashflash.com,REJECT
-HOST-SUFFIX,adz2you.com,REJECT
 HOST-SUFFIX,adzbazar.com,REJECT
 HOST-SUFFIX,adzerk.net,REJECT
 HOST-SUFFIX,adzerk.s3.amazonaws.com,REJECT
@@ -996,7 +995,6 @@ HOST-SUFFIX,banner.media-system.de,REJECT
 HOST-SUFFIX,banner.nixnet.cz,REJECT
 HOST-SUFFIX,banner.noblepoker.com,REJECT
 HOST-SUFFIX,banner.northsky.com,REJECT
-HOST-SUFFIX,banner.rbc.ru,REJECT
 HOST-SUFFIX,banner.reinstil.de,REJECT
 HOST-SUFFIX,banner.tanto.de,REJECT
 HOST-SUFFIX,banner.titan-dsl.de,REJECT
@@ -1081,7 +1079,6 @@ HOST-SUFFIX,bidvertiser.com,REJECT
 HOST-SUFFIX,big-bang-ads.com,REJECT
 HOST-SUFFIX,bigbangmedia.com,REJECT
 HOST-SUFFIX,bigclicks.com,REJECT
-HOST-SUFFIX,bigreal.org,REJECT
 HOST-SUFFIX,billboard.cz,REJECT
 HOST-SUFFIX,birthdaybelief.com,REJECT
 HOST-SUFFIX,bitmedianetwork.com,REJECT
@@ -1219,8 +1216,6 @@ HOST-SUFFIX,cl.turkishairlines.com,REJECT
 HOST-SUFFIX,cl0udh0st1ng.com,REJECT
 HOST-SUFFIX,clck.ru,REJECT
 HOST-SUFFIX,clevernt.com,REJECT
-HOST-SUFFIX,click-1.pl,REJECT
-HOST-SUFFIX,click-2.eu,REJECT
 HOST-SUFFIX,click.airmalta-mail.com,REJECT
 HOST-SUFFIX,click.aliexpress.com,REJECT
 HOST-SUFFIX,click.allkeyshop.com,REJECT
@@ -1775,6 +1770,7 @@ HOST-SUFFIX,hb.vntsm.com,REJECT
 HOST-SUFFIX,hbb.afl.rakuten.co.jp,REJECT
 HOST-SUFFIX,hbopenbid.pubmatic.com,REJECT
 HOST-SUFFIX,heap.com,REJECT
+HOST-SUFFIX,heimi-lwx.com,REJECT
 HOST-SUFFIX,hellobar.com,REJECT
 HOST-SUFFIX,helpcollar.com,REJECT
 HOST-SUFFIX,hentaicounter.com,REJECT
@@ -2005,7 +2001,6 @@ HOST-SUFFIX,li.onetravel.com,REJECT
 HOST-SUFFIX,li.patheos.com,REJECT
 HOST-SUFFIX,li.pmc.com,REJECT
 HOST-SUFFIX,li.realtor.com,REJECT
-HOST-SUFFIX,li.walmart.com,REJECT
 HOST-SUFFIX,li.ziffimages.com,REJECT
 HOST-SUFFIX,liadm.com,REJECT
 HOST-SUFFIX,libraryfacts.com,REJECT
@@ -2302,6 +2297,7 @@ HOST-SUFFIX,nondescriptcrowd.com,REJECT
 HOST-SUFFIX,nondescriptnote.com,REJECT
 HOST-SUFFIX,nondescriptstocking.com,REJECT
 HOST-SUFFIX,novem.pl,REJECT
+HOST-SUFFIX,nowaymail.com,REJECT
 HOST-SUFFIX,npttech.com,REJECT
 HOST-SUFFIX,nr-data.net,REJECT
 HOST-SUFFIX,nr.mmcdn.com,REJECT
@@ -2506,6 +2502,7 @@ HOST-SUFFIX,prebid.org,REJECT
 HOST-SUFFIX,predictad.com,REJECT
 HOST-SUFFIX,premium-offers.com,REJECT
 HOST-SUFFIX,presetrabbits.com,REJECT
+HOST-SUFFIX,prettyeasycafe.com,REJECT
 HOST-SUFFIX,previousplayground.com,REJECT
 HOST-SUFFIX,prf.hn,REJECT
 HOST-SUFFIX,priceypies.com,REJECT
@@ -3213,7 +3210,6 @@ HOST-SUFFIX,truehits.net,REJECT
 HOST-SUFFIX,truehits1.gits.net.th,REJECT
 HOST-SUFFIX,truehits2.gits.net.th,REJECT
 HOST-SUFFIX,trust.titanhq.com,REJECT
-HOST-SUFFIX,trustpid.com,REJECT
 HOST-SUFFIX,trustx.org,REJECT
 HOST-SUFFIX,tsyndicate.com,REJECT
 HOST-SUFFIX,tsyndicate.net,REJECT
@@ -3437,5 +3433,4 @@ HOST-SUFFIX,zmedia.com,REJECT
 HOST-SUFFIX,zonewedgeshaft.com,REJECT
 HOST-SUFFIX,zpu.samsungelectronics.com,REJECT
 HOST-SUFFIX,zqtk.net,REJECT
-HOST-SUFFIX,zy16eoat1w.com,REJECT
 HOST-SUFFIX,zzhc.vnet.cn,REJECT
