@@ -8263,6 +8263,7 @@ HOST-SUFFIX,card.getgifted.com,REJECT
 HOST-SUFFIX,card.pingpro.com,REJECT
 HOST-SUFFIX,cardexchanges.carte-gr.total.fr,REJECT
 HOST-SUFFIX,cardinalretirement.actonservice.com,REJECT
+HOST-SUFFIX,cardmethod.com,REJECT
 HOST-SUFFIX,care.excellence.kaweahhealth.org,REJECT
 HOST-SUFFIX,care.mercycare.org,REJECT
 HOST-SUFFIX,care.oakstreethealth.com,REJECT
@@ -10682,6 +10683,7 @@ HOST-SUFFIX,de.contact.alphabet.com,REJECT
 HOST-SUFFIX,de.mywd.com,REJECT
 HOST-SUFFIX,de.sharpmarketing.eu,REJECT
 HOST-SUFFIX,de.verintsystemsinc.com,REJECT
+HOST-SUFFIX,de5zarwna0j2q.cloudfront.net,REJECT
 HOST-SUFFIX,dealerrelations.cargurus.com,REJECT
 HOST-SUFFIX,dealfastfood.openapp.link,REJECT
 HOST-SUFFIX,debjpy.globoshoes.com,REJECT
@@ -11444,6 +11446,7 @@ HOST-SUFFIX,du4rq1xqh3i1k.cloudfront.net,REJECT
 HOST-SUFFIX,dujgiq.trendhim.pl,REJECT
 HOST-SUFFIX,dumpster.cam4.com,REJECT
 HOST-SUFFIX,dup.baidustatic.com,REJECT
+HOST-SUFFIX,duplexer.wix.com,REJECT
 HOST-SUFFIX,duprelogistics.actonservice.com,REJECT
 HOST-SUFFIX,duqqrl.jefchaussures.com,REJECT
 HOST-SUFFIX,durchsichtig.xyz,REJECT
@@ -14692,6 +14695,7 @@ HOST-SUFFIX,gobeyond.superiorgroup.com,REJECT
 HOST-SUFFIX,gocertiport.pearsonvue.com,REJECT
 HOST-SUFFIX,gocuxy.baycrews.jp,REJECT
 HOST-SUFFIX,god.vsee.me,REJECT
+HOST-SUFFIX,goddesslamps.com,REJECT
 HOST-SUFFIX,godev.steps.me,REJECT
 HOST-SUFFIX,godiciardstia.com,REJECT
 HOST-SUFFIX,godseedband.com,REJECT
@@ -14896,6 +14900,7 @@ HOST-SUFFIX,h5.analytics.126.net,REJECT
 HOST-SUFFIX,h559.stamfordadvocate.com,REJECT
 HOST-SUFFIX,h5log.zongheng.com,REJECT
 HOST-SUFFIX,hacx60.com,REJECT
+HOST-SUFFIX,haikusoap.com,REJECT
 HOST-SUFFIX,hal.courrierinternational.com,REJECT
 HOST-SUFFIX,halcyoncanyon.com,REJECT
 HOST-SUFFIX,halcyonsculpture.com,REJECT
@@ -17043,6 +17048,7 @@ HOST-SUFFIX,intuitvisitorid.api.intuit.com,REJECT
 HOST-SUFFIX,inv.mksp.io,REJECT
 HOST-SUFFIX,inv3te.oui.sncf,REJECT
 HOST-SUFFIX,invata.actonservice.com,REJECT
+HOST-SUFFIX,inventorycache.com,REJECT
 HOST-SUFFIX,inventtango.com,REJECT
 HOST-SUFFIX,invest.rubicoin.com,REJECT
 HOST-SUFFIX,investment.lianest.co.jp,REJECT
@@ -23158,6 +23164,7 @@ HOST-SUFFIX,mine.nahnoji.cz,REJECT
 HOST-SUFFIX,mineinvoice.com,REJECT
 HOST-SUFFIX,minerad.com,REJECT
 HOST-SUFFIX,mini-site.larksuite-marketing.com,REJECT
+HOST-SUFFIX,minibilling.com,REJECT
 HOST-SUFFIX,minorcattle.com,REJECT
 HOST-SUFFIX,minstats.xyz,REJECT
 HOST-SUFFIX,minuteburst.com,REJECT
@@ -23599,7 +23606,6 @@ HOST-SUFFIX,naidileobram.actonservice.com,REJECT
 HOST-SUFFIX,naivestatement.com,REJECT
 HOST-SUFFIX,nakisa.actonservice.com,REJECT
 HOST-SUFFIX,nala.headuplabs.com,REJECT
-HOST-SUFFIX,nam.veta.naver.com,REJECT
 HOST-SUFFIX,namcah.alipearlhair.com,REJECT
 HOST-SUFFIX,namrinfo.motorolasolutions.com,REJECT
 HOST-SUFFIX,nanalytics.virginaustralia.com,REJECT
@@ -23902,6 +23908,7 @@ HOST-SUFFIX,notifpush.com,REJECT
 HOST-SUFFIX,notify.eset.com,REJECT
 HOST-SUFFIX,notify.pray.com,REJECT
 HOST-SUFFIX,notifyglass.com,REJECT
+HOST-SUFFIX,notrealcat.com,REJECT
 HOST-SUFFIX,noundictionary.com,REJECT
 HOST-SUFFIX,noushe.zevvle.com,REJECT
 HOST-SUFFIX,nova-healthcare.actonservice.com,REJECT
@@ -25075,6 +25082,7 @@ HOST-SUFFIX,pickmicro.com,REJECT
 HOST-SUFFIX,piddme.buyma.com,REJECT
 HOST-SUFFIX,pietexture.com,REJECT
 HOST-SUFFIX,pigeonsetc.com,REJECT
+HOST-SUFFIX,pigmentpaper.com,REJECT
 HOST-SUFFIX,pihxmq.98doci.com,REJECT
 HOST-SUFFIX,pimpoint.inriver.com,REJECT
 HOST-SUFFIX,pinchsquirrel.com,REJECT
@@ -26088,6 +26096,7 @@ HOST-SUFFIX,rabbitbreath.com,REJECT
 HOST-SUFFIX,rabbitrifle.com,REJECT
 HOST-SUFFIX,rac.ruutu.fi,REJECT
 HOST-SUFFIX,racemanager-app.sapsailing.com,REJECT
+HOST-SUFFIX,rackforstorage.com,REJECT
 HOST-SUFFIX,radar.imgsmail.ru,REJECT
 HOST-SUFFIX,radiantcanopy.com,REJECT
 HOST-SUFFIX,radiantlullaby.com,REJECT
@@ -28794,6 +28803,7 @@ HOST-SUFFIX,smart.boxtone.com,REJECT
 HOST-SUFFIX,smartcam.adt-worldwide.com,REJECT
 HOST-SUFFIX,smartmetrics.co.uk,REJECT
 HOST-SUFFIX,smartworksforme.actonservice.com,REJECT
+HOST-SUFFIX,smartytouch.co,REJECT
 HOST-SUFFIX,smashquartz.com,REJECT
 HOST-SUFFIX,smashshoe.com,REJECT
 HOST-SUFFIX,smashsurprise.com,REJECT
@@ -36167,6 +36177,7 @@ HOST-SUFFIX,top3.inhaabit.com,REJECT
 HOST-SUFFIX,topbookgifts.com,REJECT
 HOST-SUFFIX,topcrazypress.com,REJECT
 HOST-SUFFIX,topspin.npo.nl,REJECT
+HOST-SUFFIX,topthrowbacks.com,REJECT
 HOST-SUFFIX,toronto-content.cresa.com,REJECT
 HOST-SUFFIX,torropinto.viessmann.es,REJECT
 HOST-SUFFIX,toto.pandasuite.io,REJECT
@@ -41741,6 +41752,7 @@ HOST-SUFFIX,you.stage.pixellot.link,REJECT
 HOST-SUFFIX,youate.co,REJECT
 HOST-SUFFIX,youborafds01.com,REJECT
 HOST-SUFFIX,youboranqs01.com,REJECT
+HOST-SUFFIX,youcandrawanything.com,REJECT
 HOST-SUFFIX,your.maas.ptvgroup.com,REJECT
 HOST-SUFFIX,your.mapandguide.ptvgroup.com,REJECT
 HOST-SUFFIX,your.mapandmarket.ptvgroup.com,REJECT

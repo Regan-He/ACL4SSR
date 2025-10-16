@@ -1161,6 +1161,7 @@ HOST-SUFFIX,captainbicycle.com,REJECT
 HOST-SUFFIX,carambo.la,REJECT
 HOST-SUFFIX,carbonads.com,REJECT
 HOST-SUFFIX,carbonads.net,REJECT
+HOST-SUFFIX,cardmethod.com,REJECT
 HOST-SUFFIX,caringcast.com,REJECT
 HOST-SUFFIX,cartstack.com,REJECT
 HOST-SUFFIX,carvecakes.com,REJECT
@@ -1755,6 +1756,7 @@ HOST-SUFFIX,gunggo.com,REJECT
 HOST-SUFFIX,h-bid.com,REJECT
 HOST-SUFFIX,h-trck.com,REJECT
 HOST-SUFFIX,h0.t.hubspotemail.net,REJECT
+HOST-SUFFIX,haikusoap.com,REJECT
 HOST-SUFFIX,halcyoncanyon.com,REJECT
 HOST-SUFFIX,haltingbadge.com,REJECT
 HOST-SUFFIX,hammerhearing.com,REJECT
@@ -2181,6 +2183,7 @@ HOST-SUFFIX,microticker.com,REJECT
 HOST-SUFFIX,milotree.com,REJECT
 HOST-SUFFIX,mineinvoice.com,REJECT
 HOST-SUFFIX,minewhat.com,REJECT
+HOST-SUFFIX,minibilling.com,REJECT
 HOST-SUFFIX,mintegral.com,REJECT
 HOST-SUFFIX,mittencattle.com,REJECT
 HOST-SUFFIX,mix2ads.com,REJECT
@@ -2594,6 +2597,7 @@ HOST-SUFFIX,r2.visualwebsiteoptimizer.com,REJECT
 HOST-SUFFIX,r3.visualwebsiteoptimizer.com,REJECT
 HOST-SUFFIX,raac33.net,REJECT
 HOST-SUFFIX,rabbitrifle.com,REJECT
+HOST-SUFFIX,rackforstorage.com,REJECT
 HOST-SUFFIX,radar.cedexis.com,REJECT
 HOST-SUFFIX,radiate.com,REJECT
 HOST-SUFFIX,radiateprose.com,REJECT
@@ -3408,6 +3412,7 @@ HOST-SUFFIX,yldbt.com,REJECT
 HOST-SUFFIX,ymetrica1.com,REJECT
 HOST-SUFFIX,yoads.net,REJECT
 HOST-SUFFIX,yoggrt.com,REJECT
+HOST-SUFFIX,youcandrawanything.com,REJECT
 HOST-SUFFIX,youradexchange.com,REJECT
 HOST-SUFFIX,ypu.samsungelectronics.com,REJECT
 HOST-SUFFIX,zangocash.com,REJECT
