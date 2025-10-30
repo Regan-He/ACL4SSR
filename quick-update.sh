@@ -3,9 +3,9 @@
 
 # 如果是被 cronie 任务拉起的，则会在 /var/log/cron 日志中记录下调用情况
 WEBHOOK_URL="$1"
-SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)"
 # 所有操作在转到脚本所在目录之后开展
-pushd "${SCRIPT_DIR}" &>/dev/null || exit 1
+pushd "${SCRIPT_DIR}" &> /dev/null || exit 1
 
 declare -gi CHANGED_FILES_COUNT=0
 declare -ga CHANGED_FILES_LIST=()
@@ -99,24 +99,24 @@ function send_finish_notify() {
     local -a patulous_content=()
     local -r patulous_color='#DB7093' # 苍白的紫罗兰红色
     case $UPLOAD_STATUS in
-    1)
-        message_color='#228B22' # 森林绿
-        report_text="共有 ${CHANGED_FILES_COUNT} 个文件发生变化，修改已提交到 GitHub："
-        patulous_content+=("${CHANGED_FILES_LIST[@]}")
-        ;;
-    2)
-        message_color='#FFA500' # 橙色
-        report_text="远端没有更新任何规则文件。"
-        ;;
-    *)
-        message_color='#DC143C' # 猩红
-        report_text="操作异常，请检查本地仓库"
-        if [[ "${ERROR_MESSAGE}" ]]; then
-            report_text+="； 错误消息：${ERROR_MESSAGE}"
-        else
-            report_text+="。"
-        fi
-        ;;
+        1)
+            message_color='#228B22' # 森林绿
+            report_text="共有 ${CHANGED_FILES_COUNT} 个文件发生变化，修改已提交到 GitHub："
+            patulous_content+=("${CHANGED_FILES_LIST[@]}")
+            ;;
+        2)
+            message_color='#FFA500' # 橙色
+            report_text="远端没有更新任何规则文件。"
+            ;;
+        *)
+            message_color='#DC143C' # 猩红
+            report_text="操作异常，请检查本地仓库"
+            if [[ "${ERROR_MESSAGE}" ]]; then
+                report_text+="； 错误消息：${ERROR_MESSAGE}"
+            else
+                report_text+="。"
+            fi
+            ;;
     esac
 
     send_robot_notify report_text message_color patulous_content patulous_color
@@ -150,8 +150,14 @@ function update_remote_rules() {
         return 1
     fi
 
-    local -i changed_rules
-    changed_rules=$(LANG=C git status | grep -E 'modified:[[:space:]]*QuantumultX' | awk '{print $2}' | sed 's|[^/]||g' | grep -c '^//')
+    local -i changed_rules=0
+    changed_rules=$(
+        LANG=C git status |
+            grep -E 'modified:[[:space:]]*QuantumultX' |
+            awk '{print $2}' |
+            sed 's|[^/]||g' |
+            grep -c '^//'
+    )
     if ! ((changed_rules)); then
         return 0
     fi
@@ -171,7 +177,6 @@ function do_update_rule() {
     local message_color='#FF00FF' # 灯笼海棠(紫红色)
 
     send_robot_notify notify_message message_color
-
     if update_remote_rules; then
         return 0
     fi
