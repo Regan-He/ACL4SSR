@@ -1075,6 +1075,7 @@ HOST-SUFFIX,bidvertiser.com,REJECT
 HOST-SUFFIX,big-bang-ads.com,REJECT
 HOST-SUFFIX,bigbangmedia.com,REJECT
 HOST-SUFFIX,bigclicks.com,REJECT
+HOST-SUFFIX,bigworldfashion.com,REJECT
 HOST-SUFFIX,billboard.cz,REJECT
 HOST-SUFFIX,billtable.com,REJECT
 HOST-SUFFIX,birthdaybelief.com,REJECT
@@ -1410,6 +1411,7 @@ HOST-SUFFIX,customers.kameleoon.com,REJECT
 HOST-SUFFIX,cutechin.com,REJECT
 HOST-SUFFIX,cxense.com,REJECT
 HOST-SUFFIX,cyberbounty.com,REJECT
+HOST-SUFFIX,cyclinghere.com,REJECT
 HOST-SUFFIX,d-collect.jennifersoft.com,REJECT
 HOST-SUFFIX,d-collector.jennifersoft.com,REJECT
 HOST-SUFFIX,d.adroll.com,REJECT
@@ -1608,6 +1610,7 @@ HOST-SUFFIX,fadedsnow.com,REJECT
 HOST-SUFFIX,fairfeeling.com,REJECT
 HOST-SUFFIX,fakedisguise.com,REJECT
 HOST-SUFFIX,fallaciousfifth.com,REJECT
+HOST-SUFFIX,fallingshoals.com,REJECT
 HOST-SUFFIX,fam-ad.com,REJECT
 HOST-SUFFIX,farethief.com,REJECT
 HOST-SUFFIX,farmergoldfish.com,REJECT
@@ -3089,6 +3092,7 @@ HOST-SUFFIX,ticklesign.com,REJECT
 HOST-SUFFIX,ticksel.com,REJECT
 HOST-SUFFIX,tics.techdirt.com,REJECT
 HOST-SUFFIX,tidaltv.com,REJECT
+HOST-SUFFIX,tidysprite.com,REJECT
 HOST-SUFFIX,tinybar.com,REJECT
 HOST-SUFFIX,tinybluewhale.com,REJECT
 HOST-SUFFIX,tinytendency.com,REJECT
