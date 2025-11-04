@@ -4945,6 +4945,7 @@ HOST-SUFFIX,alloutdubstep.com,REJECT
 HOST-SUFFIX,allreach.actonservice.com,REJECT
 HOST-SUFFIX,allrisks.actonservice.com,REJECT
 HOST-SUFFIX,allstarfg.actonservice.com,REJECT
+HOST-SUFFIX,alltypo.com,REJECT
 HOST-SUFFIX,alluringbucket.com,REJECT
 HOST-SUFFIX,allvideometrika.com,REJECT
 HOST-SUFFIX,almalasers.actonservice.com,REJECT
@@ -24947,6 +24948,7 @@ HOST-SUFFIX,partner.service.belboon.com,REJECT
 HOST-SUFFIX,partnerapp.kravein.com.au,REJECT
 HOST-SUFFIX,partnerapp.urbanclap.com,REJECT
 HOST-SUFFIX,partnerdev.extasy.com,REJECT
+HOST-SUFFIX,partnerhut.com,REJECT
 HOST-SUFFIX,partnerlinks.io,REJECT
 HOST-SUFFIX,partnermktg.symantec.com,REJECT
 HOST-SUFFIX,partners.avaya.com,REJECT
@@ -28763,6 +28765,7 @@ HOST-SUFFIX,sites.siemens.com,REJECT
 HOST-SUFFIX,siusmv.coraltravel.pl,REJECT
 HOST-SUFFIX,six9e.canal.fr,REJECT
 HOST-SUFFIX,sixauthority.com,REJECT
+HOST-SUFFIX,sixpants.com,REJECT
 HOST-SUFFIX,sixscissors.com,REJECT
 HOST-SUFFIX,sizcsi.eobuv.cz,REJECT
 HOST-SUFFIX,sizybn.shipsltd.co.jp,REJECT
