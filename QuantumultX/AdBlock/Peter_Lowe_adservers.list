@@ -1946,6 +1946,7 @@ HOST-SUFFIX,jungroup.com,REJECT
 HOST-SUFFIX,justicejudo.com,REJECT
 HOST-SUFFIX,justpremium.com,REJECT
 HOST-SUFFIX,justrelevant.com,REJECT
+HOST-SUFFIX,justwowjars.com,REJECT
 HOST-SUFFIX,k.iinfo.cz,REJECT
 HOST-SUFFIX,kameleoon.eu,REJECT
 HOST-SUFFIX,kanoodle.com,REJECT
@@ -2818,6 +2819,7 @@ HOST-SUFFIX,signalayer.com,REJECT
 HOST-SUFFIX,sillyscrew.com,REJECT
 HOST-SUFFIX,silvermob.com,REJECT
 HOST-SUFFIX,simpleanalytics.io,REJECT
+HOST-SUFFIX,simplesafari.com,REJECT
 HOST-SUFFIX,simpli.fi,REJECT
 HOST-SUFFIX,simulateswing.com,REJECT
 HOST-SUFFIX,sincerebuffalo.com,REJECT
