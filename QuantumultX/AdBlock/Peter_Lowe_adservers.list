@@ -55,6 +55,7 @@ HOST-SUFFIX,ablink.info.wise.com,REJECT
 HOST-SUFFIX,ablink.news.emails-puregym.com,REJECT
 HOST-SUFFIX,ablinks.mail.hinge.co,REJECT
 HOST-SUFFIX,aboardlevel.com,REJECT
+HOST-SUFFIX,absolutering.com,REJECT
 HOST-SUFFIX,absorbingband.com,REJECT
 HOST-SUFFIX,abstractedauthority.com,REJECT
 HOST-SUFFIX,abtasty.com,REJECT
@@ -163,7 +164,6 @@ HOST-SUFFIX,adabra.com,REJECT
 HOST-SUFFIX,adaction.de,REJECT
 HOST-SUFFIX,adadvisor.net,REJECT
 HOST-SUFFIX,adalliance.io,REJECT
-HOST-SUFFIX,adanging.blog,REJECT
 HOST-SUFFIX,adap.tv,REJECT
 HOST-SUFFIX,adapt.tv,REJECT
 HOST-SUFFIX,adbilty.me,REJECT
@@ -1215,6 +1215,7 @@ HOST-SUFFIX,cl.turkishairlines.com,REJECT
 HOST-SUFFIX,cl0udh0st1ng.com,REJECT
 HOST-SUFFIX,clck.ru,REJECT
 HOST-SUFFIX,clevernt.com,REJECT
+HOST-SUFFIX,click-1.pl,REJECT
 HOST-SUFFIX,click.airmalta-mail.com,REJECT
 HOST-SUFFIX,click.aliexpress.com,REJECT
 HOST-SUFFIX,click.allkeyshop.com,REJECT
@@ -1373,7 +1374,6 @@ HOST-SUFFIX,cpalead.com,REJECT
 HOST-SUFFIX,cpays.com,REJECT
 HOST-SUFFIX,cpmstar.com,REJECT
 HOST-SUFFIX,cpu.samsungelectronics.com,REJECT
-HOST-SUFFIX,cpx-traffic.com,REJECT
 HOST-SUFFIX,cpx.to,REJECT
 HOST-SUFFIX,cpxinteractive.com,REJECT
 HOST-SUFFIX,cqcounter.com,REJECT
@@ -1754,6 +1754,7 @@ HOST-SUFFIX,growthrx.in,REJECT
 HOST-SUFFIX,gscontxt.net,REJECT
 HOST-SUFFIX,guardeddirection.com,REJECT
 HOST-SUFFIX,guardedschool.com,REJECT
+HOST-SUFFIX,gumyfui.com,REJECT
 HOST-SUFFIX,gunggo.com,REJECT
 HOST-SUFFIX,h-bid.com,REJECT
 HOST-SUFFIX,h-trck.com,REJECT
@@ -1864,6 +1865,7 @@ HOST-SUFFIX,imagecash.net,REJECT
 HOST-SUFFIX,images-pw.secureserver.net,REJECT
 HOST-SUFFIX,img.prohardver.hu,REJECT
 HOST-SUFFIX,imgpromo.easyrencontre.com,REJECT
+HOST-SUFFIX,immensehoney.com,REJECT
 HOST-SUFFIX,imonomy.com,REJECT
 HOST-SUFFIX,imp.i312864.net,REJECT
 HOST-SUFFIX,impossibleexpansion.com,REJECT
@@ -2039,6 +2041,7 @@ HOST-SUFFIX,links.housekeep.com,REJECT
 HOST-SUFFIX,links.prosservice.fr,REJECT
 HOST-SUFFIX,links.zoopla.co.uk,REJECT
 HOST-SUFFIX,linksoutside.com,REJECT
+HOST-SUFFIX,linkstable.com,REJECT
 HOST-SUFFIX,linkstorms.com,REJECT
 HOST-SUFFIX,linkswaper.com,REJECT
 HOST-SUFFIX,linksynergy.com,REJECT
@@ -2595,6 +2598,7 @@ HOST-SUFFIX,quantummetric.com,REJECT
 HOST-SUFFIX,quarterserver.de,REJECT
 HOST-SUFFIX,quickkoala.io,REJECT
 HOST-SUFFIX,quietknowledge.com,REJECT
+HOST-SUFFIX,quiltruler.com,REJECT
 HOST-SUFFIX,quinst.com,REJECT
 HOST-SUFFIX,quirkysugar.com,REJECT
 HOST-SUFFIX,quisma.com,REJECT

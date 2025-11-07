@@ -4194,6 +4194,7 @@ HOST-SUFFIX,abs.proxistore.com,REJECT
 HOST-SUFFIX,absentairport.com,REJECT
 HOST-SUFFIX,absinfo.eagle.org,REJECT
 HOST-SUFFIX,absoft.actonservice.com,REJECT
+HOST-SUFFIX,absolutering.com,REJECT
 HOST-SUFFIX,absorbingband.com,REJECT
 HOST-SUFFIX,absorbingprison.com,REJECT
 HOST-SUFFIX,absscw.vegis.ro,REJECT
@@ -8424,6 +8425,7 @@ HOST-SUFFIX,ch.credithypo.com,REJECT
 HOST-SUFFIX,ch.sharpmarketing.eu,REJECT
 HOST-SUFFIX,ch0p.darty.com,REJECT
 HOST-SUFFIX,chademocharge.com,REJECT
+HOST-SUFFIX,chaindisc.com,REJECT
 HOST-SUFFIX,chaireggnog.com,REJECT
 HOST-SUFFIX,chairscrack.com,REJECT
 HOST-SUFFIX,chairsdonkey.com,REJECT
@@ -14732,6 +14734,7 @@ HOST-SUFFIX,googleoptimize.com,REJECT
 HOST-SUFFIX,googletagmanager-cn.com,REJECT
 HOST-SUFFIX,googletagmanager.com,REJECT
 HOST-SUFFIX,gorgeousedge.com,REJECT
+HOST-SUFFIX,gorillapage.com,REJECT
 HOST-SUFFIX,gosenergy.actonservice.com,REJECT
 HOST-SUFFIX,goseri-link.mysuki.io,REJECT
 HOST-SUFFIX,gossamerwing.com,REJECT
@@ -19037,6 +19040,7 @@ HOST-SUFFIX,linksbntest.branchcustom.xyz,REJECT
 HOST-SUFFIX,linksoutside.com,REJECT
 HOST-SUFFIX,linkspine.insights.md,REJECT
 HOST-SUFFIX,linkspinedev.insights.md,REJECT
+HOST-SUFFIX,linkstable.com,REJECT
 HOST-SUFFIX,linktest.itsdcode.com,REJECT
 HOST-SUFFIX,linkto.driver.codes,REJECT
 HOST-SUFFIX,linktrace.diningcity.cn,REJECT
@@ -26036,6 +26040,7 @@ HOST-SUFFIX,quidel.actonservice.com,REJECT
 HOST-SUFFIX,quietknowledge.com,REJECT
 HOST-SUFFIX,quillkick.com,REJECT
 HOST-SUFFIX,quiltquick.com,REJECT
+HOST-SUFFIX,quiltruler.com,REJECT
 HOST-SUFFIX,quinceimaging.actonservice.com,REJECT
 HOST-SUFFIX,quirklogic.actonservice.com,REJECT
 HOST-SUFFIX,quirkybliss.com,REJECT
@@ -26128,6 +26133,7 @@ HOST-SUFFIX,rac.ruutu.fi,REJECT
 HOST-SUFFIX,racemanager-app.sapsailing.com,REJECT
 HOST-SUFFIX,rackforstorage.com,REJECT
 HOST-SUFFIX,radar.imgsmail.ru,REJECT
+HOST-SUFFIX,radexports.com,REJECT
 HOST-SUFFIX,radiantcanopy.com,REJECT
 HOST-SUFFIX,radiantlullaby.com,REJECT
 HOST-SUFFIX,radiateprose.com,REJECT
@@ -35862,6 +35868,7 @@ HOST-SUFFIX,thejavalane.com,REJECT
 HOST-SUFFIX,themangotea.com,REJECT
 HOST-SUFFIX,theme.echovisuals.com,REJECT
 HOST-SUFFIX,themepicker.com,REJECT
+HOST-SUFFIX,thepixelpioneer.com,REJECT
 HOST-SUFFIX,thepowerstones.com,REJECT
 HOST-SUFFIX,thequickbooksteam.intuit.ca,REJECT
 HOST-SUFFIX,therapeuticcars.com,REJECT
