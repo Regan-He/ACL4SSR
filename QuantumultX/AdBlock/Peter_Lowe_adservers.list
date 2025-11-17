@@ -246,7 +246,6 @@ HOST-SUFFIX,adjuggler.com,REJECT
 HOST-SUFFIX,adjuggler.yourdictionary.com,REJECT
 HOST-SUFFIX,adjust.com,REJECT
 HOST-SUFFIX,adjustnetwork.com,REJECT
-HOST-SUFFIX,adk2.co,REJECT
 HOST-SUFFIX,adk2.com,REJECT
 HOST-SUFFIX,adland.ru,REJECT
 HOST-SUFFIX,adlegend.com,REJECT
@@ -390,6 +389,7 @@ HOST-SUFFIX,ads.devmates.com,REJECT
 HOST-SUFFIX,ads.digital-digest.com,REJECT
 HOST-SUFFIX,ads.digitalmedianet.com,REJECT
 HOST-SUFFIX,ads.digitalpoint.com,REJECT
+HOST-SUFFIX,ads.directionsmag.com,REJECT
 HOST-SUFFIX,ads.doit.com.cn,REJECT
 HOST-SUFFIX,ads.domeus.com,REJECT
 HOST-SUFFIX,ads.eagletribune.com,REJECT
@@ -713,6 +713,7 @@ HOST-SUFFIX,adsiduous.com,REJECT
 HOST-SUFFIX,adskeeper.co.uk,REJECT
 HOST-SUFFIX,adskeeper.com,REJECT
 HOST-SUFFIX,adsklick.de,REJECT
+HOST-SUFFIX,adskpak.com,REJECT
 HOST-SUFFIX,adsmart.net,REJECT
 HOST-SUFFIX,adsmartracker.com,REJECT
 HOST-SUFFIX,adsmetadata.startappservice.com,REJECT
@@ -1075,6 +1076,7 @@ HOST-SUFFIX,bidvertiser.com,REJECT
 HOST-SUFFIX,big-bang-ads.com,REJECT
 HOST-SUFFIX,bigbangmedia.com,REJECT
 HOST-SUFFIX,bigclicks.com,REJECT
+HOST-SUFFIX,bigreal.org,REJECT
 HOST-SUFFIX,bigworldfashion.com,REJECT
 HOST-SUFFIX,billboard.cz,REJECT
 HOST-SUFFIX,billtable.com,REJECT
@@ -1085,6 +1087,7 @@ HOST-SUFFIX,bizographics.com,REJECT
 HOST-SUFFIX,bizrate.com,REJECT
 HOST-SUFFIX,bizzclick.com,REJECT
 HOST-SUFFIX,bkrtx.com,REJECT
+HOST-SUFFIX,bleachbubble.com,REJECT
 HOST-SUFFIX,blingbucks.com,REJECT
 HOST-SUFFIX,blis.com,REJECT
 HOST-SUFFIX,blockadblock.com,REJECT
@@ -1319,6 +1322,7 @@ HOST-SUFFIX,coldbalance.com,REJECT
 HOST-SUFFIX,collector-dev.cdp-dev.cnn.com,REJECT
 HOST-SUFFIX,collector.cdp.cnn.com,REJECT
 HOST-SUFFIX,colonize.com,REJECT
+HOST-SUFFIX,colorfulpet.com,REJECT
 HOST-SUFFIX,comfortablecheese.com,REJECT
 HOST-SUFFIX,commindo-media-ressourcen.de,REJECT
 HOST-SUFFIX,commissionmonster.com,REJECT
@@ -1443,6 +1447,7 @@ HOST-SUFFIX,deloplen.com,REJECT
 HOST-SUFFIX,demandbase.com,REJECT
 HOST-SUFFIX,demdex.net,REJECT
 HOST-SUFFIX,deployads.com,REJECT
+HOST-SUFFIX,desertgates.com,REJECT
 HOST-SUFFIX,desiredirt.com,REJECT
 HOST-SUFFIX,detailedgovernment.com,REJECT
 HOST-SUFFIX,detectdiscovery.com,REJECT
@@ -1483,6 +1488,7 @@ HOST-SUFFIX,doubleverify.com,REJECT
 HOST-SUFFIX,dpbolvw.net,REJECT
 HOST-SUFFIX,dpu.samsungelectronics.com,REJECT
 HOST-SUFFIX,dq95d35.com,REJECT
+HOST-SUFFIX,dragonbats.com,REJECT
 HOST-SUFFIX,drumcash.com,REJECT
 HOST-SUFFIX,dsp.colpirio.com,REJECT
 HOST-SUFFIX,dsp.io,REJECT
@@ -1656,6 +1662,7 @@ HOST-SUFFIX,forkcdn.com,REJECT
 HOST-SUFFIX,fpctraffic.com,REJECT
 HOST-SUFFIX,fpjs.io,REJECT
 HOST-SUFFIX,fqtag.com,REJECT
+HOST-SUFFIX,fraysystems.com,REJECT
 HOST-SUFFIX,free-counter.co.uk,REJECT
 HOST-SUFFIX,freebanner.com,REJECT
 HOST-SUFFIX,freecounterstat.com,REJECT
@@ -1917,6 +1924,7 @@ HOST-SUFFIX,ipstack.com,REJECT
 HOST-SUFFIX,irchan.com,REJECT
 HOST-SUFFIX,ireklama.cz,REJECT
 HOST-SUFFIX,is-tracking-pixel-api-prod.appspot.com,REJECT
+HOST-SUFFIX,islandwebhelp.com,REJECT
 HOST-SUFFIX,itop.cz,REJECT
 HOST-SUFFIX,its-that-easy.com,REJECT
 HOST-SUFFIX,ivwbox.de,REJECT
@@ -1953,6 +1961,7 @@ HOST-SUFFIX,k.iinfo.cz,REJECT
 HOST-SUFFIX,kameleoon.eu,REJECT
 HOST-SUFFIX,kanoodle.com,REJECT
 HOST-SUFFIX,kargo.com,REJECT
+HOST-SUFFIX,kernellife.com,REJECT
 HOST-SUFFIX,kickoffo.site,REJECT
 HOST-SUFFIX,kindads.com,REJECT
 HOST-SUFFIX,kindlereunion.com,REJECT
@@ -2260,6 +2269,7 @@ HOST-SUFFIX,mylead.global,REJECT
 HOST-SUFFIX,mylink-today.com,REJECT
 HOST-SUFFIX,mypagerank.net,REJECT
 HOST-SUFFIX,mypowermall.com,REJECT
+HOST-SUFFIX,mysketchpad.com,REJECT
 HOST-SUFFIX,mystat-in.net,REJECT
 HOST-SUFFIX,mystat.pl,REJECT
 HOST-SUFFIX,mytop-in.net,REJECT
@@ -2710,6 +2720,7 @@ HOST-SUFFIX,rlcdn.com,REJECT
 HOST-SUFFIX,rle.ru,REJECT
 HOST-SUFFIX,rmads.msn.com,REJECT
 HOST-SUFFIX,rmedia.boston.com,REJECT
+HOST-SUFFIX,roaddynamics.com,REJECT
 HOST-SUFFIX,roar.com,REJECT
 HOST-SUFFIX,robotreplay.com,REJECT
 HOST-SUFFIX,rockabox.co,REJECT
@@ -2803,6 +2814,7 @@ HOST-SUFFIX,sessioncam.com,REJECT
 HOST-SUFFIX,sexcounter.com,REJECT
 HOST-SUFFIX,sexlist.com,REJECT
 HOST-SUFFIX,sextracker.com,REJECT
+HOST-SUFFIX,shadowmade.com,REJECT
 HOST-SUFFIX,shakegoldfish.com,REJECT
 HOST-SUFFIX,shareasale.com,REJECT
 HOST-SUFFIX,sharethrough.com,REJECT
@@ -2924,6 +2936,7 @@ HOST-SUFFIX,stalesummer.com,REJECT
 HOST-SUFFIX,starffa.com,REJECT
 HOST-SUFFIX,starkscale.com,REJECT
 HOST-SUFFIX,starrynets.com,REJECT
+HOST-SUFFIX,starsmarter.com,REJECT
 HOST-SUFFIX,startapp.com,REJECT
 HOST-SUFFIX,stat-track.com,REJECT
 HOST-SUFFIX,stat.cliche.se,REJECT
@@ -3111,7 +3124,6 @@ HOST-SUFFIX,tlvmedia.com,REJECT
 HOST-SUFFIX,tm.br.de,REJECT
 HOST-SUFFIX,tnkexchange.com,REJECT
 HOST-SUFFIX,tns-counter.ru,REJECT
-HOST-SUFFIX,to-go1.eu,REJECT
 HOST-SUFFIX,toolforthought.com,REJECT
 HOST-SUFFIX,top-casting-termine.de,REJECT
 HOST-SUFFIX,top-site-list.com,REJECT
@@ -3393,6 +3405,7 @@ HOST-SUFFIX,wondoads.de,REJECT
 HOST-SUFFIX,woopra.com,REJECT
 HOST-SUFFIX,worldwide-cash.net,REJECT
 HOST-SUFFIX,worriednumber.com,REJECT
+HOST-SUFFIX,writerhubs.com,REJECT
 HOST-SUFFIX,wt-eu02.net,REJECT
 HOST-SUFFIX,wt.bankmillennium.pl,REJECT
 HOST-SUFFIX,www-banner.chat.ru,REJECT
