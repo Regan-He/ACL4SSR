@@ -405,7 +405,6 @@ HOST-SUFFIX,ads.epltalk.com,REJECT
 HOST-SUFFIX,ads.eu.msn.com,REJECT
 HOST-SUFFIX,ads.fairfax.com.au,REJECT
 HOST-SUFFIX,ads.fastcomgroup.it,REJECT
-HOST-SUFFIX,ads.fasttrack-ignite.com,REJECT
 HOST-SUFFIX,ads.femmefab.nl,REJECT
 HOST-SUFFIX,ads.ferianc.com,REJECT
 HOST-SUFFIX,ads.filmup.com,REJECT
@@ -438,6 +437,7 @@ HOST-SUFFIX,ads.hbv.de,REJECT
 HOST-SUFFIX,ads.hearstmags.com,REJECT
 HOST-SUFFIX,ads.heartlight.org,REJECT
 HOST-SUFFIX,ads.hollywood.com,REJECT
+HOST-SUFFIX,ads.horsehero.com,REJECT
 HOST-SUFFIX,ads.hsoub.com,REJECT
 HOST-SUFFIX,ads.ibest.com.br,REJECT
 HOST-SUFFIX,ads.ibryte.com,REJECT
@@ -865,7 +865,6 @@ HOST-SUFFIX,analytics.adpost.org,REJECT
 HOST-SUFFIX,analytics.algoepico.net,REJECT
 HOST-SUFFIX,analytics.bitrix.info,REJECT
 HOST-SUFFIX,analytics.cloudron.io,REJECT
-HOST-SUFFIX,analytics.emarketer.com,REJECT
 HOST-SUFFIX,analytics.ext.go-tellm.com,REJECT
 HOST-SUFFIX,analytics.google.com,REJECT
 HOST-SUFFIX,analytics.htmedia.in,REJECT
@@ -1141,6 +1140,7 @@ HOST-SUFFIX,bs.yandex.ru,REJECT
 HOST-SUFFIX,btglss.net,REJECT
 HOST-SUFFIX,btrll.com,REJECT
 HOST-SUFFIX,bttrack.com,REJECT
+HOST-SUFFIX,bubblyaction.com,REJECT
 HOST-SUFFIX,buysellads.com,REJECT
 HOST-SUFFIX,buzzonclick.com,REJECT
 HOST-SUFFIX,bwp.download.com,REJECT
@@ -1239,7 +1239,6 @@ HOST-SUFFIX,click.email.bbc.com,REJECT
 HOST-SUFFIX,click.email.lhh.com,REJECT
 HOST-SUFFIX,click.email.microsoftemail.com,REJECT
 HOST-SUFFIX,click.email.sonos.com,REJECT
-HOST-SUFFIX,click.email.strawberry.no,REJECT
 HOST-SUFFIX,click.emails.argos.co.uk,REJECT
 HOST-SUFFIX,click.emails.tuclothing.sainsburys.co.uk,REJECT
 HOST-SUFFIX,click.fool.com,REJECT
@@ -1706,7 +1705,6 @@ HOST-SUFFIX,gammamaximum.com,REJECT
 HOST-SUFFIX,gaug.es,REJECT
 HOST-SUFFIX,gavvia.com,REJECT
 HOST-SUFFIX,gearwom.de,REJECT
-HOST-SUFFIX,generateoffice.com,REJECT
 HOST-SUFFIX,geo.digitalpoint.com,REJECT
 HOST-SUFFIX,geobanner.adultfriendfinder.com,REJECT
 HOST-SUFFIX,georiot.com,REJECT
@@ -2881,7 +2879,6 @@ HOST-SUFFIX,snoobi.com,REJECT
 HOST-SUFFIX,socialspark.com,REJECT
 HOST-SUFFIX,softclick.com.br,REJECT
 HOST-SUFFIX,soggysponge.com,REJECT
-HOST-SUFFIX,soggyzoo.com,REJECT
 HOST-SUFFIX,soicos.com,REJECT
 HOST-SUFFIX,sombersea.com,REJECT
 HOST-SUFFIX,sombersquirrel.com,REJECT
@@ -3192,7 +3189,6 @@ HOST-SUFFIX,tracking.olx-st.com,REJECT
 HOST-SUFFIX,tracking.orixa-media.com,REJECT
 HOST-SUFFIX,tracking.shopstyle.com,REJECT
 HOST-SUFFIX,tracking.thinkabt.com,REJECT
-HOST-SUFFIX,tracking.utlservice.com,REJECT
 HOST-SUFFIX,tracking.wetter.at,REJECT
 HOST-SUFFIX,tracking01.walmart.com,REJECT
 HOST-SUFFIX,tracking101.com,REJECT
