@@ -1654,6 +1654,7 @@ HOST-SUFFIX,floweryflavor.com,REJECT
 HOST-SUFFIX,flowgo.com,REJECT
 HOST-SUFFIX,flurry.com,REJECT
 HOST-SUFFIX,fly-analytics.com,REJECT
+HOST-SUFFIX,fontserif.com,REJECT
 HOST-SUFFIX,foo.cosmocode.de,REJECT
 HOST-SUFFIX,foresee.com,REJECT
 HOST-SUFFIX,forex-affiliate.net,REJECT
@@ -2825,6 +2826,7 @@ HOST-SUFFIX,shiverscissors.com,REJECT
 HOST-SUFFIX,shockinggrass.com,REJECT
 HOST-SUFFIX,shoppingads.com,REJECT
 HOST-SUFFIX,showads.pubmatic.com,REJECT
+HOST-SUFFIX,shredform.com,REJECT
 HOST-SUFFIX,shrillspoon.com,REJECT
 HOST-SUFFIX,shxtrk.com,REJECT
 HOST-SUFFIX,sicksmash.com,REJECT
