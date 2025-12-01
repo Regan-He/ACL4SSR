@@ -14836,6 +14836,7 @@ HOST-SUFFIX,gravitykick.com,REJECT
 HOST-SUFFIX,graylog.prod.cams.run,REJECT
 HOST-SUFFIX,grayoranges.com,REJECT
 HOST-SUFFIX,grayreceipt.com,REJECT
+HOST-SUFFIX,grayscaleart.com,REJECT
 HOST-SUFFIX,grc.openapp.link,REJECT
 HOST-SUFFIX,grc2.secureforms.mcafee.com,REJECT
 HOST-SUFFIX,greasegarden.com,REJECT
@@ -27820,6 +27821,7 @@ HOST-SUFFIX,seahorseinfo.agilent.com,REJECT
 HOST-SUFFIX,sealingdev.actonservice.com,REJECT
 HOST-SUFFIX,sealtravels.com,REJECT
 HOST-SUFFIX,seamarketny.actonservice.com,REJECT
+HOST-SUFFIX,seamlesssalon.com,REJECT
 HOST-SUFFIX,seao.business.samsung.com,REJECT
 HOST-SUFFIX,search.anonymous.ads.brave.com,REJECT
 HOST-SUFFIX,seatsmoke.com,REJECT
