@@ -179,7 +179,6 @@ HOST-SUFFIX,adcampo.com,REJECT
 HOST-SUFFIX,adcannyads.com,REJECT
 HOST-SUFFIX,adcash.com,REJECT
 HOST-SUFFIX,adcast.deviantart.com,REJECT
-HOST-SUFFIX,adcel.co,REJECT
 HOST-SUFFIX,adcell.de,REJECT
 HOST-SUFFIX,adcenter.net,REJECT
 HOST-SUFFIX,adclick.com,REJECT
@@ -813,7 +812,6 @@ HOST-SUFFIX,affec.tv,REJECT
 HOST-SUFFIX,affili.net,REJECT
 HOST-SUFFIX,affiliate.1800flowers.com,REJECT
 HOST-SUFFIX,affiliate.dtiserv.com,REJECT
-HOST-SUFFIX,affiliate.rusvpn.com,REJECT
 HOST-SUFFIX,affiliate.travelnow.com,REJECT
 HOST-SUFFIX,affiliate.treated.com,REJECT
 HOST-SUFFIX,affiliatefuture.com,REJECT
@@ -896,7 +894,6 @@ HOST-SUFFIX,annoyedairport.com,REJECT
 HOST-SUFFIX,annoyingacoustics.com,REJECT
 HOST-SUFFIX,anrdoezrs.net,REJECT
 HOST-SUFFIX,anstrex.com,REJECT
-HOST-SUFFIX,anuncios.edicaoms.com.br,REJECT
 HOST-SUFFIX,anxiousapples.com,REJECT
 HOST-SUFFIX,api.amplitude.com,REJECT
 HOST-SUFFIX,api.appmetrica.yandex.ru,REJECT
@@ -1156,6 +1153,7 @@ HOST-SUFFIX,campaign.bharatmatrimony.com,REJECT
 HOST-SUFFIX,caniamedia.com,REJECT
 HOST-SUFFIX,capriciouscorn.com,REJECT
 HOST-SUFFIX,captainbicycle.com,REJECT
+HOST-SUFFIX,captainstick.com,REJECT
 HOST-SUFFIX,carambo.la,REJECT
 HOST-SUFFIX,carbonads.com,REJECT
 HOST-SUFFIX,carbonads.net,REJECT
@@ -1643,6 +1641,7 @@ HOST-SUFFIX,fixedfold.com,REJECT
 HOST-SUFFIX,flairadscpc.com,REJECT
 HOST-SUFFIX,flakyfeast.com,REJECT
 HOST-SUFFIX,flashtalking.com,REJECT
+HOST-SUFFIX,flashtexting.com,REJECT
 HOST-SUFFIX,fleshlightcash.com,REJECT
 HOST-SUFFIX,flexbanner.com,REJECT
 HOST-SUFFIX,flimsycircle.com,REJECT
@@ -2231,6 +2230,7 @@ HOST-SUFFIX,mon.byteoversea.com,REJECT
 HOST-SUFFIX,monarchads.com,REJECT
 HOST-SUFFIX,monetate.net,REJECT
 HOST-SUFFIX,monetizer101.com,REJECT
+HOST-SUFFIX,monkeyapes.com,REJECT
 HOST-SUFFIX,monsterpops.com,REJECT
 HOST-SUFFIX,mookie1.com,REJECT
 HOST-SUFFIX,mopub.com,REJECT
@@ -2533,7 +2533,6 @@ HOST-SUFFIX,previousplayground.com,REJECT
 HOST-SUFFIX,prf.hn,REJECT
 HOST-SUFFIX,priceypies.com,REJECT
 HOST-SUFFIX,pricklydebt.com,REJECT
-HOST-SUFFIX,priefy.com,REJECT
 HOST-SUFFIX,primetime.net,REJECT
 HOST-SUFFIX,privatecash.com,REJECT
 HOST-SUFFIX,prmtracking.com,REJECT
@@ -3162,6 +3161,7 @@ HOST-SUFFIX,track.privacyatclearbit.com,REJECT
 HOST-SUFFIX,track.przejdzdostrony.pl,REJECT
 HOST-SUFFIX,track.pubmatic.com,REJECT
 HOST-SUFFIX,track.segmetrics.io,REJECT
+HOST-SUFFIX,track.smtpmessage.com,REJECT
 HOST-SUFFIX,track.software-codes.com,REJECT
 HOST-SUFFIX,track.spe.schoolmessenger.com,REJECT
 HOST-SUFFIX,track.ultravpn.com,REJECT

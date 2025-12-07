@@ -6754,6 +6754,7 @@ HOST-SUFFIX,archiv.promatis.de,REJECT
 HOST-SUFFIX,archived.first.eloqua.extrahop.com,REJECT
 HOST-SUFFIX,archived.learn.eloqua.extrahop.com,REJECT
 HOST-SUFFIX,archswimming.com,REJECT
+HOST-SUFFIX,arclet.net,REJECT
 HOST-SUFFIX,argos.citruserve.com,REJECT
 HOST-SUFFIX,argyleforum.actonservice.com,REJECT
 HOST-SUFFIX,aria.inhaabit.com,REJECT
@@ -8269,6 +8270,7 @@ HOST-SUFFIX,capablecup.com,REJECT
 HOST-SUFFIX,capping.sirius.press,REJECT
 HOST-SUFFIX,capplanllc.actonservice.com,REJECT
 HOST-SUFFIX,capriciouscorn.com,REJECT
+HOST-SUFFIX,captainstick.com,REJECT
 HOST-SUFFIX,captivatingcanyon.com,REJECT
 HOST-SUFFIX,captivatingillusion.com,REJECT
 HOST-SUFFIX,captivatingpanorama.com,REJECT
@@ -11170,6 +11172,7 @@ HOST-SUFFIX,directavenue.tech,REJECT
 HOST-SUFFIX,directions.mdanderson.org,REJECT
 HOST-SUFFIX,direfuldesk.com,REJECT
 HOST-SUFFIX,disagreeabledrop.com,REJECT
+HOST-SUFFIX,discopond.com,REJECT
 HOST-SUFFIX,discover-metrics.cloud.seek.com.au,REJECT
 HOST-SUFFIX,discover.10play.com.au,REJECT
 HOST-SUFFIX,discover.absciex.com,REJECT
@@ -12740,6 +12743,7 @@ HOST-SUFFIX,esqxrp.bonprix-fl.be,REJECT
 HOST-SUFFIX,esri.nl.actonservice.com,REJECT
 HOST-SUFFIX,essaygiants.com,REJECT
 HOST-SUFFIX,essayspin.com,REJECT
+HOST-SUFFIX,essential-apps-analytics.herokuapp.com,REJECT
 HOST-SUFFIX,essmnx.edreams.ch,REJECT
 HOST-SUFFIX,estadisticas.lanacion.com.ar,REJECT
 HOST-SUFFIX,estadonline.publiguias.cl,REJECT
@@ -13388,6 +13392,7 @@ HOST-SUFFIX,flakyfeast.com,REJECT
 HOST-SUFFIX,flameuncle.com,REJECT
 HOST-SUFFIX,flashplayerfeedback.adobe.com,REJECT
 HOST-SUFFIX,flashstats.libsyn.com,REJECT
+HOST-SUFFIX,flashtexting.com,REJECT
 HOST-SUFFIX,flavors.firmenich.com,REJECT
 HOST-SUFFIX,fldoai.municipal.com,REJECT
 HOST-SUFFIX,fleet-eml.postmates.com,REJECT
@@ -14786,6 +14791,7 @@ HOST-SUFFIX,gotest.onecart.co.za,REJECT
 HOST-SUFFIX,gotest.onefc.com,REJECT
 HOST-SUFFIX,gotest.real.co,REJECT
 HOST-SUFFIX,gotest.taillight.com,REJECT
+HOST-SUFFIX,gotlunched.com,REJECT
 HOST-SUFFIX,goto.firsttechfed.com,REJECT
 HOST-SUFFIX,goto.heartlandpaymentsystems.com,REJECT
 HOST-SUFFIX,goto.nearlist.com,REJECT
@@ -17002,6 +17008,7 @@ HOST-SUFFIX,inquisitiveinvention.com,REJECT
 HOST-SUFFIX,ins.connatix.com,REJECT
 HOST-SUFFIX,ins.leavitt.com,REJECT
 HOST-SUFFIX,ins.wolterskluwerfs.com,REJECT
+HOST-SUFFIX,insectmacros.com,REJECT
 HOST-SUFFIX,insight.aon.com,REJECT
 HOST-SUFFIX,insight.autovistagroup.com,REJECT
 HOST-SUFFIX,insight.boomer.com,REJECT
@@ -23429,6 +23436,7 @@ HOST-SUFFIX,monitor.channel4.com,REJECT
 HOST-SUFFIX,monitor.fraudblocker.com,REJECT
 HOST-SUFFIX,monitor.music.qq.com,REJECT
 HOST-SUFFIX,monitoring.iraiser.eu,REJECT
+HOST-SUFFIX,monkeyapes.com,REJECT
 HOST-SUFFIX,monkeystyping.com,REJECT
 HOST-SUFFIX,monorail-edge.shopifysvc.com,REJECT
 HOST-SUFFIX,monster.branch.rocks,REJECT
@@ -24784,6 +24792,7 @@ HOST-SUFFIX,owa.carhartt.com,REJECT
 HOST-SUFFIX,owen.prolitteris.ch,REJECT
 HOST-SUFFIX,owlreporter.com,REJECT
 HOST-SUFFIX,owlsr.us,REJECT
+HOST-SUFFIX,owlstwo.com,REJECT
 HOST-SUFFIX,owp-sg-prop.americanexpress.com,REJECT
 HOST-SUFFIX,owp-tw.americanexpress.com,REJECT
 HOST-SUFFIX,owpysc.lampenundleuchten.at,REJECT
@@ -25265,6 +25274,7 @@ HOST-SUFFIX,pixel.newscred.com,REJECT
 HOST-SUFFIX,pixel.nine.com.au,REJECT
 HOST-SUFFIX,pixel.patch.com,REJECT
 HOST-SUFFIX,pixel.poptok.com,REJECT
+HOST-SUFFIX,pixel.propublica.org,REJECT
 HOST-SUFFIX,pixel.pub.lilyai.net,REJECT
 HOST-SUFFIX,pixel.redgifs.com,REJECT
 HOST-SUFFIX,pixel.roymorgan.com,REJECT
@@ -32438,6 +32448,7 @@ HOST-SUFFIX,sp.gameomatic.fr,REJECT
 HOST-SUFFIX,sp.jrklein.com,REJECT
 HOST-SUFFIX,sp.justwatch.com,REJECT
 HOST-SUFFIX,sp.naver.com,REJECT
+HOST-SUFFIX,sp.pcid.ca,REJECT
 HOST-SUFFIX,sp.pcoptimum.ca,REJECT
 HOST-SUFFIX,sp.soniccares.com,REJECT
 HOST-SUFFIX,sp.spaceomatic.fr,REJECT
@@ -34382,6 +34393,7 @@ HOST-SUFFIX,stockingsneeze.com,REJECT
 HOST-SUFFIX,stocktheme.com,REJECT
 HOST-SUFFIX,stomachscience.com,REJECT
 HOST-SUFFIX,stonechin.com,REJECT
+HOST-SUFFIX,stonepole.com,REJECT
 HOST-SUFFIX,stopstomach.com,REJECT
 HOST-SUFFIX,storage.lulu-row1.com,REJECT
 HOST-SUFFIX,storagetechnology.arrow.com,REJECT
