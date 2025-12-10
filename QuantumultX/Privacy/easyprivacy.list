@@ -4010,6 +4010,7 @@ HOST-SUFFIX,aazfby.auto.de,REJECT
 HOST-SUFFIX,aazmiw.reisenthel.com,REJECT
 HOST-SUFFIX,ab-machine.forbes.com,REJECT
 HOST-SUFFIX,ab.blogs.es,REJECT
+HOST-SUFFIX,ab.dns-finder.com,REJECT
 HOST-SUFFIX,ab.fanatical.com,REJECT
 HOST-SUFFIX,ab.oney.es,REJECT
 HOST-SUFFIX,ab.perfumesclub.com,REJECT
@@ -10763,7 +10764,6 @@ HOST-SUFFIX,deeplink.tytod.com,REJECT
 HOST-SUFFIX,deeplink.wagr.ai,REJECT
 HOST-SUFFIX,deeplink.wbnc.99array.com,REJECT
 HOST-SUFFIX,deeplink.winespectator.com,REJECT
-HOST-SUFFIX,deeplink.xeropan.com,REJECT
 HOST-SUFFIX,deeplinkdev.upoker.net,REJECT
 HOST-SUFFIX,deeplinks.amex.dynamify.com,REJECT
 HOST-SUFFIX,deeplinks.breaz.dynamify.com,REJECT
@@ -24821,6 +24821,7 @@ HOST-SUFFIX,p.aty.sohu.com,REJECT
 HOST-SUFFIX,p.cab.ua,REJECT
 HOST-SUFFIX,p.classroombookings.com,REJECT
 HOST-SUFFIX,p.codio.com,REJECT
+HOST-SUFFIX,p.controld.com,REJECT
 HOST-SUFFIX,p.cquotient.com,REJECT
 HOST-SUFFIX,p.data.cctv.com,REJECT
 HOST-SUFFIX,p.ejs.dev,REJECT
