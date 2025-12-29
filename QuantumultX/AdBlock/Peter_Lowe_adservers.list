@@ -459,7 +459,6 @@ HOST-SUFFIX,ads.lesbianpersonals.com,REJECT
 HOST-SUFFIX,ads.liberte.pl,REJECT
 HOST-SUFFIX,ads.linkedin.com,REJECT
 HOST-SUFFIX,ads.livenation.com,REJECT
-HOST-SUFFIX,ads.lordlucky.com,REJECT
 HOST-SUFFIX,ads.ma7.tv,REJECT
 HOST-SUFFIX,ads.mail.bg,REJECT
 HOST-SUFFIX,ads.massinfra.nl,REJECT
@@ -707,7 +706,6 @@ HOST-SUFFIX,adsiduous.com,REJECT
 HOST-SUFFIX,adskeeper.co.uk,REJECT
 HOST-SUFFIX,adskeeper.com,REJECT
 HOST-SUFFIX,adsklick.de,REJECT
-HOST-SUFFIX,adskpak.com,REJECT
 HOST-SUFFIX,adsmart.net,REJECT
 HOST-SUFFIX,adsmartracker.com,REJECT
 HOST-SUFFIX,adsmetadata.startappservice.com,REJECT
@@ -844,7 +842,6 @@ HOST-SUFFIX,algorix.co,REJECT
 HOST-SUFFIX,aliasanvil.com,REJECT
 HOST-SUFFIX,alikeaddition.com,REJECT
 HOST-SUFFIX,alipromo.com,REJECT
-HOST-SUFFIX,all4spy.com,REJECT
 HOST-SUFFIX,alluringbucket.com,REJECT
 HOST-SUFFIX,aloofmetal.com,REJECT
 HOST-SUFFIX,aloofvest.com,REJECT
@@ -1319,7 +1316,6 @@ HOST-SUFFIX,collector.cdp.cnn.com,REJECT
 HOST-SUFFIX,colonize.com,REJECT
 HOST-SUFFIX,colorfulpet.com,REJECT
 HOST-SUFFIX,comfortablecheese.com,REJECT
-HOST-SUFFIX,commindo-media-ressourcen.de,REJECT
 HOST-SUFFIX,commissionmonster.com,REJECT
 HOST-SUFFIX,communications.melitaltd.com,REJECT
 HOST-SUFFIX,compactbanner.com,REJECT
@@ -1780,6 +1776,7 @@ HOST-SUFFIX,handyincrease.com,REJECT
 HOST-SUFFIX,haplesshydrant.com,REJECT
 HOST-SUFFIX,harrenmedia.com,REJECT
 HOST-SUFFIX,harrenmedianetwork.com,REJECT
+HOST-SUFFIX,hayweb.net,REJECT
 HOST-SUFFIX,hb.afl.rakuten.co.jp,REJECT
 HOST-SUFFIX,hb.vntsm.com,REJECT
 HOST-SUFFIX,hbb.afl.rakuten.co.jp,REJECT
@@ -1796,6 +1793,7 @@ HOST-SUFFIX,heyos.com,REJECT
 HOST-SUFFIX,hf5rbejvpwds.com,REJECT
 HOST-SUFFIX,hfc195b.com,REJECT
 HOST-SUFFIX,hgads.com,REJECT
+HOST-SUFFIX,highnoongear.com,REJECT
 HOST-SUFFIX,hightrafficads.com,REJECT
 HOST-SUFFIX,hilariouszinc.com,REJECT
 HOST-SUFFIX,histats.com,REJECT
@@ -3096,6 +3094,7 @@ HOST-SUFFIX,tfag.de,REJECT
 HOST-SUFFIX,the-ozone-project.com,REJECT
 HOST-SUFFIX,theadex.com,REJECT
 HOST-SUFFIX,theadhost.com,REJECT
+HOST-SUFFIX,theadsparks.com,REJECT
 HOST-SUFFIX,thebugs.ws,REJECT
 HOST-SUFFIX,thecrazychili.com,REJECT
 HOST-SUFFIX,themangotea.com,REJECT
