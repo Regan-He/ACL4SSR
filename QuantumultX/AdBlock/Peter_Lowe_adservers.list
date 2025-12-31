@@ -891,6 +891,7 @@ HOST-SUFFIX,annoyingacoustics.com,REJECT
 HOST-SUFFIX,anrdoezrs.net,REJECT
 HOST-SUFFIX,anstrex.com,REJECT
 HOST-SUFFIX,anxiousapples.com,REJECT
+HOST-SUFFIX,api.affiliations.site,REJECT
 HOST-SUFFIX,api.amplitude.com,REJECT
 HOST-SUFFIX,api.appmetrica.yandex.ru,REJECT
 HOST-SUFFIX,api.eu.amplitude.com,REJECT
@@ -1241,6 +1242,7 @@ HOST-SUFFIX,click.i.southwesternrailway.com,REJECT
 HOST-SUFFIX,click.infoblox.com,REJECT
 HOST-SUFFIX,click.justwatch.com,REJECT
 HOST-SUFFIX,click.kmindex.ru,REJECT
+HOST-SUFFIX,click.liftoff.io,REJECT
 HOST-SUFFIX,click.mail.hotels.com,REJECT
 HOST-SUFFIX,click.mail.salesforce.com,REJECT
 HOST-SUFFIX,click.mailing.ticketmaster.com,REJECT
@@ -1268,6 +1270,7 @@ HOST-SUFFIX,clickedyclick.com,REJECT
 HOST-SUFFIX,clickfuse.com,REJECT
 HOST-SUFFIX,clickhereforcellphones.com,REJECT
 HOST-SUFFIX,clickngo.pro,REJECT
+HOST-SUFFIX,clickngo.top,REJECT
 HOST-SUFFIX,clickonometrics.pl,REJECT
 HOST-SUFFIX,clicks.checkatrade.com,REJECT
 HOST-SUFFIX,clicks.deliveroo.co.uk,REJECT
@@ -1315,6 +1318,7 @@ HOST-SUFFIX,collector-dev.cdp-dev.cnn.com,REJECT
 HOST-SUFFIX,collector.cdp.cnn.com,REJECT
 HOST-SUFFIX,colonize.com,REJECT
 HOST-SUFFIX,colorfulpet.com,REJECT
+HOST-SUFFIX,coloroptimizer.com,REJECT
 HOST-SUFFIX,comfortablecheese.com,REJECT
 HOST-SUFFIX,commissionmonster.com,REJECT
 HOST-SUFFIX,communications.melitaltd.com,REJECT
@@ -1332,6 +1336,7 @@ HOST-SUFFIX,consciouscheese.com,REJECT
 HOST-SUFFIX,consensad.com,REJECT
 HOST-SUFFIX,consensu.org,REJECT
 HOST-SUFFIX,contadores.miarroba.com,REJECT
+HOST-SUFFIX,content-loader.com,REJECT
 HOST-SUFFIX,content.acc-hd.de,REJECT
 HOST-SUFFIX,content.ad,REJECT
 HOST-SUFFIX,content22.online.citi.com,REJECT
@@ -1452,6 +1457,7 @@ HOST-SUFFIX,didtheyreadit.com,REJECT
 HOST-SUFFIX,digestiondrawer.com,REJECT
 HOST-SUFFIX,digital-ads.s3.amazonaws.com,REJECT
 HOST-SUFFIX,direct-events-collector.spot.im,REJECT
+HOST-SUFFIX,direct-promo.pro,REJECT
 HOST-SUFFIX,directaclick.com,REJECT
 HOST-SUFFIX,directorym.com,REJECT
 HOST-SUFFIX,discountclick.com,REJECT
@@ -1679,6 +1685,8 @@ HOST-SUFFIX,freshrelevance.com,REJECT
 HOST-SUFFIX,fronttoad.com,REJECT
 HOST-SUFFIX,frtyj.com,REJECT
 HOST-SUFFIX,frtyk.com,REJECT
+HOST-SUFFIX,fudgegenie.com,REJECT
+HOST-SUFFIX,fullrestore.net,REJECT
 HOST-SUFFIX,fullstory.com,REJECT
 HOST-SUFFIX,functionalcrown.com,REJECT
 HOST-SUFFIX,functionalfeather.com,REJECT
@@ -2086,6 +2094,7 @@ HOST-SUFFIX,look.opskln.com,REJECT
 HOST-SUFFIX,look.ufinkln.com,REJECT
 HOST-SUFFIX,loopme.com,REJECT
 HOST-SUFFIX,loudlunch.com,REJECT
+HOST-SUFFIX,lowest-prices.eu,REJECT
 HOST-SUFFIX,lucidmedia.com,REJECT
 HOST-SUFFIX,luckyorange.com,REJECT
 HOST-SUFFIX,ludicrousarch.com,REJECT
@@ -2421,6 +2430,7 @@ HOST-SUFFIX,oxcash.com,REJECT
 HOST-SUFFIX,oxen.hillcountrytexas.com,REJECT
 HOST-SUFFIX,p-n.io,REJECT
 HOST-SUFFIX,paa-reporting-advertising.amazon,REJECT
+HOST-SUFFIX,page-checker.eu,REJECT
 HOST-SUFFIX,page-redirect.eu,REJECT
 HOST-SUFFIX,pagead.l.google.com,REJECT
 HOST-SUFFIX,pagefair.com,REJECT
@@ -2755,6 +2765,7 @@ HOST-SUFFIX,s20dh7e9dh.com,REJECT
 HOST-SUFFIX,s2d6.com,REJECT
 HOST-SUFFIX,sabio.us,REJECT
 HOST-SUFFIX,sadloaf.com,REJECT
+HOST-SUFFIX,safeoffers.pro,REJECT
 HOST-SUFFIX,sail-horizon.com,REJECT
 HOST-SUFFIX,samplesamba.com,REJECT
 HOST-SUFFIX,samsungacr.com,REJECT
