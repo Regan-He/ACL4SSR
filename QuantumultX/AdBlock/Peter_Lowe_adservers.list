@@ -14,6 +14,7 @@ HOST-SUFFIX,2znp09oa.com,REJECT
 HOST-SUFFIX,30ads.com,REJECT
 HOST-SUFFIX,3337723.com,REJECT
 HOST-SUFFIX,33across.com,REJECT
+HOST-SUFFIX,360yield-basic.com,REJECT
 HOST-SUFFIX,360yield.com,REJECT
 HOST-SUFFIX,3lift.com,REJECT
 HOST-SUFFIX,3o9s.short.gy,REJECT
@@ -760,7 +761,6 @@ HOST-SUFFIX,advert.bayarea.com,REJECT
 HOST-SUFFIX,advert.dyna.ultraweb.hu,REJECT
 HOST-SUFFIX,adverticum.com,REJECT
 HOST-SUFFIX,adverticum.net,REJECT
-HOST-SUFFIX,advertipros.com,REJECT
 HOST-SUFFIX,advertise.com,REJECT
 HOST-SUFFIX,advertiseireland.com,REJECT
 HOST-SUFFIX,advertiserurl.com,REJECT
@@ -806,7 +806,6 @@ HOST-SUFFIX,affiliate.travelnow.com,REJECT
 HOST-SUFFIX,affiliate.treated.com,REJECT
 HOST-SUFFIX,affiliatefuture.com,REJECT
 HOST-SUFFIX,affiliates.allposters.com,REJECT
-HOST-SUFFIX,affiliates.babylon.com,REJECT
 HOST-SUFFIX,affiliates.streamray.com,REJECT
 HOST-SUFFIX,affiliates.thinkhost.net,REJECT
 HOST-SUFFIX,affiliates.thrixxx.com,REJECT
@@ -1276,6 +1275,7 @@ HOST-SUFFIX,clicks.monzo.com,REJECT
 HOST-SUFFIX,clicks.njuskalo.hr,REJECT
 HOST-SUFFIX,clickserve.cc-dt.com,REJECT
 HOST-SUFFIX,clicksinfo.thefork.co.uk,REJECT
+HOST-SUFFIX,clicktag.de,REJECT
 HOST-SUFFIX,clickthruserver.com,REJECT
 HOST-SUFFIX,clickthrutraffic.com,REJECT
 HOST-SUFFIX,clicktrack.pubmatic.com,REJECT
@@ -1762,7 +1762,6 @@ HOST-SUFFIX,googletagservices.com,REJECT
 HOST-SUFFIX,goqon.com,REJECT
 HOST-SUFFIX,gostats.com,REJECT
 HOST-SUFFIX,gothamads.com,REJECT
-HOST-SUFFIX,gotoyahoo.com,REJECT
 HOST-SUFFIX,gotraffic.net,REJECT
 HOST-SUFFIX,gp.dejanews.com,REJECT
 HOST-SUFFIX,grandfatherguitar.com,REJECT
@@ -2531,7 +2530,6 @@ HOST-SUFFIX,popmixradio.com,REJECT
 HOST-SUFFIX,popmyads.com,REJECT
 HOST-SUFFIX,popplantation.com,REJECT
 HOST-SUFFIX,popub.com,REJECT
-HOST-SUFFIX,popunder.ru,REJECT
 HOST-SUFFIX,popunhot1.blogspot.com,REJECT
 HOST-SUFFIX,popup.msn.com,REJECT
 HOST-SUFFIX,popupmoney.com,REJECT
@@ -2697,6 +2695,7 @@ HOST-SUFFIX,reklamcsere.hu,REJECT
 HOST-SUFFIX,reklamdsp.com,REJECT
 HOST-SUFFIX,relmaxtop.com,REJECT
 HOST-SUFFIX,rememberdiscussion.com,REJECT
+HOST-SUFFIX,remox.com,REJECT
 HOST-SUFFIX,report-1.appmetrica.webvisor.com,REJECT
 HOST-SUFFIX,report-2.appmetrica.webvisor.com,REJECT
 HOST-SUFFIX,report-partners.appmetrica.yandex.net,REJECT
@@ -2957,7 +2956,6 @@ HOST-SUFFIX,stackadapt.com,REJECT
 HOST-SUFFIX,stakingsmile.com,REJECT
 HOST-SUFFIX,stalesummer.com,REJECT
 HOST-SUFFIX,starffa.com,REJECT
-HOST-SUFFIX,starkscale.com,REJECT
 HOST-SUFFIX,starrynets.com,REJECT
 HOST-SUFFIX,starsmarter.com,REJECT
 HOST-SUFFIX,startapp.com,REJECT
@@ -3324,7 +3322,6 @@ HOST-SUFFIX,url9467.comms-2.zoopla.co.uk,REJECT
 HOST-SUFFIX,urlcash.net,REJECT
 HOST-SUFFIX,us.a1.yimg.com,REJECT
 HOST-SUFFIX,userreplay.com,REJECT
-HOST-SUFFIX,userreplay.net,REJECT
 HOST-SUFFIX,users.maxcluster.net,REJECT
 HOST-SUFFIX,utils.mediageneral.net,REJECT
 HOST-SUFFIX,utl-1.com,REJECT
@@ -3341,7 +3338,6 @@ HOST-SUFFIX,vanfireworks.com,REJECT
 HOST-SUFFIX,vcommission.com,REJECT
 HOST-SUFFIX,veille-referencement.com,REJECT
 HOST-SUFFIX,velismedia.com,REJECT
-HOST-SUFFIX,venetrigni.com,REJECT
 HOST-SUFFIX,vengefulgrass.com,REJECT
 HOST-SUFFIX,ventivmedia.com,REJECT
 HOST-SUFFIX,venturead.com,REJECT
@@ -3358,7 +3354,6 @@ HOST-SUFFIX,video-stats.video.google.com,REJECT
 HOST-SUFFIX,videoadex.com,REJECT
 HOST-SUFFIX,videoadstech.org,REJECT
 HOST-SUFFIX,videoegg.com,REJECT
-HOST-SUFFIX,videostats.kakao.com,REJECT
 HOST-SUFFIX,vidora.com,REJECT
 HOST-SUFFIX,view4cash.de,REJECT
 HOST-SUFFIX,viglink.com,REJECT
@@ -3424,6 +3419,7 @@ HOST-SUFFIX,wholepagecache.com,REJECT
 HOST-SUFFIX,wickedreports.com,REJECT
 HOST-SUFFIX,widget.educationdynamics.com,REJECT
 HOST-SUFFIX,widget.privy.com,REJECT
+HOST-SUFFIX,widgets.teads-xo.com,REJECT
 HOST-SUFFIX,wikia-ads.wikia.com,REJECT
 HOST-SUFFIX,wikiquotations.com,REJECT
 HOST-SUFFIX,win.iqm.com,REJECT
