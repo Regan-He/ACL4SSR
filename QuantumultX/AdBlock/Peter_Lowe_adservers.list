@@ -31,6 +31,7 @@ HOST-SUFFIX,7cnq.net,REJECT
 HOST-SUFFIX,82o9v830.com,REJECT
 HOST-SUFFIX,a-ads.com,REJECT
 HOST-SUFFIX,a.mktw.net,REJECT
+HOST-SUFFIX,a.pemsrv.com,REJECT
 HOST-SUFFIX,a.sakh.com,REJECT
 HOST-SUFFIX,a.ucoz.net,REJECT
 HOST-SUFFIX,a.ucoz.ru,REJECT
@@ -3044,6 +3045,7 @@ HOST-SUFFIX,sunsetcampfires.com,REJECT
 HOST-SUFFIX,superawesome.tv,REJECT
 HOST-SUFFIX,superchichair.com,REJECT
 HOST-SUFFIX,superclix.de,REJECT
+HOST-SUFFIX,supercounters.com,REJECT
 HOST-SUFFIX,superficialsquare.com,REJECT
 HOST-SUFFIX,supersonicads.com,REJECT
 HOST-SUFFIX,superstats.com,REJECT
