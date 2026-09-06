@@ -523,7 +523,6 @@ HOST-SUFFIX,ads.revjet.com,REJECT
 HOST-SUFFIX,ads.reward-hunt.com,REJECT
 HOST-SUFFIX,ads.samsung.com,REJECT
 HOST-SUFFIX,ads.saymedia.com,REJECT
-HOST-SUFFIX,ads.schmoozecom.net,REJECT
 HOST-SUFFIX,ads.scifi.com,REJECT
 HOST-SUFFIX,ads.seniorfriendfinder.com,REJECT
 HOST-SUFFIX,ads.servebom.com,REJECT
@@ -622,6 +621,7 @@ HOST-SUFFIX,adsdaq.com,REJECT
 HOST-SUFFIX,adsdk.yandex.ru,REJECT
 HOST-SUFFIX,adsend.de,REJECT
 HOST-SUFFIX,adsensecustomsearchads.com,REJECT
+HOST-SUFFIX,adserv.snigelweb.com,REJECT
 HOST-SUFFIX,adserve.ams.rhythmxchange.com,REJECT
 HOST-SUFFIX,adserve.gkeurope.de,REJECT
 HOST-SUFFIX,adserve.io,REJECT
@@ -651,7 +651,6 @@ HOST-SUFFIX,adserver.ilango.de,REJECT
 HOST-SUFFIX,adserver.industryarena.com,REJECT
 HOST-SUFFIX,adserver.info7.mx,REJECT
 HOST-SUFFIX,adserver.irishwebmasterforum.com,REJECT
-HOST-SUFFIX,adserver.janes.com,REJECT
 HOST-SUFFIX,adserver.kontent.com,REJECT
 HOST-SUFFIX,adserver.mobi,REJECT
 HOST-SUFFIX,adserver.news.com.au,REJECT
@@ -728,6 +727,7 @@ HOST-SUFFIX,adsynergy.com,REJECT
 HOST-SUFFIX,adsys.townnews.com,REJECT
 HOST-SUFFIX,adsystem.simplemachines.org,REJECT
 HOST-SUFFIX,adt598.com,REJECT
+HOST-SUFFIX,adtagj.portal-factory.com,REJECT
 HOST-SUFFIX,adtech.com,REJECT
 HOST-SUFFIX,adtech.de,REJECT
 HOST-SUFFIX,adtechjp.com,REJECT
@@ -747,7 +747,6 @@ HOST-SUFFIX,adtrade.net,REJECT
 HOST-SUFFIX,adtrk1.com,REJECT
 HOST-SUFFIX,adultadvertising.com,REJECT
 HOST-SUFFIX,adv-adserver.com,REJECT
-HOST-SUFFIX,adv.donejty.pl,REJECT
 HOST-SUFFIX,adv.freeonline.it,REJECT
 HOST-SUFFIX,adv.hwupgrade.it,REJECT
 HOST-SUFFIX,adv.mpvc.it,REJECT
@@ -1272,7 +1271,6 @@ HOST-SUFFIX,clickdensity.com,REJECT
 HOST-SUFFIX,clickedyclick.com,REJECT
 HOST-SUFFIX,clickfuse.com,REJECT
 HOST-SUFFIX,clickhereforcellphones.com,REJECT
-HOST-SUFFIX,clickngo.pro,REJECT
 HOST-SUFFIX,clickngo.top,REJECT
 HOST-SUFFIX,clickonometrics.pl,REJECT
 HOST-SUFFIX,clickrtrckr.com,REJECT
@@ -1598,7 +1596,6 @@ HOST-SUFFIX,events.hotjar.io,REJECT
 HOST-SUFFIX,everestads.net,REJECT
 HOST-SUFFIX,everesttech.net,REJECT
 HOST-SUFFIX,evergage.com,REJECT
-HOST-SUFFIX,eversales.space,REJECT
 HOST-SUFFIX,evs.sgmt.loom.com,REJECT
 HOST-SUFFIX,evyy.net,REJECT
 HOST-SUFFIX,exampleshake.com,REJECT
@@ -1656,7 +1653,6 @@ HOST-SUFFIX,figsprotein.com,REJECT
 HOST-SUFFIX,figurehunter.net,REJECT
 HOST-SUFFIX,fillthemap.com,REJECT
 HOST-SUFFIX,fimserve.com,REJECT
-HOST-SUFFIX,findcommerce.com,REJECT
 HOST-SUFFIX,findyourcasino.com,REJECT
 HOST-SUFFIX,fireads.online,REJECT
 HOST-SUFFIX,fireads.org,REJECT
@@ -1814,7 +1810,6 @@ HOST-SUFFIX,hbopenbid.pubmatic.com,REJECT
 HOST-SUFFIX,heap.com,REJECT
 HOST-SUFFIX,hellobar.com,REJECT
 HOST-SUFFIX,helpcollar.com,REJECT
-HOST-SUFFIX,hentaicounter.com,REJECT
 HOST-SUFFIX,herbalaffiliateprogram.com,REJECT
 HOST-SUFFIX,hexcan.com,REJECT
 HOST-SUFFIX,hexusads.fluent.ltd.uk,REJECT
@@ -2063,6 +2058,7 @@ HOST-SUFFIX,lightspeedcash.com,REJECT
 HOST-SUFFIX,lightstep.medium.systems,REJECT
 HOST-SUFFIX,lijit.com,REJECT
 HOST-SUFFIX,limecodesign.com,REJECT
+HOST-SUFFIX,link-booster.de,REJECT
 HOST-SUFFIX,link.axios.com,REJECT
 HOST-SUFFIX,link.beelivery.com,REJECT
 HOST-SUFFIX,link.email.davidlloydclubs.co.uk,REJECT
@@ -2427,6 +2423,7 @@ HOST-SUFFIX,openx2.kytary.cz,REJECT
 HOST-SUFFIX,operationchicken.com,REJECT
 HOST-SUFFIX,opienetwork.com,REJECT
 HOST-SUFFIX,opmnstr.com,REJECT
+HOST-SUFFIX,opoxv.com,REJECT
 HOST-SUFFIX,oppuz.com,REJECT
 HOST-SUFFIX,optimallimit.com,REJECT
 HOST-SUFFIX,optimizely.com,REJECT
@@ -2488,6 +2485,7 @@ HOST-SUFFIX,pc-tc.s3-eu-west-1.amazonaws.com,REJECT
 HOST-SUFFIX,pcash.imlive.com,REJECT
 HOST-SUFFIX,peep-auktion.de,REJECT
 HOST-SUFFIX,peer39.com,REJECT
+HOST-SUFFIX,pemsrv.com,REJECT
 HOST-SUFFIX,pennyweb.com,REJECT
 HOST-SUFFIX,pepperjamnetwork.com,REJECT
 HOST-SUFFIX,percentmobile.com,REJECT
@@ -2512,7 +2510,6 @@ HOST-SUFFIX,pipedream.wistia.com,REJECT
 HOST-SUFFIX,pippio.com,REJECT
 HOST-SUFFIX,piquantpigs.com,REJECT
 HOST-SUFFIX,pix.spot.im,REJECT
-HOST-SUFFIX,pixel.keywee.co,REJECT
 HOST-SUFFIX,pixel.sojern.com,REJECT
 HOST-SUFFIX,pixel.watch,REJECT
 HOST-SUFFIX,pixel.yabidos.com,REJECT
@@ -2607,6 +2604,7 @@ HOST-SUFFIX,pub.club-internet.fr,REJECT
 HOST-SUFFIX,pub.hardware.fr,REJECT
 HOST-SUFFIX,pub.network,REJECT
 HOST-SUFFIX,pub.realmedia.fr,REJECT
+HOST-SUFFIX,pubbug.com,REJECT
 HOST-SUFFIX,pubdirecte.com,REJECT
 HOST-SUFFIX,pubfuture-ssp.com,REJECT
 HOST-SUFFIX,publicidad.elmundo.es,REJECT
@@ -2788,6 +2786,7 @@ HOST-SUFFIX,rundsp.com,REJECT
 HOST-SUFFIX,ruralrobin.com,REJECT
 HOST-SUFFIX,s.adroll.com,REJECT
 HOST-SUFFIX,s.dmmew.com,REJECT
+HOST-SUFFIX,s.uuidksinc.net,REJECT
 HOST-SUFFIX,s20dh7e9dh.com,REJECT
 HOST-SUFFIX,s2d6.com,REJECT
 HOST-SUFFIX,sabio.us,REJECT
