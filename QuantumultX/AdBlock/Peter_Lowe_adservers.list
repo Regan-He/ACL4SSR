@@ -460,6 +460,7 @@ HOST-SUFFIX,ads.lesbianpersonals.com,REJECT
 HOST-SUFFIX,ads.liberte.pl,REJECT
 HOST-SUFFIX,ads.linkedin.com,REJECT
 HOST-SUFFIX,ads.livenation.com,REJECT
+HOST-SUFFIX,ads.lzjl.com,REJECT
 HOST-SUFFIX,ads.ma7.tv,REJECT
 HOST-SUFFIX,ads.mail.bg,REJECT
 HOST-SUFFIX,ads.massinfra.nl,REJECT
@@ -1376,6 +1377,7 @@ HOST-SUFFIX,counter.mojgorod.ru,REJECT
 HOST-SUFFIX,counter.rambler.ru,REJECT
 HOST-SUFFIX,counter.search.bg,REJECT
 HOST-SUFFIX,counter.snackly.co,REJECT
+HOST-SUFFIX,counter.yadro.ru,REJECT
 HOST-SUFFIX,counting.kmindex.ru,REJECT
 HOST-SUFFIX,coupling-media.de,REJECT
 HOST-SUFFIX,cowbelltime.com,REJECT
@@ -2224,6 +2226,7 @@ HOST-SUFFIX,metrics.govexec.com,REJECT
 HOST-SUFFIX,metrics.icloud.com,REJECT
 HOST-SUFFIX,metrics.mzstatic.com,REJECT
 HOST-SUFFIX,metrilo.com,REJECT
+HOST-SUFFIX,metrix.luxnet.io,REJECT
 HOST-SUFFIX,mfadsrvr.com,REJECT
 HOST-SUFFIX,mg2connext.com,REJECT
 HOST-SUFFIX,mgid.com,REJECT
@@ -2999,6 +3002,7 @@ HOST-SUFFIX,statistik-gallup.net,REJECT
 HOST-SUFFIX,statm.the-adult-company.com,REJECT
 HOST-SUFFIX,stats.blogger.com,REJECT
 HOST-SUFFIX,stats.hyperinzerce.cz,REJECT
+HOST-SUFFIX,stats.in.th,REJECT
 HOST-SUFFIX,stats.merriam-webster.com,REJECT
 HOST-SUFFIX,stats.mirrorfootball.co.uk,REJECT
 HOST-SUFFIX,stats.nextgen-email.com,REJECT
@@ -3495,6 +3499,7 @@ HOST-SUFFIX,xxxmyself.com,REJECT
 HOST-SUFFIX,y.ibsys.com,REJECT
 HOST-SUFFIX,yab-adimages.s3.amazonaws.com,REJECT
 HOST-SUFFIX,yadro.ru,REJECT
+HOST-SUFFIX,yads.tech,REJECT
 HOST-SUFFIX,yandexmetrica.com,REJECT
 HOST-SUFFIX,yepads.com,REJECT
 HOST-SUFFIX,yesads.com,REJECT
