@@ -10,6 +10,7 @@ HOST,az668014.vo.msecnd.net,🚀 节点选择
 HOST,cdp.cloud.unity3d.com,🚀 节点选择
 HOST,clubhouse.pubnubapi.com,🚀 节点选择
 HOST,copilot.microsoft.com,🚀 节点选择
+HOST,github-api.arkoselabs.com,🚀 节点选择
 HOST,lab.skk.moe,🚀 节点选择
 HOST,location.microsoft.com,🚀 节点选择
 HOST,login.microsoftonline.com,🚀 节点选择
@@ -301,6 +302,9 @@ HOST-SUFFIX,gfw.report,🚀 节点选择
 HOST-SUFFIX,ghostnoteapp.com,🚀 节点选择
 HOST-SUFFIX,gitbook.com,🚀 节点选择
 HOST-SUFFIX,githack.com,🚀 节点选择
+HOST-SUFFIX,github.ai,🚀 节点选择
+HOST-SUFFIX,github.career,🚀 节点选择
+HOST-SUFFIX,githubsupport.com,🚀 节点选择
 HOST-SUFFIX,gitlab.com,🚀 节点选择
 HOST-SUFFIX,gitlab.io,🚀 节点选择
 HOST-SUFFIX,globalsign.com,🚀 节点选择
@@ -311,6 +315,8 @@ HOST-SUFFIX,godaddy.com,🚀 节点选择
 HOST-SUFFIX,gongm.in,🚀 节点选择
 HOST-SUFFIX,goodreaders.com,🚀 节点选择
 HOST-SUFFIX,goodreads.com,🚀 节点选择
+HOST-SUFFIX,google,🚀 节点选择
+HOST-SUFFIX,googlezip.net,🚀 节点选择
 HOST-SUFFIX,gosetsuden.jp,🚀 节点选择
 HOST-SUFFIX,graphql.org,🚀 节点选择
 HOST-SUFFIX,gravatar.com,🚀 节点选择
@@ -804,6 +810,7 @@ HOST-SUFFIX,westpoint.edu,🚀 节点选择
 HOST-SUFFIX,whoer.net,🚀 节点选择
 HOST-SUFFIX,wikibooks.org,🚀 节点选择
 HOST-SUFFIX,wikidata.org,🚀 节点选择
+HOST-SUFFIX,wikifunctions.org,🚀 节点选择
 HOST-SUFFIX,wikileaks-forum.com,🚀 节点选择
 HOST-SUFFIX,wikileaks.info,🚀 节点选择
 HOST-SUFFIX,wikileaks.org,🚀 节点选择
@@ -815,6 +822,7 @@ HOST-SUFFIX,wikipedia.com,🚀 节点选择
 HOST-SUFFIX,wikipedia.org,🚀 节点选择
 HOST-SUFFIX,wikiquote.org,🚀 节点选择
 HOST-SUFFIX,wikisource.org,🚀 节点选择
+HOST-SUFFIX,wikispecies.org,🚀 节点选择
 HOST-SUFFIX,wikiversity.org,🚀 节点选择
 HOST-SUFFIX,wikivoyage.org,🚀 节点选择
 HOST-SUFFIX,wikiwand.com,🚀 节点选择
@@ -881,6 +889,9 @@ HOST-SUFFIX,zyxel.com,🚀 节点选择
 IP-CIDR,1.201.0.0/24,🚀 节点选择,no-resolve
 IP-CIDR,13.32.0.0/15,🚀 节点选择,no-resolve
 IP-CIDR,13.35.0.0/17,🚀 节点选择,no-resolve
+IP-CIDR,13.251.24.0/24,🚀 节点选择,no-resolve
+IP-CIDR,13.251.41.0/24,🚀 节点选择,no-resolve
+IP-CIDR,17.252.156.0/23,🚀 节点选择,no-resolve
 IP-CIDR,18.184.0.0/15,🚀 节点选择,no-resolve
 IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
 IP-CIDR,18.208.0.0/13,🚀 节点选择,no-resolve

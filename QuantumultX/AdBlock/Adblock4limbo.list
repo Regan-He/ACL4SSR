@@ -299,6 +299,7 @@ HOST-SUFFIX,adserver.yahoo.com,REJECT
 HOST-SUFFIX,adspecs.yahoo.com,REJECT
 HOST-SUFFIX,advertising.yahoo.com,REJECT
 HOST-SUFFIX,adxadserv.com,REJECT
+HOST-SUFFIX,akhaldqp.in,REJECT
 HOST-SUFFIX,alexametrics.com,REJECT
 HOST-SUFFIX,alitui.weibo.com,REJECT
 HOST-SUFFIX,amung.us,REJECT
@@ -362,6 +363,7 @@ HOST-SUFFIX,fanza.cc,REJECT
 HOST-SUFFIX,farmcrapsubsist.com,REJECT
 HOST-SUFFIX,farwine.com,REJECT
 HOST-SUFFIX,fmiqcupku.com,REJECT
+HOST-SUFFIX,frozenpayerpregnant.com,REJECT
 HOST-SUFFIX,gdt.qq.com,REJECT
 HOST-SUFFIX,gemini.yahoo.com,REJECT
 HOST-SUFFIX,ggsfq.com,REJECT
@@ -382,6 +384,8 @@ HOST-SUFFIX,hbhuatie.com,REJECT
 HOST-SUFFIX,histats.com,REJECT
 HOST-SUFFIX,hoisin.coocaa.com,REJECT
 HOST-SUFFIX,hoisin.coocaatv.com,REJECT
+HOST-SUFFIX,horribletrainer.com,REJECT
+HOST-SUFFIX,i.5432kk.com,REJECT
 HOST-SUFFIX,iad-01.braze.com,REJECT
 HOST-SUFFIX,iad-02.braze.com,REJECT
 HOST-SUFFIX,iad-03.appboy.com,REJECT
@@ -419,6 +423,7 @@ HOST-SUFFIX,juicyads.in,REJECT
 HOST-SUFFIX,kk.braincf.com,REJECT
 HOST-SUFFIX,kkjhgfds.top,REJECT
 HOST-SUFFIX,knlk2md.cn,REJECT
+HOST-SUFFIX,kugqwiarq.in,REJECT
 HOST-SUFFIX,l.qq.com,REJECT
 HOST-SUFFIX,links.services.disqus.com,REJECT
 HOST-SUFFIX,log.hunantv.com,REJECT
