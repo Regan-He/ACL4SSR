@@ -32,6 +32,7 @@ HOST-SUFFIX,7bpeople.com,REJECT
 HOST-SUFFIX,7cnq.net,REJECT
 HOST-SUFFIX,82o9v830.com,REJECT
 HOST-SUFFIX,a-ads.com,REJECT
+HOST-SUFFIX,a.bestcontentfood.top,REJECT
 HOST-SUFFIX,a.mktw.net,REJECT
 HOST-SUFFIX,a.pemsrv.com,REJECT
 HOST-SUFFIX,a.sakh.com,REJECT
@@ -187,7 +188,6 @@ HOST-SUFFIX,adcell.de,REJECT
 HOST-SUFFIX,adcenter.net,REJECT
 HOST-SUFFIX,adclick.com,REJECT
 HOST-SUFFIX,adclient1.tucows.com,REJECT
-HOST-SUFFIX,adclixx.net,REJECT
 HOST-SUFFIX,adcolony.com,REJECT
 HOST-SUFFIX,adcomplete.com,REJECT
 HOST-SUFFIX,adconion.com,REJECT
@@ -215,6 +215,7 @@ HOST-SUFFIX,adforce.com,REJECT
 HOST-SUFFIX,adform.com,REJECT
 HOST-SUFFIX,adform.net,REJECT
 HOST-SUFFIX,adformdsp.net,REJECT
+HOST-SUFFIX,adfox.cam,REJECT
 HOST-SUFFIX,adhaven.com,REJECT
 HOST-SUFFIX,adhese.be,REJECT
 HOST-SUFFIX,adhese.com,REJECT
@@ -413,7 +414,6 @@ HOST-SUFFIX,ads.fool.com,REJECT
 HOST-SUFFIX,ads.footymad.net,REJECT
 HOST-SUFFIX,ads.forbes.net,REJECT
 HOST-SUFFIX,ads.formit.cz,REJECT
-HOST-SUFFIX,ads.fortunecity.com,REJECT
 HOST-SUFFIX,ads.fotosidan.se,REJECT
 HOST-SUFFIX,ads.friendfinder.com,REJECT
 HOST-SUFFIX,ads.gamecity.net,REJECT
@@ -462,6 +462,7 @@ HOST-SUFFIX,ads.lesbianpersonals.com,REJECT
 HOST-SUFFIX,ads.liberte.pl,REJECT
 HOST-SUFFIX,ads.linkedin.com,REJECT
 HOST-SUFFIX,ads.livenation.com,REJECT
+HOST-SUFFIX,ads.locksecures.com,REJECT
 HOST-SUFFIX,ads.lzjl.com,REJECT
 HOST-SUFFIX,ads.ma7.tv,REJECT
 HOST-SUFFIX,ads.mail.bg,REJECT
@@ -687,7 +688,6 @@ HOST-SUFFIX,adservrs.com,REJECT
 HOST-SUFFIX,adservrs.com.edgekey.net,REJECT
 HOST-SUFFIX,adsfac.eu,REJECT
 HOST-SUFFIX,adsfac.net,REJECT
-HOST-SUFFIX,adsflowprime.top,REJECT
 HOST-SUFFIX,adshrink.it,REJECT
 HOST-SUFFIX,adside.com,REJECT
 HOST-SUFFIX,adsiduous.com,REJECT
@@ -1015,7 +1015,6 @@ HOST-SUFFIX,bannerserver.com,REJECT
 HOST-SUFFIX,bannersng.yell.com,REJECT
 HOST-SUFFIX,bannerspace.com,REJECT
 HOST-SUFFIX,bannerswap.com,REJECT
-HOST-SUFFIX,bannertrack.net,REJECT
 HOST-SUFFIX,bannery.cz,REJECT
 HOST-SUFFIX,bannieres.wdmedia.net,REJECT
 HOST-SUFFIX,bans.bride.ru,REJECT
@@ -1272,7 +1271,6 @@ HOST-SUFFIX,clickboothlnk.com,REJECT
 HOST-SUFFIX,clickbrokers.com,REJECT
 HOST-SUFFIX,clickcease.com,REJECT
 HOST-SUFFIX,clickdensity.com,REJECT
-HOST-SUFFIX,clickedyclick.com,REJECT
 HOST-SUFFIX,clickfuse.com,REJECT
 HOST-SUFFIX,clickhereforcellphones.com,REJECT
 HOST-SUFFIX,clickngo.top,REJECT
@@ -1468,6 +1466,7 @@ HOST-SUFFIX,detectdiscovery.com,REJECT
 HOST-SUFFIX,dev.visualwebsiteoptimizer.com,REJECT
 HOST-SUFFIX,dewdroplagoon.com,REJECT
 HOST-SUFFIX,dianomi.com,REJECT
+HOST-SUFFIX,dicecandies.com,REJECT
 HOST-SUFFIX,didtheyreadit.com,REJECT
 HOST-SUFFIX,digestiondrawer.com,REJECT
 HOST-SUFFIX,digital-ads.s3.amazonaws.com,REJECT
@@ -2098,6 +2097,7 @@ HOST-SUFFIX,liveadexchanger.com,REJECT
 HOST-SUFFIX,liveintent.com,REJECT
 HOST-SUFFIX,livelylaugh.com,REJECT
 HOST-SUFFIX,liverail.com,REJECT
+HOST-SUFFIX,livetrafficfeed.com,REJECT
 HOST-SUFFIX,livingsleet.com,REJECT
 HOST-SUFFIX,lizardslaugh.com,REJECT
 HOST-SUFFIX,lkqd.com,REJECT
@@ -2139,7 +2139,6 @@ HOST-SUFFIX,madcpms.com,REJECT
 HOST-SUFFIX,madinad.com,REJECT
 HOST-SUFFIX,madisonavenue.com,REJECT
 HOST-SUFFIX,madvertise.de,REJECT
-HOST-SUFFIX,magicadz.co,REJECT
 HOST-SUFFIX,magicaljoin.com,REJECT
 HOST-SUFFIX,magnetise.io,REJECT
 HOST-SUFFIX,magsrv.com,REJECT
@@ -2382,7 +2381,6 @@ HOST-SUFFIX,oas.roanoke.com,REJECT
 HOST-SUFFIX,oas.toronto.com,REJECT
 HOST-SUFFIX,oas.uniontrib.com,REJECT
 HOST-SUFFIX,oascentral.chicagobusiness.com,REJECT
-HOST-SUFFIX,oascentral.fortunecity.com,REJECT
 HOST-SUFFIX,oascentral.register.com,REJECT
 HOST-SUFFIX,objecthero.com,REJECT
 HOST-SUFFIX,obs.sd4823.spglobal.com,REJECT
@@ -2639,6 +2637,7 @@ HOST-SUFFIX,pureclarity.net,REJECT
 HOST-SUFFIX,pushengage.com,REJECT
 HOST-SUFFIX,pushno.com,REJECT
 HOST-SUFFIX,pushtrack.co,REJECT
+HOST-SUFFIX,pushub.net,REJECT
 HOST-SUFFIX,px.dynamicyield.com,REJECT
 HOST-SUFFIX,px.gfycat.com,REJECT
 HOST-SUFFIX,px.mountain.com,REJECT
@@ -3027,6 +3026,7 @@ HOST-SUFFIX,stats.pusher.com,REJECT
 HOST-SUFFIX,stats.rdphv.net,REJECT
 HOST-SUFFIX,stats.self.com,REJECT
 HOST-SUFFIX,stats.stb-ottow.de,REJECT
+HOST-SUFFIX,stats.topofblogs.com,REJECT
 HOST-SUFFIX,stats.townnews.com,REJECT
 HOST-SUFFIX,stats.wordpress.com,REJECT
 HOST-SUFFIX,stats.wp.com,REJECT
@@ -3370,7 +3370,6 @@ HOST-SUFFIX,url9467.comms-2.zoopla.co.uk,REJECT
 HOST-SUFFIX,urlcash.net,REJECT
 HOST-SUFFIX,us.a1.yimg.com,REJECT
 HOST-SUFFIX,userreplay.com,REJECT
-HOST-SUFFIX,users.maxcluster.net,REJECT
 HOST-SUFFIX,utils.mediageneral.net,REJECT
 HOST-SUFFIX,utl-1.com,REJECT
 HOST-SUFFIX,uu.domainforlite.com,REJECT
