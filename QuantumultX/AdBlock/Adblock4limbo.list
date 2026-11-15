@@ -277,6 +277,8 @@ HOST-SUFFIX,7tad.cn,REJECT
 HOST-SUFFIX,9e77b6e6e2.2e3f31faae.com,REJECT
 HOST-SUFFIX,a.adforcast.com,REJECT
 HOST-SUFFIX,a.bestcontentfood.top,REJECT
+HOST-SUFFIX,a.magsrv.com,REJECT
+HOST-SUFFIX,a.pemsrv.com,REJECT
 HOST-SUFFIX,a.realsrv.com,REJECT
 HOST-SUFFIX,a.shukriya90.com,REJECT
 HOST-SUFFIX,ad-nex.com,REJECT
@@ -410,6 +412,7 @@ HOST-SUFFIX,iycwl.com,REJECT
 HOST-SUFFIX,jads.co,REJECT
 HOST-SUFFIX,jianxinshanghai.com,REJECT
 HOST-SUFFIX,jidukeji.com,REJECT
+HOST-SUFFIX,jitrivppyz.in,REJECT
 HOST-SUFFIX,jknmthwd.xyz,REJECT
 HOST-SUFFIX,js.51toubu.com,REJECT
 HOST-SUFFIX,js.capndr.com,REJECT
