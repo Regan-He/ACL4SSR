@@ -15,7 +15,6 @@ HOST-KEYWORD,dwtrack,🛑 全球拦截
 HOST-KEYWORD,guanggao,🛑 全球拦截
 HOST-KEYWORD,omgmta,🛑 全球拦截
 HOST-KEYWORD,omniture,🛑 全球拦截
-HOST-KEYWORD,openx,🛑 全球拦截
 HOST-KEYWORD,partnerad,🛑 全球拦截
 HOST-KEYWORD,pingfore,🛑 全球拦截
 HOST-KEYWORD,socdm,🛑 全球拦截
@@ -411,6 +410,9 @@ HOST-SUFFIX,o2omobi.com,🛑 全球拦截
 HOST-SUFFIX,oadz.com,🛑 全球拦截
 HOST-SUFFIX,oneapm.com,🛑 全球拦截
 HOST-SUFFIX,onetad.com,🛑 全球拦截
+HOST-SUFFIX,openx.net,🛑 全球拦截
+HOST-SUFFIX,openxenterprise.com,🛑 全球拦截
+HOST-SUFFIX,openxmarket.asia,🛑 全球拦截
 HOST-SUFFIX,optaim.com,🛑 全球拦截
 HOST-SUFFIX,optimix.asia,🛑 全球拦截
 HOST-SUFFIX,optimix.cn,🛑 全球拦截
